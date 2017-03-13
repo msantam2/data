@@ -1,0 +1,9681 @@
+[
+{
+"client_id": 1,
+"client_name": "Moen, Hickle and Stehr",
+"products": [
+{
+"product_id": 1,
+"product_name": "Ergonomic Cotton Keyboard",
+"product_asin": "cfq35yoyh64i",
+"product_image_url": "https://unsplash.it/310/676",
+"keywords": [
+{},
+{
+"keyword_id": 2,
+"keyword_name": "autem",
+"keyword_country": "PW",
+"ranks": [
+{
+"rank_id": 6,
+"rank_position": 90,
+"rank_page": 1,
+"rank_date": "2016-12-02"
+},
+{
+"rank_id": 7,
+"rank_position": 330,
+"rank_page": 17,
+"rank_date": "2016-09-14"
+},
+{
+"rank_id": 8,
+"rank_position": 341,
+"rank_page": 9,
+"rank_date": "2016-10-03"
+},
+{
+"rank_id": 9,
+"rank_position": 129,
+"rank_page": 12,
+"rank_date": "2017-01-22"
+}
+]
+}
+]
+},
+{
+"product_id": 2,
+"product_name": "Small Bronze Shirt",
+"product_asin": "7cb60wolk699",
+"product_image_url": "https://unsplash.it/436/738",
+"keywords": [
+{
+"keyword_id": 3,
+"keyword_name": "voluptatem",
+"keyword_country": "UM",
+"ranks": [
+{
+"rank_id": 10,
+"rank_position": 9,
+"rank_page": 6,
+"rank_date": "2016-03-14"
+},
+{
+"rank_id": 11,
+"rank_position": 88,
+"rank_page": 9,
+"rank_date": "2016-05-27"
+},
+{
+"rank_id": 12,
+"rank_position": 307,
+"rank_page": 1,
+"rank_date": "2016-10-28"
+},
+{
+"rank_id": 13,
+"rank_position": 223,
+"rank_page": 14,
+"rank_date": "2016-12-26"
+},
+{
+"rank_id": 14,
+"rank_position": 384,
+"rank_page": 12,
+"rank_date": "2016-02-29"
+},
+{
+"rank_id": 15,
+"rank_position": 366,
+"rank_page": 11,
+"rank_date": "2016-09-30"
+},
+{
+"rank_id": 16,
+"rank_position": 164,
+"rank_page": 18,
+"rank_date": "2016-11-20"
+},
+{
+"rank_id": 17,
+"rank_position": 259,
+"rank_page": 17,
+"rank_date": "2016-07-24"
+},
+{
+"rank_id": 18,
+"rank_position": 82,
+"rank_page": 9,
+"rank_date": "2016-10-13"
+},
+{
+"rank_id": 19,
+"rank_position": 81,
+"rank_page": 3,
+"rank_date": "2016-08-01"
+},
+{
+"rank_id": 20,
+"rank_position": 258,
+"rank_page": 10,
+"rank_date": "2016-05-31"
+},
+{
+"rank_id": 21,
+"rank_position": 195,
+"rank_page": 10,
+"rank_date": "2016-10-31"
+},
+{
+"rank_id": 22,
+"rank_position": 46,
+"rank_page": 10,
+"rank_date": "2017-01-24"
+},
+{
+"rank_id": 23,
+"rank_position": 353,
+"rank_page": 13,
+"rank_date": "2016-09-30"
+},
+{
+"rank_id": 24,
+"rank_position": 378,
+"rank_page": 3,
+"rank_date": "2016-08-16"
+},
+{
+"rank_id": 25,
+"rank_position": 243,
+"rank_page": 7,
+"rank_date": "2016-12-19"
+},
+{
+"rank_id": 26,
+"rank_position": 167,
+"rank_page": 7,
+"rank_date": "2016-09-29"
+},
+{
+"rank_id": 27,
+"rank_position": 37,
+"rank_page": 17,
+"rank_date": "2017-01-04"
+},
+{
+"rank_id": 28,
+"rank_position": 155,
+"rank_page": 4,
+"rank_date": "2016-05-09"
+},
+{
+"rank_id": 29,
+"rank_position": 152,
+"rank_page": 3,
+"rank_date": "2016-07-14"
+}
+]
+},
+{
+"keyword_id": 4,
+"keyword_name": "impedit",
+"keyword_country": "TW",
+"ranks": [
+{
+"rank_id": 30,
+"rank_position": 197,
+"rank_page": 17,
+"rank_date": "2016-10-03"
+},
+{
+"rank_id": 31,
+"rank_position": 381,
+"rank_page": 18,
+"rank_date": "2016-08-24"
+},
+{
+"rank_id": 32,
+"rank_position": 150,
+"rank_page": 14,
+"rank_date": "2017-01-31"
+},
+{
+"rank_id": 33,
+"rank_position": 372,
+"rank_page": 18,
+"rank_date": "2016-07-05"
+},
+{
+"rank_id": 34,
+"rank_position": 133,
+"rank_page": 3,
+"rank_date": "2016-12-20"
+},
+{
+"rank_id": 35,
+"rank_position": 67,
+"rank_page": 18,
+"rank_date": "2016-05-19"
+},
+{
+"rank_id": 36,
+"rank_position": 54,
+"rank_page": 7,
+"rank_date": "2016-09-23"
+},
+{
+"rank_id": 37,
+"rank_position": 326,
+"rank_page": 2,
+"rank_date": "2016-08-07"
+},
+{
+"rank_id": 38,
+"rank_position": 386,
+"rank_page": 18,
+"rank_date": "2016-05-25"
+},
+{
+"rank_id": 39,
+"rank_position": 122,
+"rank_page": 3,
+"rank_date": "2016-04-27"
+},
+{
+"rank_id": 40,
+"rank_position": 103,
+"rank_page": 12,
+"rank_date": "2016-12-12"
+},
+{
+"rank_id": 41,
+"rank_position": 86,
+"rank_page": 8,
+"rank_date": "2016-07-10"
+},
+{
+"rank_id": 42,
+"rank_position": 300,
+"rank_page": 3,
+"rank_date": "2016-02-27"
+},
+{
+"rank_id": 43,
+"rank_position": 128,
+"rank_page": 12,
+"rank_date": "2016-07-02"
+},
+{
+"rank_id": 44,
+"rank_position": 376,
+"rank_page": 7,
+"rank_date": "2016-03-17"
+},
+{
+"rank_id": 45,
+"rank_position": 104,
+"rank_page": 17,
+"rank_date": "2016-10-16"
+},
+{
+"rank_id": 46,
+"rank_position": 279,
+"rank_page": 20,
+"rank_date": "2016-07-16"
+},
+{
+"rank_id": 47,
+"rank_position": 80,
+"rank_page": 15,
+"rank_date": "2016-02-15"
+},
+{
+"rank_id": 48,
+"rank_position": 213,
+"rank_page": 6,
+"rank_date": "2017-01-13"
+},
+{
+"rank_id": 49,
+"rank_position": 213,
+"rank_page": 20,
+"rank_date": "2016-07-09"
+}
+]
+},
+{
+"keyword_id": 5,
+"keyword_name": "minima",
+"keyword_country": "BJ",
+"ranks": [
+{
+"rank_id": 50,
+"rank_position": 270,
+"rank_page": 17,
+"rank_date": "2016-11-20"
+},
+{
+"rank_id": 51,
+"rank_position": 169,
+"rank_page": 3,
+"rank_date": "2016-12-02"
+},
+{
+"rank_id": 52,
+"rank_position": 370,
+"rank_page": 3,
+"rank_date": "2016-02-13"
+},
+{
+"rank_id": 53,
+"rank_position": 59,
+"rank_page": 6,
+"rank_date": "2016-10-20"
+},
+{
+"rank_id": 54,
+"rank_position": 387,
+"rank_page": 7,
+"rank_date": "2016-04-09"
+},
+{
+"rank_id": 55,
+"rank_position": 117,
+"rank_page": 1,
+"rank_date": "2016-11-27"
+},
+{
+"rank_id": 56,
+"rank_position": 81,
+"rank_page": 20,
+"rank_date": "2016-02-27"
+},
+{
+"rank_id": 57,
+"rank_position": 354,
+"rank_page": 10,
+"rank_date": "2016-04-06"
+},
+{
+"rank_id": 58,
+"rank_position": 281,
+"rank_page": 8,
+"rank_date": "2016-05-21"
+},
+{
+"rank_id": 59,
+"rank_position": 128,
+"rank_page": 10,
+"rank_date": "2016-03-27"
+},
+{
+"rank_id": 60,
+"rank_position": 226,
+"rank_page": 9,
+"rank_date": "2016-10-29"
+},
+{
+"rank_id": 61,
+"rank_position": 39,
+"rank_page": 15,
+"rank_date": "2016-03-31"
+},
+{
+"rank_id": 62,
+"rank_position": 100,
+"rank_page": 3,
+"rank_date": "2016-12-25"
+},
+{
+"rank_id": 63,
+"rank_position": 53,
+"rank_page": 9,
+"rank_date": "2016-12-09"
+},
+{
+"rank_id": 64,
+"rank_position": 54,
+"rank_page": 3,
+"rank_date": "2016-03-23"
+}
+]
+}
+]
+},
+{
+"product_id": 3,
+"product_name": "Fantastic Steel Watch",
+"product_asin": "urz2xuol8m7o",
+"product_image_url": "https://unsplash.it/269/508",
+"keywords": [
+{
+"keyword_id": 6,
+"keyword_name": "et",
+"keyword_country": "TC",
+"ranks": [
+{
+"rank_id": 65,
+"rank_position": 396,
+"rank_page": 14,
+"rank_date": "2016-08-30"
+},
+{
+"rank_id": 66,
+"rank_position": 349,
+"rank_page": 19,
+"rank_date": "2016-09-08"
+},
+{
+"rank_id": 67,
+"rank_position": 318,
+"rank_page": 11,
+"rank_date": "2016-05-04"
+},
+{
+"rank_id": 68,
+"rank_position": 327,
+"rank_page": 9,
+"rank_date": "2016-03-22"
+},
+{
+"rank_id": 69,
+"rank_position": 50,
+"rank_page": 15,
+"rank_date": "2017-01-10"
+},
+{
+"rank_id": 70,
+"rank_position": 306,
+"rank_page": 12,
+"rank_date": "2016-11-29"
+},
+{
+"rank_id": 71,
+"rank_position": 221,
+"rank_page": 15,
+"rank_date": "2016-02-08"
+},
+{
+"rank_id": 72,
+"rank_position": 312,
+"rank_page": 8,
+"rank_date": "2016-12-19"
+},
+{
+"rank_id": 73,
+"rank_position": 236,
+"rank_page": 11,
+"rank_date": "2016-03-13"
+},
+{
+"rank_id": 74,
+"rank_position": 292,
+"rank_page": 15,
+"rank_date": "2016-04-03"
+},
+{
+"rank_id": 75,
+"rank_position": 222,
+"rank_page": 5,
+"rank_date": "2016-10-28"
+},
+{
+"rank_id": 76,
+"rank_position": 346,
+"rank_page": 17,
+"rank_date": "2016-08-12"
+},
+{
+"rank_id": 77,
+"rank_position": 105,
+"rank_page": 1,
+"rank_date": "2016-04-27"
+},
+{
+"rank_id": 78,
+"rank_position": 63,
+"rank_page": 5,
+"rank_date": "2016-06-02"
+},
+{
+"rank_id": 79,
+"rank_position": 19,
+"rank_page": 20,
+"rank_date": "2016-12-19"
+}
+]
+}
+]
+},
+{
+"product_id": 4,
+"product_name": "Intelligent Marble Computer",
+"product_asin": "dn3jsnhcx7hg",
+"product_image_url": "https://unsplash.it/492/408",
+"keywords": [
+{
+"keyword_id": 7,
+"keyword_name": "et",
+"keyword_country": "VE",
+"ranks": [
+{
+"rank_id": 80,
+"rank_position": 63,
+"rank_page": 7,
+"rank_date": "2016-04-11"
+},
+{
+"rank_id": 81,
+"rank_position": 160,
+"rank_page": 17,
+"rank_date": "2016-12-26"
+},
+{
+"rank_id": 82,
+"rank_position": 345,
+"rank_page": 7,
+"rank_date": "2016-08-21"
+},
+{
+"rank_id": 83,
+"rank_position": 310,
+"rank_page": 18,
+"rank_date": "2016-08-01"
+},
+{
+"rank_id": 84,
+"rank_position": 377,
+"rank_page": 10,
+"rank_date": "2016-12-15"
+},
+{
+"rank_id": 85,
+"rank_position": 372,
+"rank_page": 6,
+"rank_date": "2016-03-16"
+},
+{
+"rank_id": 86,
+"rank_position": 246,
+"rank_page": 1,
+"rank_date": "2016-02-26"
+},
+{
+"rank_id": 87,
+"rank_position": 206,
+"rank_page": 15,
+"rank_date": "2016-11-12"
+},
+{
+"rank_id": 88,
+"rank_position": 365,
+"rank_page": 20,
+"rank_date": "2016-02-04"
+},
+{
+"rank_id": 89,
+"rank_position": 90,
+"rank_page": 12,
+"rank_date": "2016-02-29"
+},
+{
+"rank_id": 90,
+"rank_position": 114,
+"rank_page": 15,
+"rank_date": "2016-08-29"
+},
+{
+"rank_id": 91,
+"rank_position": 326,
+"rank_page": 7,
+"rank_date": "2016-08-23"
+},
+{
+"rank_id": 92,
+"rank_position": 136,
+"rank_page": 12,
+"rank_date": "2016-03-13"
+},
+{
+"rank_id": 93,
+"rank_position": 318,
+"rank_page": 2,
+"rank_date": "2016-04-21"
+},
+{
+"rank_id": 94,
+"rank_position": 146,
+"rank_page": 17,
+"rank_date": "2016-06-09"
+},
+{
+"rank_id": 95,
+"rank_position": 184,
+"rank_page": 17,
+"rank_date": "2016-11-26"
+},
+{
+"rank_id": 96,
+"rank_position": 348,
+"rank_page": 5,
+"rank_date": "2017-01-17"
+},
+{
+"rank_id": 97,
+"rank_position": 184,
+"rank_page": 19,
+"rank_date": "2016-08-06"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 2,
+"client_name": "Gulgowski, Hermiston and Kemmer",
+"products": [
+{
+"product_id": 5,
+"product_name": "Rustic Steel Shoes",
+"product_asin": "l2rtkpxsuy1p",
+"product_image_url": "https://unsplash.it/718/203",
+"keywords": [
+{
+"keyword_id": 8,
+"keyword_name": "officiis",
+"keyword_country": "MF",
+"ranks": [
+{
+"rank_id": 98,
+"rank_position": 2,
+"rank_page": 8,
+"rank_date": "2016-07-18"
+},
+{
+"rank_id": 99,
+"rank_position": 264,
+"rank_page": 12,
+"rank_date": "2016-12-20"
+},
+{
+"rank_id": 100,
+"rank_position": 365,
+"rank_page": 6,
+"rank_date": "2016-08-17"
+},
+{
+"rank_id": 101,
+"rank_position": 30,
+"rank_page": 6,
+"rank_date": "2016-03-22"
+},
+{
+"rank_id": 102,
+"rank_position": 5,
+"rank_page": 3,
+"rank_date": "2016-10-15"
+},
+{
+"rank_id": 103,
+"rank_position": 386,
+"rank_page": 6,
+"rank_date": "2016-03-02"
+}
+]
+},
+{
+"keyword_id": 9,
+"keyword_name": "qui",
+"keyword_country": "PW",
+"ranks": [
+{
+"rank_id": 104,
+"rank_position": 335,
+"rank_page": 11,
+"rank_date": "2016-02-05"
+},
+{
+"rank_id": 105,
+"rank_position": 307,
+"rank_page": 14,
+"rank_date": "2016-10-03"
+},
+{
+"rank_id": 106,
+"rank_position": 151,
+"rank_page": 4,
+"rank_date": "2016-08-09"
+},
+{
+"rank_id": 107,
+"rank_position": 23,
+"rank_page": 7,
+"rank_date": "2016-02-17"
+},
+{
+"rank_id": 108,
+"rank_position": 252,
+"rank_page": 12,
+"rank_date": "2016-03-27"
+},
+{
+"rank_id": 109,
+"rank_position": 79,
+"rank_page": 7,
+"rank_date": "2016-11-02"
+},
+{
+"rank_id": 110,
+"rank_position": 29,
+"rank_page": 17,
+"rank_date": "2016-05-10"
+},
+{
+"rank_id": 111,
+"rank_position": 293,
+"rank_page": 5,
+"rank_date": "2016-10-10"
+},
+{
+"rank_id": 112,
+"rank_position": 12,
+"rank_page": 16,
+"rank_date": "2016-06-11"
+},
+{
+"rank_id": 113,
+"rank_position": 388,
+"rank_page": 18,
+"rank_date": "2016-10-03"
+},
+{
+"rank_id": 114,
+"rank_position": 360,
+"rank_page": 13,
+"rank_date": "2017-01-20"
+},
+{
+"rank_id": 115,
+"rank_position": 85,
+"rank_page": 17,
+"rank_date": "2016-09-09"
+},
+{
+"rank_id": 116,
+"rank_position": 261,
+"rank_page": 10,
+"rank_date": "2016-08-31"
+},
+{
+"rank_id": 117,
+"rank_position": 216,
+"rank_page": 13,
+"rank_date": "2017-01-07"
+},
+{
+"rank_id": 118,
+"rank_position": 74,
+"rank_page": 6,
+"rank_date": "2016-08-19"
+},
+{
+"rank_id": 119,
+"rank_position": 217,
+"rank_page": 7,
+"rank_date": "2016-10-16"
+},
+{
+"rank_id": 120,
+"rank_position": 217,
+"rank_page": 4,
+"rank_date": "2016-06-18"
+}
+]
+},
+{
+"keyword_id": 10,
+"keyword_name": "maxime",
+"keyword_country": "CA",
+"ranks": [
+{
+"rank_id": 121,
+"rank_position": 176,
+"rank_page": 14,
+"rank_date": "2016-05-25"
+},
+{
+"rank_id": 122,
+"rank_position": 25,
+"rank_page": 2,
+"rank_date": "2016-12-29"
+},
+{
+"rank_id": 123,
+"rank_position": 289,
+"rank_page": 19,
+"rank_date": "2016-10-16"
+},
+{
+"rank_id": 124,
+"rank_position": 270,
+"rank_page": 8,
+"rank_date": "2017-01-01"
+}
+]
+},
+{
+"keyword_id": 11,
+"keyword_name": "optio",
+"keyword_country": "BY",
+"ranks": [
+{
+"rank_id": 125,
+"rank_position": 91,
+"rank_page": 14,
+"rank_date": "2016-09-22"
+},
+{
+"rank_id": 126,
+"rank_position": 258,
+"rank_page": 13,
+"rank_date": "2016-03-20"
+},
+{
+"rank_id": 127,
+"rank_position": 275,
+"rank_page": 20,
+"rank_date": "2016-11-22"
+},
+{
+"rank_id": 128,
+"rank_position": 285,
+"rank_page": 19,
+"rank_date": "2016-06-22"
+},
+{
+"rank_id": 129,
+"rank_position": 106,
+"rank_page": 5,
+"rank_date": "2016-10-26"
+},
+{
+"rank_id": 130,
+"rank_position": 373,
+"rank_page": 10,
+"rank_date": "2016-04-26"
+},
+{
+"rank_id": 131,
+"rank_position": 243,
+"rank_page": 20,
+"rank_date": "2017-01-23"
+},
+{
+"rank_id": 132,
+"rank_position": 106,
+"rank_page": 13,
+"rank_date": "2016-08-23"
+},
+{
+"rank_id": 133,
+"rank_position": 57,
+"rank_page": 11,
+"rank_date": "2016-10-09"
+},
+{
+"rank_id": 134,
+"rank_position": 33,
+"rank_page": 15,
+"rank_date": "2016-07-28"
+},
+{
+"rank_id": 135,
+"rank_position": 400,
+"rank_page": 11,
+"rank_date": "2016-02-15"
+},
+{
+"rank_id": 136,
+"rank_position": 52,
+"rank_page": 5,
+"rank_date": "2016-08-03"
+},
+{
+"rank_id": 137,
+"rank_position": 261,
+"rank_page": 18,
+"rank_date": "2016-12-06"
+},
+{
+"rank_id": 138,
+"rank_position": 11,
+"rank_page": 6,
+"rank_date": "2016-04-19"
+},
+{
+"rank_id": 139,
+"rank_position": 4,
+"rank_page": 4,
+"rank_date": "2016-07-25"
+},
+{
+"rank_id": 140,
+"rank_position": 209,
+"rank_page": 8,
+"rank_date": "2016-07-25"
+},
+{
+"rank_id": 141,
+"rank_position": 73,
+"rank_page": 5,
+"rank_date": "2016-10-22"
+},
+{
+"rank_id": 142,
+"rank_position": 234,
+"rank_page": 20,
+"rank_date": "2016-04-03"
+},
+{
+"rank_id": 143,
+"rank_position": 316,
+"rank_page": 13,
+"rank_date": "2016-10-11"
+},
+{
+"rank_id": 144,
+"rank_position": 143,
+"rank_page": 18,
+"rank_date": "2016-07-17"
+}
+]
+}
+]
+},
+{
+"product_id": 6,
+"product_name": "Aerodynamic Plastic Knife",
+"product_asin": "8pfqzgdcw662",
+"product_image_url": "https://unsplash.it/394/336",
+"keywords": [
+{
+"keyword_id": 12,
+"keyword_name": "praesentium",
+"keyword_country": "MH",
+"ranks": [
+{
+"rank_id": 145,
+"rank_position": 275,
+"rank_page": 12,
+"rank_date": "2016-02-10"
+},
+{
+"rank_id": 146,
+"rank_position": 171,
+"rank_page": 19,
+"rank_date": "2016-08-21"
+},
+{
+"rank_id": 147,
+"rank_position": 176,
+"rank_page": 8,
+"rank_date": "2016-04-01"
+},
+{
+"rank_id": 148,
+"rank_position": 96,
+"rank_page": 16,
+"rank_date": "2016-10-18"
+},
+{
+"rank_id": 149,
+"rank_position": 396,
+"rank_page": 5,
+"rank_date": "2016-04-10"
+},
+{
+"rank_id": 150,
+"rank_position": 235,
+"rank_page": 4,
+"rank_date": "2016-04-19"
+},
+{
+"rank_id": 151,
+"rank_position": 84,
+"rank_page": 10,
+"rank_date": "2016-05-16"
+},
+{
+"rank_id": 152,
+"rank_position": 329,
+"rank_page": 11,
+"rank_date": "2016-02-22"
+},
+{
+"rank_id": 153,
+"rank_position": 93,
+"rank_page": 13,
+"rank_date": "2016-02-10"
+},
+{
+"rank_id": 154,
+"rank_position": 221,
+"rank_page": 18,
+"rank_date": "2016-11-23"
+},
+{
+"rank_id": 155,
+"rank_position": 261,
+"rank_page": 2,
+"rank_date": "2016-05-27"
+},
+{
+"rank_id": 156,
+"rank_position": 118,
+"rank_page": 10,
+"rank_date": "2016-10-07"
+},
+{
+"rank_id": 157,
+"rank_position": 38,
+"rank_page": 12,
+"rank_date": "2016-10-28"
+},
+{
+"rank_id": 158,
+"rank_position": 16,
+"rank_page": 1,
+"rank_date": "2016-02-20"
+},
+{
+"rank_id": 159,
+"rank_position": 199,
+"rank_page": 14,
+"rank_date": "2016-03-30"
+},
+{
+"rank_id": 160,
+"rank_position": 249,
+"rank_page": 12,
+"rank_date": "2016-07-10"
+},
+{
+"rank_id": 161,
+"rank_position": 147,
+"rank_page": 16,
+"rank_date": "2017-01-07"
+},
+{
+"rank_id": 162,
+"rank_position": 55,
+"rank_page": 9,
+"rank_date": "2016-06-01"
+},
+{
+"rank_id": 163,
+"rank_position": 23,
+"rank_page": 2,
+"rank_date": "2016-04-08"
+},
+{
+"rank_id": 164,
+"rank_position": 165,
+"rank_page": 13,
+"rank_date": "2016-02-10"
+}
+]
+},
+{
+"keyword_id": 13,
+"keyword_name": "inventore",
+"keyword_country": "GY",
+"ranks": [
+{
+"rank_id": 165,
+"rank_position": 172,
+"rank_page": 19,
+"rank_date": "2016-09-24"
+},
+{
+"rank_id": 166,
+"rank_position": 208,
+"rank_page": 7,
+"rank_date": "2017-01-01"
+},
+{
+"rank_id": 167,
+"rank_position": 12,
+"rank_page": 15,
+"rank_date": "2016-12-07"
+},
+{
+"rank_id": 168,
+"rank_position": 43,
+"rank_page": 13,
+"rank_date": "2016-09-04"
+},
+{
+"rank_id": 169,
+"rank_position": 66,
+"rank_page": 16,
+"rank_date": "2016-09-11"
+},
+{
+"rank_id": 170,
+"rank_position": 270,
+"rank_page": 12,
+"rank_date": "2016-11-23"
+},
+{
+"rank_id": 171,
+"rank_position": 205,
+"rank_page": 17,
+"rank_date": "2016-11-10"
+},
+{
+"rank_id": 172,
+"rank_position": 41,
+"rank_page": 9,
+"rank_date": "2016-08-25"
+},
+{
+"rank_id": 173,
+"rank_position": 333,
+"rank_page": 10,
+"rank_date": "2016-12-18"
+},
+{
+"rank_id": 174,
+"rank_position": 148,
+"rank_page": 11,
+"rank_date": "2016-04-23"
+},
+{
+"rank_id": 175,
+"rank_position": 312,
+"rank_page": 15,
+"rank_date": "2016-10-05"
+},
+{
+"rank_id": 176,
+"rank_position": 63,
+"rank_page": 3,
+"rank_date": "2016-06-21"
+},
+{
+"rank_id": 177,
+"rank_position": 21,
+"rank_page": 6,
+"rank_date": "2016-09-21"
+},
+{
+"rank_id": 178,
+"rank_position": 380,
+"rank_page": 20,
+"rank_date": "2016-04-24"
+},
+{
+"rank_id": 179,
+"rank_position": 388,
+"rank_page": 7,
+"rank_date": "2016-11-29"
+},
+{
+"rank_id": 180,
+"rank_position": 225,
+"rank_page": 2,
+"rank_date": "2016-08-10"
+},
+{
+"rank_id": 181,
+"rank_position": 279,
+"rank_page": 7,
+"rank_date": "2016-07-04"
+},
+{
+"rank_id": 182,
+"rank_position": 396,
+"rank_page": 17,
+"rank_date": "2016-12-08"
+}
+]
+},
+{
+"keyword_id": 14,
+"keyword_name": "quo",
+"keyword_country": "ML",
+"ranks": [
+{
+"rank_id": 183,
+"rank_position": 4,
+"rank_page": 15,
+"rank_date": "2016-11-17"
+},
+{
+"rank_id": 184,
+"rank_position": 264,
+"rank_page": 19,
+"rank_date": "2016-08-29"
+},
+{
+"rank_id": 185,
+"rank_position": 170,
+"rank_page": 15,
+"rank_date": "2016-07-21"
+},
+{
+"rank_id": 186,
+"rank_position": 322,
+"rank_page": 10,
+"rank_date": "2016-04-09"
+}
+]
+}
+]
+},
+{
+"product_id": 7,
+"product_name": "Heavy Duty Concrete Pants",
+"product_asin": "k8no1lccgaee",
+"product_image_url": "https://unsplash.it/498/562",
+"keywords": [
+{
+"keyword_id": 15,
+"keyword_name": "atque",
+"keyword_country": "PA",
+"ranks": [
+{
+"rank_id": 187,
+"rank_position": 113,
+"rank_page": 4,
+"rank_date": "2017-02-02"
+},
+{
+"rank_id": 188,
+"rank_position": 314,
+"rank_page": 5,
+"rank_date": "2016-02-07"
+},
+{
+"rank_id": 189,
+"rank_position": 363,
+"rank_page": 4,
+"rank_date": "2016-06-29"
+},
+{
+"rank_id": 190,
+"rank_position": 378,
+"rank_page": 18,
+"rank_date": "2016-06-25"
+},
+{
+"rank_id": 191,
+"rank_position": 3,
+"rank_page": 17,
+"rank_date": "2016-04-05"
+},
+{
+"rank_id": 192,
+"rank_position": 119,
+"rank_page": 7,
+"rank_date": "2016-05-31"
+},
+{
+"rank_id": 193,
+"rank_position": 53,
+"rank_page": 11,
+"rank_date": "2016-10-28"
+},
+{
+"rank_id": 194,
+"rank_position": 23,
+"rank_page": 10,
+"rank_date": "2016-06-23"
+},
+{
+"rank_id": 195,
+"rank_position": 59,
+"rank_page": 20,
+"rank_date": "2016-02-17"
+},
+{
+"rank_id": 196,
+"rank_position": 8,
+"rank_page": 2,
+"rank_date": "2016-10-04"
+},
+{
+"rank_id": 197,
+"rank_position": 160,
+"rank_page": 10,
+"rank_date": "2016-08-05"
+},
+{
+"rank_id": 198,
+"rank_position": 216,
+"rank_page": 15,
+"rank_date": "2017-01-02"
+},
+{
+"rank_id": 199,
+"rank_position": 376,
+"rank_page": 13,
+"rank_date": "2016-10-11"
+},
+{
+"rank_id": 200,
+"rank_position": 328,
+"rank_page": 1,
+"rank_date": "2016-06-19"
+}
+]
+},
+{
+"keyword_id": 16,
+"keyword_name": "eos",
+"keyword_country": "BO",
+"ranks": [
+{
+"rank_id": 201,
+"rank_position": 181,
+"rank_page": 16,
+"rank_date": "2016-11-03"
+},
+{
+"rank_id": 202,
+"rank_position": 102,
+"rank_page": 18,
+"rank_date": "2016-06-18"
+},
+{
+"rank_id": 203,
+"rank_position": 198,
+"rank_page": 10,
+"rank_date": "2017-01-20"
+},
+{
+"rank_id": 204,
+"rank_position": 214,
+"rank_page": 1,
+"rank_date": "2016-05-12"
+},
+{
+"rank_id": 205,
+"rank_position": 124,
+"rank_page": 3,
+"rank_date": "2016-12-01"
+},
+{
+"rank_id": 206,
+"rank_position": 355,
+"rank_page": 10,
+"rank_date": "2016-11-29"
+},
+{
+"rank_id": 207,
+"rank_position": 240,
+"rank_page": 17,
+"rank_date": "2016-06-22"
+},
+{
+"rank_id": 208,
+"rank_position": 46,
+"rank_page": 18,
+"rank_date": "2016-12-26"
+},
+{
+"rank_id": 209,
+"rank_position": 185,
+"rank_page": 2,
+"rank_date": "2016-10-17"
+},
+{
+"rank_id": 210,
+"rank_position": 198,
+"rank_page": 10,
+"rank_date": "2016-11-20"
+},
+{
+"rank_id": 211,
+"rank_position": 11,
+"rank_page": 18,
+"rank_date": "2017-01-06"
+},
+{
+"rank_id": 212,
+"rank_position": 5,
+"rank_page": 3,
+"rank_date": "2016-07-30"
+},
+{
+"rank_id": 213,
+"rank_position": 24,
+"rank_page": 14,
+"rank_date": "2016-05-02"
+}
+]
+},
+{
+"keyword_id": 17,
+"keyword_name": "voluptatibus",
+"keyword_country": "GR",
+"ranks": [
+{
+"rank_id": 214,
+"rank_position": 237,
+"rank_page": 12,
+"rank_date": "2017-01-08"
+},
+{
+"rank_id": 215,
+"rank_position": 311,
+"rank_page": 15,
+"rank_date": "2016-02-10"
+},
+{
+"rank_id": 216,
+"rank_position": 100,
+"rank_page": 18,
+"rank_date": "2016-06-04"
+},
+{
+"rank_id": 217,
+"rank_position": 224,
+"rank_page": 9,
+"rank_date": "2016-06-07"
+},
+{
+"rank_id": 218,
+"rank_position": 331,
+"rank_page": 9,
+"rank_date": "2016-03-15"
+}
+]
+}
+]
+},
+{
+"product_id": 8,
+"product_name": "Intelligent Paper Lamp",
+"product_asin": "ptu0bj69g9aa",
+"product_image_url": "https://unsplash.it/217/283",
+"keywords": [
+{
+"keyword_id": 18,
+"keyword_name": "qui",
+"keyword_country": "VI",
+"ranks": [
+{
+"rank_id": 219,
+"rank_position": 205,
+"rank_page": 17,
+"rank_date": "2016-09-16"
+},
+{
+"rank_id": 220,
+"rank_position": 236,
+"rank_page": 8,
+"rank_date": "2016-06-16"
+},
+{
+"rank_id": 221,
+"rank_position": 313,
+"rank_page": 15,
+"rank_date": "2016-03-22"
+},
+{
+"rank_id": 222,
+"rank_position": 286,
+"rank_page": 14,
+"rank_date": "2016-07-29"
+},
+{
+"rank_id": 223,
+"rank_position": 116,
+"rank_page": 14,
+"rank_date": "2016-04-09"
+},
+{
+"rank_id": 224,
+"rank_position": 187,
+"rank_page": 12,
+"rank_date": "2016-04-21"
+},
+{
+"rank_id": 225,
+"rank_position": 235,
+"rank_page": 10,
+"rank_date": "2016-08-19"
+},
+{
+"rank_id": 226,
+"rank_position": 231,
+"rank_page": 10,
+"rank_date": "2016-11-11"
+},
+{
+"rank_id": 227,
+"rank_position": 67,
+"rank_page": 6,
+"rank_date": "2016-03-19"
+},
+{
+"rank_id": 228,
+"rank_position": 119,
+"rank_page": 12,
+"rank_date": "2016-03-24"
+},
+{
+"rank_id": 229,
+"rank_position": 16,
+"rank_page": 7,
+"rank_date": "2016-06-16"
+},
+{
+"rank_id": 230,
+"rank_position": 190,
+"rank_page": 10,
+"rank_date": "2017-01-16"
+},
+{
+"rank_id": 231,
+"rank_position": 179,
+"rank_page": 5,
+"rank_date": "2016-03-20"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 3,
+"client_name": "Goldner, Wintheiser and Borer",
+"products": [
+{
+"product_id": 9,
+"product_name": "Aerodynamic Aluminum Car",
+"product_asin": "kautfaqsnvgo",
+"product_image_url": "https://unsplash.it/436/594",
+"keywords": [
+{
+"keyword_id": 19,
+"keyword_name": "non",
+"keyword_country": "CM",
+"ranks": [
+{
+"rank_id": 232,
+"rank_position": 315,
+"rank_page": 6,
+"rank_date": "2016-07-09"
+},
+{
+"rank_id": 233,
+"rank_position": 357,
+"rank_page": 10,
+"rank_date": "2016-11-11"
+},
+{
+"rank_id": 234,
+"rank_position": 339,
+"rank_page": 17,
+"rank_date": "2016-10-07"
+},
+{
+"rank_id": 235,
+"rank_position": 290,
+"rank_page": 13,
+"rank_date": "2016-05-23"
+},
+{
+"rank_id": 236,
+"rank_position": 273,
+"rank_page": 19,
+"rank_date": "2016-10-04"
+},
+{
+"rank_id": 237,
+"rank_position": 128,
+"rank_page": 4,
+"rank_date": "2016-08-26"
+},
+{
+"rank_id": 238,
+"rank_position": 109,
+"rank_page": 6,
+"rank_date": "2017-01-11"
+},
+{
+"rank_id": 239,
+"rank_position": 139,
+"rank_page": 12,
+"rank_date": "2016-03-25"
+},
+{
+"rank_id": 240,
+"rank_position": 183,
+"rank_page": 19,
+"rank_date": "2016-12-14"
+},
+{
+"rank_id": 241,
+"rank_position": 321,
+"rank_page": 15,
+"rank_date": "2016-04-28"
+},
+{
+"rank_id": 242,
+"rank_position": 243,
+"rank_page": 3,
+"rank_date": "2016-06-08"
+},
+{
+"rank_id": 243,
+"rank_position": 318,
+"rank_page": 14,
+"rank_date": "2017-01-12"
+},
+{
+"rank_id": 244,
+"rank_position": 27,
+"rank_page": 13,
+"rank_date": "2017-01-26"
+},
+{
+"rank_id": 245,
+"rank_position": 162,
+"rank_page": 18,
+"rank_date": "2016-05-23"
+},
+{
+"rank_id": 246,
+"rank_position": 269,
+"rank_page": 16,
+"rank_date": "2017-01-27"
+},
+{
+"rank_id": 247,
+"rank_position": 139,
+"rank_page": 6,
+"rank_date": "2016-12-13"
+},
+{
+"rank_id": 248,
+"rank_position": 391,
+"rank_page": 19,
+"rank_date": "2016-03-04"
+},
+{
+"rank_id": 249,
+"rank_position": 199,
+"rank_page": 1,
+"rank_date": "2016-03-11"
+}
+]
+},
+{
+"keyword_id": 20,
+"keyword_name": "explicabo",
+"keyword_country": "SN",
+"ranks": [
+{
+"rank_id": 250,
+"rank_position": 363,
+"rank_page": 5,
+"rank_date": "2016-09-03"
+},
+{
+"rank_id": 251,
+"rank_position": 75,
+"rank_page": 9,
+"rank_date": "2016-03-15"
+},
+{
+"rank_id": 252,
+"rank_position": 330,
+"rank_page": 3,
+"rank_date": "2016-02-29"
+},
+{
+"rank_id": 253,
+"rank_position": 47,
+"rank_page": 16,
+"rank_date": "2016-11-18"
+},
+{
+"rank_id": 254,
+"rank_position": 400,
+"rank_page": 11,
+"rank_date": "2016-06-06"
+},
+{
+"rank_id": 255,
+"rank_position": 147,
+"rank_page": 5,
+"rank_date": "2016-11-12"
+},
+{
+"rank_id": 256,
+"rank_position": 370,
+"rank_page": 6,
+"rank_date": "2016-06-13"
+},
+{
+"rank_id": 257,
+"rank_position": 396,
+"rank_page": 19,
+"rank_date": "2016-03-22"
+},
+{
+"rank_id": 258,
+"rank_position": 266,
+"rank_page": 18,
+"rank_date": "2016-12-28"
+},
+{
+"rank_id": 259,
+"rank_position": 46,
+"rank_page": 4,
+"rank_date": "2016-08-20"
+},
+{
+"rank_id": 260,
+"rank_position": 171,
+"rank_page": 5,
+"rank_date": "2016-07-02"
+}
+]
+},
+{
+"keyword_id": 21,
+"keyword_name": "deleniti",
+"keyword_country": "VI",
+"ranks": [
+{
+"rank_id": 261,
+"rank_position": 230,
+"rank_page": 18,
+"rank_date": "2016-03-14"
+},
+{
+"rank_id": 262,
+"rank_position": 109,
+"rank_page": 2,
+"rank_date": "2016-12-13"
+},
+{
+"rank_id": 263,
+"rank_position": 191,
+"rank_page": 6,
+"rank_date": "2016-11-16"
+},
+{
+"rank_id": 264,
+"rank_position": 306,
+"rank_page": 16,
+"rank_date": "2016-06-25"
+},
+{
+"rank_id": 265,
+"rank_position": 304,
+"rank_page": 13,
+"rank_date": "2016-04-20"
+},
+{
+"rank_id": 266,
+"rank_position": 110,
+"rank_page": 2,
+"rank_date": "2016-04-05"
+},
+{
+"rank_id": 267,
+"rank_position": 309,
+"rank_page": 2,
+"rank_date": "2016-08-25"
+},
+{
+"rank_id": 268,
+"rank_position": 165,
+"rank_page": 18,
+"rank_date": "2016-03-30"
+},
+{
+"rank_id": 269,
+"rank_position": 182,
+"rank_page": 15,
+"rank_date": "2016-11-17"
+},
+{
+"rank_id": 270,
+"rank_position": 231,
+"rank_page": 5,
+"rank_date": "2016-08-02"
+},
+{
+"rank_id": 271,
+"rank_position": 256,
+"rank_page": 7,
+"rank_date": "2016-04-02"
+},
+{
+"rank_id": 272,
+"rank_position": 334,
+"rank_page": 20,
+"rank_date": "2017-01-19"
+}
+]
+},
+{
+"keyword_id": 22,
+"keyword_name": "adipisci",
+"keyword_country": "SR",
+"ranks": [
+{
+"rank_id": 273,
+"rank_position": 257,
+"rank_page": 5,
+"rank_date": "2016-10-01"
+},
+{
+"rank_id": 274,
+"rank_position": 236,
+"rank_page": 19,
+"rank_date": "2016-05-25"
+},
+{
+"rank_id": 275,
+"rank_position": 23,
+"rank_page": 3,
+"rank_date": "2017-02-01"
+},
+{
+"rank_id": 276,
+"rank_position": 132,
+"rank_page": 18,
+"rank_date": "2016-07-03"
+},
+{
+"rank_id": 277,
+"rank_position": 1,
+"rank_page": 2,
+"rank_date": "2016-10-18"
+},
+{
+"rank_id": 278,
+"rank_position": 249,
+"rank_page": 17,
+"rank_date": "2016-10-26"
+},
+{
+"rank_id": 279,
+"rank_position": 354,
+"rank_page": 2,
+"rank_date": "2016-11-06"
+},
+{
+"rank_id": 280,
+"rank_position": 336,
+"rank_page": 9,
+"rank_date": "2017-01-18"
+},
+{
+"rank_id": 281,
+"rank_position": 311,
+"rank_page": 16,
+"rank_date": "2017-01-14"
+},
+{
+"rank_id": 282,
+"rank_position": 359,
+"rank_page": 16,
+"rank_date": "2016-10-16"
+},
+{
+"rank_id": 283,
+"rank_position": 98,
+"rank_page": 20,
+"rank_date": "2016-10-08"
+},
+{
+"rank_id": 284,
+"rank_position": 30,
+"rank_page": 15,
+"rank_date": "2016-03-30"
+},
+{
+"rank_id": 285,
+"rank_position": 294,
+"rank_page": 9,
+"rank_date": "2016-03-25"
+},
+{
+"rank_id": 286,
+"rank_position": 201,
+"rank_page": 16,
+"rank_date": "2016-05-07"
+},
+{
+"rank_id": 287,
+"rank_position": 5,
+"rank_page": 20,
+"rank_date": "2016-10-18"
+}
+]
+}
+]
+},
+{
+"product_id": 10,
+"product_name": "Rustic Steel Wallet",
+"product_asin": "i9w8qi2b5fah",
+"product_image_url": "https://unsplash.it/386/747",
+"keywords": [
+{
+"keyword_id": 23,
+"keyword_name": "quasi",
+"keyword_country": "LT",
+"ranks": [
+{
+"rank_id": 288,
+"rank_position": 13,
+"rank_page": 6,
+"rank_date": "2016-03-23"
+}
+]
+},
+{
+"keyword_id": 24,
+"keyword_name": "sed",
+"keyword_country": "SJ",
+"ranks": [
+{
+"rank_id": 289,
+"rank_position": 243,
+"rank_page": 10,
+"rank_date": "2016-07-29"
+},
+{
+"rank_id": 290,
+"rank_position": 143,
+"rank_page": 15,
+"rank_date": "2016-10-18"
+},
+{
+"rank_id": 291,
+"rank_position": 169,
+"rank_page": 18,
+"rank_date": "2016-02-13"
+},
+{
+"rank_id": 292,
+"rank_position": 375,
+"rank_page": 14,
+"rank_date": "2016-02-18"
+},
+{
+"rank_id": 293,
+"rank_position": 54,
+"rank_page": 4,
+"rank_date": "2016-10-31"
+},
+{
+"rank_id": 294,
+"rank_position": 118,
+"rank_page": 9,
+"rank_date": "2016-06-24"
+},
+{
+"rank_id": 295,
+"rank_position": 106,
+"rank_page": 8,
+"rank_date": "2016-08-02"
+},
+{
+"rank_id": 296,
+"rank_position": 260,
+"rank_page": 5,
+"rank_date": "2016-03-02"
+},
+{
+"rank_id": 297,
+"rank_position": 382,
+"rank_page": 8,
+"rank_date": "2016-09-08"
+},
+{
+"rank_id": 298,
+"rank_position": 398,
+"rank_page": 5,
+"rank_date": "2016-06-09"
+},
+{
+"rank_id": 299,
+"rank_position": 363,
+"rank_page": 18,
+"rank_date": "2016-09-16"
+},
+{
+"rank_id": 300,
+"rank_position": 221,
+"rank_page": 1,
+"rank_date": "2016-06-13"
+},
+{
+"rank_id": 301,
+"rank_position": 41,
+"rank_page": 16,
+"rank_date": "2016-05-02"
+},
+{
+"rank_id": 302,
+"rank_position": 327,
+"rank_page": 6,
+"rank_date": "2016-06-25"
+},
+{
+"rank_id": 303,
+"rank_position": 191,
+"rank_page": 14,
+"rank_date": "2016-08-02"
+},
+{
+"rank_id": 304,
+"rank_position": 201,
+"rank_page": 2,
+"rank_date": "2016-08-29"
+}
+]
+},
+{
+"keyword_id": 25,
+"keyword_name": "dolore",
+"keyword_country": "IT",
+"ranks": [
+{
+"rank_id": 305,
+"rank_position": 72,
+"rank_page": 20,
+"rank_date": "2016-02-07"
+}
+]
+},
+{
+"keyword_id": 26,
+"keyword_name": "eos",
+"keyword_country": "BQ",
+"ranks": [
+{
+"rank_id": 306,
+"rank_position": 139,
+"rank_page": 20,
+"rank_date": "2016-10-21"
+},
+{
+"rank_id": 307,
+"rank_position": 265,
+"rank_page": 2,
+"rank_date": "2016-12-31"
+},
+{
+"rank_id": 308,
+"rank_position": 217,
+"rank_page": 17,
+"rank_date": "2016-05-29"
+},
+{
+"rank_id": 309,
+"rank_position": 266,
+"rank_page": 2,
+"rank_date": "2016-12-01"
+},
+{
+"rank_id": 310,
+"rank_position": 101,
+"rank_page": 7,
+"rank_date": "2016-09-26"
+},
+{
+"rank_id": 311,
+"rank_position": 388,
+"rank_page": 10,
+"rank_date": "2016-06-29"
+},
+{
+"rank_id": 312,
+"rank_position": 325,
+"rank_page": 16,
+"rank_date": "2016-11-19"
+},
+{
+"rank_id": 313,
+"rank_position": 103,
+"rank_page": 10,
+"rank_date": "2016-08-14"
+}
+]
+},
+{
+"keyword_id": 27,
+"keyword_name": "quibusdam",
+"keyword_country": "BT",
+"ranks": [
+{
+"rank_id": 314,
+"rank_position": 26,
+"rank_page": 14,
+"rank_date": "2016-04-21"
+},
+{
+"rank_id": 315,
+"rank_position": 207,
+"rank_page": 3,
+"rank_date": "2016-05-02"
+},
+{
+"rank_id": 316,
+"rank_position": 184,
+"rank_page": 16,
+"rank_date": "2016-07-24"
+},
+{
+"rank_id": 317,
+"rank_position": 123,
+"rank_page": 19,
+"rank_date": "2016-07-14"
+},
+{
+"rank_id": 318,
+"rank_position": 400,
+"rank_page": 11,
+"rank_date": "2016-07-23"
+},
+{
+"rank_id": 319,
+"rank_position": 346,
+"rank_page": 4,
+"rank_date": "2016-02-02"
+},
+{
+"rank_id": 320,
+"rank_position": 69,
+"rank_page": 20,
+"rank_date": "2016-08-13"
+},
+{
+"rank_id": 321,
+"rank_position": 375,
+"rank_page": 19,
+"rank_date": "2016-02-29"
+},
+{
+"rank_id": 322,
+"rank_position": 270,
+"rank_page": 7,
+"rank_date": "2016-08-12"
+},
+{
+"rank_id": 323,
+"rank_position": 104,
+"rank_page": 6,
+"rank_date": "2016-05-08"
+},
+{
+"rank_id": 324,
+"rank_position": 327,
+"rank_page": 17,
+"rank_date": "2016-04-23"
+}
+]
+}
+]
+},
+{
+"product_id": 11,
+"product_name": "Aerodynamic Granite Clock",
+"product_asin": "kpn4uami32lq",
+"product_image_url": "https://unsplash.it/292/268",
+"keywords": [
+{
+"keyword_id": 28,
+"keyword_name": "amet",
+"keyword_country": "BF",
+"ranks": [
+{
+"rank_id": 325,
+"rank_position": 343,
+"rank_page": 8,
+"rank_date": "2016-06-23"
+},
+{
+"rank_id": 326,
+"rank_position": 64,
+"rank_page": 6,
+"rank_date": "2016-09-25"
+},
+{
+"rank_id": 327,
+"rank_position": 168,
+"rank_page": 1,
+"rank_date": "2017-02-02"
+},
+{
+"rank_id": 328,
+"rank_position": 208,
+"rank_page": 11,
+"rank_date": "2016-05-07"
+},
+{
+"rank_id": 329,
+"rank_position": 319,
+"rank_page": 18,
+"rank_date": "2016-03-19"
+},
+{
+"rank_id": 330,
+"rank_position": 251,
+"rank_page": 3,
+"rank_date": "2016-10-24"
+}
+]
+},
+{
+"keyword_id": 29,
+"keyword_name": "temporibus",
+"keyword_country": "BO",
+"ranks": [
+{
+"rank_id": 331,
+"rank_position": 133,
+"rank_page": 15,
+"rank_date": "2016-05-25"
+},
+{
+"rank_id": 332,
+"rank_position": 106,
+"rank_page": 7,
+"rank_date": "2016-04-11"
+},
+{
+"rank_id": 333,
+"rank_position": 308,
+"rank_page": 8,
+"rank_date": "2016-06-21"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 4,
+"client_name": "Bernhard, Kozey and Lebsack",
+"products": [
+{
+"product_id": 12,
+"product_name": "Small Wool Clock",
+"product_asin": "ql3ymw0utnm2",
+"product_image_url": "https://unsplash.it/297/264",
+"keywords": [
+{
+"keyword_id": 30,
+"keyword_name": "quis",
+"keyword_country": "TN",
+"ranks": [
+{
+"rank_id": 334,
+"rank_position": 45,
+"rank_page": 5,
+"rank_date": "2016-03-21"
+},
+{
+"rank_id": 335,
+"rank_position": 116,
+"rank_page": 11,
+"rank_date": "2016-04-04"
+},
+{
+"rank_id": 336,
+"rank_position": 65,
+"rank_page": 3,
+"rank_date": "2016-04-03"
+},
+{
+"rank_id": 337,
+"rank_position": 299,
+"rank_page": 7,
+"rank_date": "2016-04-20"
+},
+{
+"rank_id": 338,
+"rank_position": 162,
+"rank_page": 5,
+"rank_date": "2016-09-06"
+},
+{
+"rank_id": 339,
+"rank_position": 212,
+"rank_page": 20,
+"rank_date": "2016-08-18"
+},
+{
+"rank_id": 340,
+"rank_position": 357,
+"rank_page": 18,
+"rank_date": "2016-07-18"
+},
+{
+"rank_id": 341,
+"rank_position": 227,
+"rank_page": 3,
+"rank_date": "2016-05-25"
+},
+{
+"rank_id": 342,
+"rank_position": 321,
+"rank_page": 11,
+"rank_date": "2016-08-27"
+},
+{
+"rank_id": 343,
+"rank_position": 90,
+"rank_page": 3,
+"rank_date": "2017-01-12"
+},
+{
+"rank_id": 344,
+"rank_position": 384,
+"rank_page": 15,
+"rank_date": "2016-12-03"
+},
+{
+"rank_id": 345,
+"rank_position": 226,
+"rank_page": 15,
+"rank_date": "2016-03-14"
+},
+{
+"rank_id": 346,
+"rank_position": 221,
+"rank_page": 5,
+"rank_date": "2016-10-06"
+}
+]
+},
+{
+"keyword_id": 31,
+"keyword_name": "nam",
+"keyword_country": "ES",
+"ranks": [
+{
+"rank_id": 347,
+"rank_position": 63,
+"rank_page": 6,
+"rank_date": "2017-01-03"
+},
+{
+"rank_id": 348,
+"rank_position": 259,
+"rank_page": 3,
+"rank_date": "2016-05-07"
+},
+{
+"rank_id": 349,
+"rank_position": 297,
+"rank_page": 1,
+"rank_date": "2016-08-09"
+},
+{
+"rank_id": 350,
+"rank_position": 200,
+"rank_page": 10,
+"rank_date": "2016-06-05"
+},
+{
+"rank_id": 351,
+"rank_position": 84,
+"rank_page": 2,
+"rank_date": "2016-09-19"
+},
+{
+"rank_id": 352,
+"rank_position": 11,
+"rank_page": 1,
+"rank_date": "2016-04-07"
+},
+{
+"rank_id": 353,
+"rank_position": 47,
+"rank_page": 10,
+"rank_date": "2017-01-18"
+}
+]
+},
+{
+"keyword_id": 32,
+"keyword_name": "omnis",
+"keyword_country": "CH",
+"ranks": [
+{
+"rank_id": 354,
+"rank_position": 175,
+"rank_page": 3,
+"rank_date": "2016-04-23"
+},
+{
+"rank_id": 355,
+"rank_position": 88,
+"rank_page": 2,
+"rank_date": "2016-08-09"
+},
+{
+"rank_id": 356,
+"rank_position": 86,
+"rank_page": 12,
+"rank_date": "2016-03-06"
+},
+{
+"rank_id": 357,
+"rank_position": 353,
+"rank_page": 13,
+"rank_date": "2016-10-01"
+}
+]
+},
+{
+"keyword_id": 33,
+"keyword_name": "dolores",
+"keyword_country": "CG",
+"ranks": [
+{
+"rank_id": 358,
+"rank_position": 306,
+"rank_page": 1,
+"rank_date": "2016-03-29"
+},
+{
+"rank_id": 359,
+"rank_position": 223,
+"rank_page": 1,
+"rank_date": "2016-03-30"
+},
+{
+"rank_id": 360,
+"rank_position": 168,
+"rank_page": 16,
+"rank_date": "2016-08-11"
+},
+{
+"rank_id": 361,
+"rank_position": 252,
+"rank_page": 16,
+"rank_date": "2017-01-18"
+},
+{
+"rank_id": 362,
+"rank_position": 218,
+"rank_page": 3,
+"rank_date": "2017-01-22"
+},
+{
+"rank_id": 363,
+"rank_position": 20,
+"rank_page": 6,
+"rank_date": "2016-10-17"
+},
+{
+"rank_id": 364,
+"rank_position": 329,
+"rank_page": 3,
+"rank_date": "2016-11-15"
+},
+{
+"rank_id": 365,
+"rank_position": 381,
+"rank_page": 9,
+"rank_date": "2016-06-03"
+},
+{
+"rank_id": 366,
+"rank_position": 230,
+"rank_page": 4,
+"rank_date": "2016-04-25"
+},
+{
+"rank_id": 367,
+"rank_position": 97,
+"rank_page": 14,
+"rank_date": "2016-08-17"
+},
+{
+"rank_id": 368,
+"rank_position": 19,
+"rank_page": 15,
+"rank_date": "2016-12-24"
+},
+{
+"rank_id": 369,
+"rank_position": 229,
+"rank_page": 8,
+"rank_date": "2016-07-21"
+},
+{
+"rank_id": 370,
+"rank_position": 11,
+"rank_page": 13,
+"rank_date": "2016-10-20"
+},
+{
+"rank_id": 371,
+"rank_position": 77,
+"rank_page": 14,
+"rank_date": "2016-03-16"
+},
+{
+"rank_id": 372,
+"rank_position": 253,
+"rank_page": 13,
+"rank_date": "2016-09-30"
+},
+{
+"rank_id": 373,
+"rank_position": 260,
+"rank_page": 10,
+"rank_date": "2016-02-09"
+},
+{
+"rank_id": 374,
+"rank_position": 268,
+"rank_page": 7,
+"rank_date": "2016-04-17"
+},
+{
+"rank_id": 375,
+"rank_position": 287,
+"rank_page": 6,
+"rank_date": "2017-01-30"
+},
+{
+"rank_id": 376,
+"rank_position": 279,
+"rank_page": 6,
+"rank_date": "2017-01-29"
+},
+{
+"rank_id": 377,
+"rank_position": 81,
+"rank_page": 10,
+"rank_date": "2016-04-30"
+}
+]
+}
+]
+},
+{
+"product_id": 13,
+"product_name": "Sleek Silk Shirt",
+"product_asin": "ooi3d85p4n5t",
+"product_image_url": "https://unsplash.it/372/706",
+"keywords": [
+{
+"keyword_id": 34,
+"keyword_name": "ut",
+"keyword_country": "MK",
+"ranks": [
+{
+"rank_id": 378,
+"rank_position": 275,
+"rank_page": 2,
+"rank_date": "2016-07-14"
+},
+{
+"rank_id": 379,
+"rank_position": 81,
+"rank_page": 7,
+"rank_date": "2016-11-13"
+},
+{
+"rank_id": 380,
+"rank_position": 341,
+"rank_page": 15,
+"rank_date": "2016-03-08"
+},
+{
+"rank_id": 381,
+"rank_position": 68,
+"rank_page": 3,
+"rank_date": "2016-11-03"
+},
+{
+"rank_id": 382,
+"rank_position": 240,
+"rank_page": 11,
+"rank_date": "2016-07-30"
+}
+]
+},
+{
+"keyword_id": 35,
+"keyword_name": "eum",
+"keyword_country": "CA",
+"ranks": [
+{
+"rank_id": 383,
+"rank_position": 309,
+"rank_page": 8,
+"rank_date": "2016-12-15"
+},
+{
+"rank_id": 384,
+"rank_position": 235,
+"rank_page": 15,
+"rank_date": "2016-02-21"
+}
+]
+},
+{
+"keyword_id": 36,
+"keyword_name": "optio",
+"keyword_country": "LI",
+"ranks": [
+{
+"rank_id": 385,
+"rank_position": 271,
+"rank_page": 2,
+"rank_date": "2016-05-03"
+},
+{
+"rank_id": 386,
+"rank_position": 66,
+"rank_page": 5,
+"rank_date": "2016-08-30"
+},
+{
+"rank_id": 387,
+"rank_position": 110,
+"rank_page": 19,
+"rank_date": "2016-11-28"
+},
+{
+"rank_id": 388,
+"rank_position": 197,
+"rank_page": 5,
+"rank_date": "2016-07-11"
+}
+]
+},
+{
+"keyword_id": 37,
+"keyword_name": "quam",
+"keyword_country": "VA",
+"ranks": [
+{
+"rank_id": 389,
+"rank_position": 251,
+"rank_page": 1,
+"rank_date": "2016-12-15"
+},
+{
+"rank_id": 390,
+"rank_position": 196,
+"rank_page": 3,
+"rank_date": "2016-08-03"
+},
+{
+"rank_id": 391,
+"rank_position": 316,
+"rank_page": 6,
+"rank_date": "2016-09-22"
+},
+{
+"rank_id": 392,
+"rank_position": 264,
+"rank_page": 18,
+"rank_date": "2016-10-19"
+},
+{
+"rank_id": 393,
+"rank_position": 336,
+"rank_page": 15,
+"rank_date": "2016-05-04"
+},
+{
+"rank_id": 394,
+"rank_position": 168,
+"rank_page": 8,
+"rank_date": "2016-10-11"
+},
+{
+"rank_id": 395,
+"rank_position": 361,
+"rank_page": 9,
+"rank_date": "2016-11-23"
+},
+{
+"rank_id": 396,
+"rank_position": 85,
+"rank_page": 6,
+"rank_date": "2016-09-30"
+},
+{
+"rank_id": 397,
+"rank_position": 344,
+"rank_page": 18,
+"rank_date": "2016-05-20"
+},
+{
+"rank_id": 398,
+"rank_position": 313,
+"rank_page": 13,
+"rank_date": "2016-11-29"
+},
+{
+"rank_id": 399,
+"rank_position": 316,
+"rank_page": 4,
+"rank_date": "2016-12-28"
+},
+{
+"rank_id": 400,
+"rank_position": 269,
+"rank_page": 1,
+"rank_date": "2016-10-13"
+},
+{
+"rank_id": 401,
+"rank_position": 361,
+"rank_page": 5,
+"rank_date": "2016-03-12"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 5,
+"client_name": "Bruen Group",
+"products": [
+{
+"product_id": 14,
+"product_name": "Mediocre Rubber Keyboard",
+"product_asin": "7nnkd4sw2y4h",
+"product_image_url": "https://unsplash.it/410/281",
+"keywords": [
+{
+"keyword_id": 38,
+"keyword_name": "itaque",
+"keyword_country": "MH",
+"ranks": [
+{
+"rank_id": 402,
+"rank_position": 97,
+"rank_page": 12,
+"rank_date": "2016-11-14"
+},
+{
+"rank_id": 403,
+"rank_position": 94,
+"rank_page": 16,
+"rank_date": "2016-08-03"
+},
+{
+"rank_id": 404,
+"rank_position": 206,
+"rank_page": 2,
+"rank_date": "2016-12-30"
+},
+{
+"rank_id": 405,
+"rank_position": 94,
+"rank_page": 1,
+"rank_date": "2016-06-24"
+},
+{
+"rank_id": 406,
+"rank_position": 70,
+"rank_page": 10,
+"rank_date": "2016-11-27"
+},
+{
+"rank_id": 407,
+"rank_position": 7,
+"rank_page": 9,
+"rank_date": "2016-04-10"
+},
+{
+"rank_id": 408,
+"rank_position": 353,
+"rank_page": 7,
+"rank_date": "2016-02-28"
+},
+{
+"rank_id": 409,
+"rank_position": 244,
+"rank_page": 15,
+"rank_date": "2016-05-04"
+},
+{
+"rank_id": 410,
+"rank_position": 116,
+"rank_page": 18,
+"rank_date": "2016-05-17"
+},
+{
+"rank_id": 411,
+"rank_position": 75,
+"rank_page": 5,
+"rank_date": "2016-03-18"
+},
+{
+"rank_id": 412,
+"rank_position": 130,
+"rank_page": 7,
+"rank_date": "2016-12-27"
+},
+{
+"rank_id": 413,
+"rank_position": 240,
+"rank_page": 9,
+"rank_date": "2016-02-04"
+}
+]
+},
+{
+"keyword_id": 39,
+"keyword_name": "commodi",
+"keyword_country": "SH",
+"ranks": [
+{
+"rank_id": 414,
+"rank_position": 383,
+"rank_page": 15,
+"rank_date": "2016-05-10"
+},
+{
+"rank_id": 415,
+"rank_position": 167,
+"rank_page": 1,
+"rank_date": "2016-05-08"
+},
+{
+"rank_id": 416,
+"rank_position": 321,
+"rank_page": 4,
+"rank_date": "2016-10-01"
+},
+{
+"rank_id": 417,
+"rank_position": 103,
+"rank_page": 7,
+"rank_date": "2016-02-05"
+},
+{
+"rank_id": 418,
+"rank_position": 12,
+"rank_page": 17,
+"rank_date": "2017-01-06"
+},
+{
+"rank_id": 419,
+"rank_position": 396,
+"rank_page": 3,
+"rank_date": "2016-06-18"
+},
+{
+"rank_id": 420,
+"rank_position": 274,
+"rank_page": 19,
+"rank_date": "2016-11-09"
+},
+{
+"rank_id": 421,
+"rank_position": 219,
+"rank_page": 12,
+"rank_date": "2016-12-13"
+},
+{
+"rank_id": 422,
+"rank_position": 317,
+"rank_page": 4,
+"rank_date": "2016-07-24"
+},
+{
+"rank_id": 423,
+"rank_position": 120,
+"rank_page": 10,
+"rank_date": "2017-01-02"
+},
+{
+"rank_id": 424,
+"rank_position": 39,
+"rank_page": 8,
+"rank_date": "2016-05-24"
+},
+{
+"rank_id": 425,
+"rank_position": 103,
+"rank_page": 15,
+"rank_date": "2016-08-14"
+}
+]
+}
+]
+},
+{
+"product_id": 15,
+"product_name": "Fantastic Linen Knife",
+"product_asin": "5oa8dsoqkr3k",
+"product_image_url": "https://unsplash.it/223/396",
+"keywords": [
+{
+"keyword_id": 40,
+"keyword_name": "aliquam",
+"keyword_country": "NO",
+"ranks": [
+{
+"rank_id": 426,
+"rank_position": 287,
+"rank_page": 7,
+"rank_date": "2016-11-17"
+},
+{
+"rank_id": 427,
+"rank_position": 214,
+"rank_page": 20,
+"rank_date": "2016-02-08"
+},
+{
+"rank_id": 428,
+"rank_position": 105,
+"rank_page": 12,
+"rank_date": "2016-08-10"
+}
+]
+},
+{
+"keyword_id": 41,
+"keyword_name": "facilis",
+"keyword_country": "AE",
+"ranks": [
+{
+"rank_id": 429,
+"rank_position": 291,
+"rank_page": 5,
+"rank_date": "2016-06-15"
+},
+{
+"rank_id": 430,
+"rank_position": 27,
+"rank_page": 11,
+"rank_date": "2017-01-27"
+},
+{
+"rank_id": 431,
+"rank_position": 256,
+"rank_page": 5,
+"rank_date": "2016-04-20"
+},
+{
+"rank_id": 432,
+"rank_position": 275,
+"rank_page": 11,
+"rank_date": "2016-11-04"
+},
+{
+"rank_id": 433,
+"rank_position": 111,
+"rank_page": 9,
+"rank_date": "2016-05-14"
+},
+{
+"rank_id": 434,
+"rank_position": 129,
+"rank_page": 6,
+"rank_date": "2016-12-01"
+},
+{
+"rank_id": 435,
+"rank_position": 285,
+"rank_page": 20,
+"rank_date": "2016-02-20"
+},
+{
+"rank_id": 436,
+"rank_position": 182,
+"rank_page": 6,
+"rank_date": "2016-10-08"
+},
+{
+"rank_id": 437,
+"rank_position": 243,
+"rank_page": 17,
+"rank_date": "2016-03-01"
+},
+{
+"rank_id": 438,
+"rank_position": 159,
+"rank_page": 6,
+"rank_date": "2016-04-17"
+},
+{
+"rank_id": 439,
+"rank_position": 368,
+"rank_page": 20,
+"rank_date": "2016-06-13"
+},
+{
+"rank_id": 440,
+"rank_position": 222,
+"rank_page": 1,
+"rank_date": "2016-04-04"
+},
+{
+"rank_id": 441,
+"rank_position": 312,
+"rank_page": 1,
+"rank_date": "2016-03-07"
+},
+{
+"rank_id": 442,
+"rank_position": 202,
+"rank_page": 6,
+"rank_date": "2016-09-01"
+},
+{
+"rank_id": 443,
+"rank_position": 141,
+"rank_page": 14,
+"rank_date": "2016-03-02"
+},
+{
+"rank_id": 444,
+"rank_position": 88,
+"rank_page": 5,
+"rank_date": "2016-08-06"
+},
+{
+"rank_id": 445,
+"rank_position": 48,
+"rank_page": 8,
+"rank_date": "2016-12-07"
+},
+{
+"rank_id": 446,
+"rank_position": 101,
+"rank_page": 20,
+"rank_date": "2016-04-13"
+},
+{
+"rank_id": 447,
+"rank_position": 261,
+"rank_page": 10,
+"rank_date": "2016-11-20"
+},
+{
+"rank_id": 448,
+"rank_position": 367,
+"rank_page": 15,
+"rank_date": "2016-04-04"
+}
+]
+},
+{
+"keyword_id": 42,
+"keyword_name": "dolorem",
+"keyword_country": "TK",
+"ranks": [
+{
+"rank_id": 449,
+"rank_position": 95,
+"rank_page": 5,
+"rank_date": "2016-09-09"
+},
+{
+"rank_id": 450,
+"rank_position": 281,
+"rank_page": 6,
+"rank_date": "2016-05-10"
+},
+{
+"rank_id": 451,
+"rank_position": 273,
+"rank_page": 20,
+"rank_date": "2016-07-24"
+},
+{
+"rank_id": 452,
+"rank_position": 349,
+"rank_page": 6,
+"rank_date": "2016-12-11"
+},
+{
+"rank_id": 453,
+"rank_position": 204,
+"rank_page": 20,
+"rank_date": "2016-12-23"
+},
+{
+"rank_id": 454,
+"rank_position": 14,
+"rank_page": 1,
+"rank_date": "2017-01-27"
+},
+{
+"rank_id": 455,
+"rank_position": 331,
+"rank_page": 5,
+"rank_date": "2017-01-29"
+},
+{
+"rank_id": 456,
+"rank_position": 119,
+"rank_page": 3,
+"rank_date": "2016-12-26"
+},
+{
+"rank_id": 457,
+"rank_position": 132,
+"rank_page": 13,
+"rank_date": "2016-05-05"
+},
+{
+"rank_id": 458,
+"rank_position": 174,
+"rank_page": 5,
+"rank_date": "2016-07-20"
+},
+{
+"rank_id": 459,
+"rank_position": 80,
+"rank_page": 11,
+"rank_date": "2016-08-28"
+},
+{
+"rank_id": 460,
+"rank_position": 145,
+"rank_page": 4,
+"rank_date": "2016-11-14"
+},
+{
+"rank_id": 461,
+"rank_position": 277,
+"rank_page": 9,
+"rank_date": "2016-10-01"
+},
+{
+"rank_id": 462,
+"rank_position": 103,
+"rank_page": 7,
+"rank_date": "2016-07-14"
+}
+]
+},
+{
+"keyword_id": 43,
+"keyword_name": "occaecati",
+"keyword_country": "NL",
+"ranks": [
+{
+"rank_id": 463,
+"rank_position": 114,
+"rank_page": 17,
+"rank_date": "2016-10-16"
+},
+{
+"rank_id": 464,
+"rank_position": 61,
+"rank_page": 11,
+"rank_date": "2016-10-29"
+},
+{
+"rank_id": 465,
+"rank_position": 399,
+"rank_page": 14,
+"rank_date": "2016-12-07"
+},
+{
+"rank_id": 466,
+"rank_position": 319,
+"rank_page": 11,
+"rank_date": "2016-09-12"
+},
+{
+"rank_id": 467,
+"rank_position": 149,
+"rank_page": 20,
+"rank_date": "2016-10-07"
+},
+{
+"rank_id": 468,
+"rank_position": 216,
+"rank_page": 3,
+"rank_date": "2016-07-20"
+},
+{
+"rank_id": 469,
+"rank_position": 251,
+"rank_page": 3,
+"rank_date": "2016-09-23"
+},
+{
+"rank_id": 470,
+"rank_position": 97,
+"rank_page": 18,
+"rank_date": "2016-03-05"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 6,
+"client_name": "Crona-Deckow",
+"products": [
+{
+"product_id": 16,
+"product_name": "Lightweight Concrete Chair",
+"product_asin": "w0jqfg7k2sza",
+"product_image_url": "https://unsplash.it/647/269",
+"keywords": [
+{
+"keyword_id": 44,
+"keyword_name": "autem",
+"keyword_country": "SK",
+"ranks": [
+{
+"rank_id": 471,
+"rank_position": 325,
+"rank_page": 8,
+"rank_date": "2016-11-01"
+},
+{
+"rank_id": 472,
+"rank_position": 159,
+"rank_page": 10,
+"rank_date": "2016-06-16"
+},
+{
+"rank_id": 473,
+"rank_position": 110,
+"rank_page": 2,
+"rank_date": "2016-06-01"
+},
+{
+"rank_id": 474,
+"rank_position": 250,
+"rank_page": 19,
+"rank_date": "2016-09-12"
+},
+{
+"rank_id": 475,
+"rank_position": 321,
+"rank_page": 11,
+"rank_date": "2016-11-27"
+},
+{
+"rank_id": 476,
+"rank_position": 171,
+"rank_page": 10,
+"rank_date": "2016-12-12"
+},
+{
+"rank_id": 477,
+"rank_position": 127,
+"rank_page": 4,
+"rank_date": "2016-09-30"
+},
+{
+"rank_id": 478,
+"rank_position": 200,
+"rank_page": 19,
+"rank_date": "2017-01-07"
+},
+{
+"rank_id": 479,
+"rank_position": 320,
+"rank_page": 18,
+"rank_date": "2016-12-17"
+},
+{
+"rank_id": 480,
+"rank_position": 39,
+"rank_page": 13,
+"rank_date": "2016-09-03"
+},
+{
+"rank_id": 481,
+"rank_position": 23,
+"rank_page": 18,
+"rank_date": "2017-01-18"
+},
+{
+"rank_id": 482,
+"rank_position": 63,
+"rank_page": 4,
+"rank_date": "2016-10-07"
+},
+{
+"rank_id": 483,
+"rank_position": 313,
+"rank_page": 6,
+"rank_date": "2016-08-29"
+},
+{
+"rank_id": 484,
+"rank_position": 117,
+"rank_page": 9,
+"rank_date": "2016-09-28"
+},
+{
+"rank_id": 485,
+"rank_position": 67,
+"rank_page": 11,
+"rank_date": "2016-08-05"
+},
+{
+"rank_id": 486,
+"rank_position": 340,
+"rank_page": 1,
+"rank_date": "2016-08-02"
+},
+{
+"rank_id": 487,
+"rank_position": 223,
+"rank_page": 9,
+"rank_date": "2016-11-02"
+}
+]
+},
+{
+"keyword_id": 45,
+"keyword_name": "autem",
+"keyword_country": "MV",
+"ranks": [
+{
+"rank_id": 488,
+"rank_position": 389,
+"rank_page": 4,
+"rank_date": "2016-11-07"
+},
+{
+"rank_id": 489,
+"rank_position": 287,
+"rank_page": 6,
+"rank_date": "2016-09-26"
+},
+{
+"rank_id": 490,
+"rank_position": 314,
+"rank_page": 19,
+"rank_date": "2017-01-27"
+},
+{
+"rank_id": 491,
+"rank_position": 212,
+"rank_page": 12,
+"rank_date": "2016-07-22"
+},
+{
+"rank_id": 492,
+"rank_position": 264,
+"rank_page": 16,
+"rank_date": "2016-10-11"
+},
+{
+"rank_id": 493,
+"rank_position": 146,
+"rank_page": 8,
+"rank_date": "2016-04-03"
+},
+{
+"rank_id": 494,
+"rank_position": 180,
+"rank_page": 15,
+"rank_date": "2017-01-14"
+},
+{
+"rank_id": 495,
+"rank_position": 68,
+"rank_page": 16,
+"rank_date": "2016-05-26"
+},
+{
+"rank_id": 496,
+"rank_position": 368,
+"rank_page": 5,
+"rank_date": "2016-10-30"
+}
+]
+},
+{
+"keyword_id": 46,
+"keyword_name": "ea",
+"keyword_country": "IR",
+"ranks": [
+{
+"rank_id": 497,
+"rank_position": 195,
+"rank_page": 6,
+"rank_date": "2016-12-27"
+},
+{
+"rank_id": 498,
+"rank_position": 275,
+"rank_page": 7,
+"rank_date": "2016-08-12"
+},
+{
+"rank_id": 499,
+"rank_position": 183,
+"rank_page": 5,
+"rank_date": "2016-06-04"
+},
+{
+"rank_id": 500,
+"rank_position": 178,
+"rank_page": 2,
+"rank_date": "2016-08-07"
+},
+{
+"rank_id": 501,
+"rank_position": 337,
+"rank_page": 12,
+"rank_date": "2016-03-04"
+},
+{
+"rank_id": 502,
+"rank_position": 246,
+"rank_page": 20,
+"rank_date": "2016-03-28"
+},
+{
+"rank_id": 503,
+"rank_position": 183,
+"rank_page": 4,
+"rank_date": "2016-08-15"
+}
+]
+},
+{
+"keyword_id": 47,
+"keyword_name": "dolor",
+"keyword_country": "IR",
+"ranks": [
+{
+"rank_id": 504,
+"rank_position": 263,
+"rank_page": 1,
+"rank_date": "2016-09-30"
+},
+{
+"rank_id": 505,
+"rank_position": 65,
+"rank_page": 14,
+"rank_date": "2016-12-19"
+},
+{
+"rank_id": 506,
+"rank_position": 173,
+"rank_page": 11,
+"rank_date": "2017-01-03"
+},
+{
+"rank_id": 507,
+"rank_position": 252,
+"rank_page": 9,
+"rank_date": "2016-08-15"
+},
+{
+"rank_id": 508,
+"rank_position": 342,
+"rank_page": 18,
+"rank_date": "2016-04-28"
+}
+]
+},
+{
+"keyword_id": 48,
+"keyword_name": "eveniet",
+"keyword_country": "TL",
+"ranks": [
+{
+"rank_id": 509,
+"rank_position": 41,
+"rank_page": 17,
+"rank_date": "2016-05-02"
+},
+{
+"rank_id": 510,
+"rank_position": 50,
+"rank_page": 16,
+"rank_date": "2016-06-17"
+}
+]
+}
+]
+},
+{
+"product_id": 17,
+"product_name": "Small Rubber Gloves",
+"product_asin": "lvf3vgdzbahd",
+"product_image_url": "https://unsplash.it/731/631",
+"keywords": [
+{
+"keyword_id": 49,
+"keyword_name": "laborum",
+"keyword_country": "CZ",
+"ranks": [
+{
+"rank_id": 511,
+"rank_position": 154,
+"rank_page": 14,
+"rank_date": "2016-04-25"
+},
+{
+"rank_id": 512,
+"rank_position": 81,
+"rank_page": 16,
+"rank_date": "2016-06-22"
+},
+{
+"rank_id": 513,
+"rank_position": 314,
+"rank_page": 16,
+"rank_date": "2016-05-18"
+},
+{
+"rank_id": 514,
+"rank_position": 385,
+"rank_page": 15,
+"rank_date": "2017-01-17"
+},
+{
+"rank_id": 515,
+"rank_position": 81,
+"rank_page": 1,
+"rank_date": "2016-11-21"
+},
+{
+"rank_id": 516,
+"rank_position": 111,
+"rank_page": 4,
+"rank_date": "2016-05-03"
+},
+{
+"rank_id": 517,
+"rank_position": 214,
+"rank_page": 4,
+"rank_date": "2016-08-17"
+},
+{
+"rank_id": 518,
+"rank_position": 191,
+"rank_page": 19,
+"rank_date": "2016-05-04"
+},
+{
+"rank_id": 519,
+"rank_position": 214,
+"rank_page": 2,
+"rank_date": "2016-04-10"
+},
+{
+"rank_id": 520,
+"rank_position": 187,
+"rank_page": 16,
+"rank_date": "2016-02-18"
+},
+{
+"rank_id": 521,
+"rank_position": 190,
+"rank_page": 7,
+"rank_date": "2016-10-31"
+},
+{
+"rank_id": 522,
+"rank_position": 375,
+"rank_page": 12,
+"rank_date": "2016-08-20"
+},
+{
+"rank_id": 523,
+"rank_position": 14,
+"rank_page": 9,
+"rank_date": "2016-03-04"
+},
+{
+"rank_id": 524,
+"rank_position": 290,
+"rank_page": 6,
+"rank_date": "2016-08-16"
+}
+]
+},
+{
+"keyword_id": 50,
+"keyword_name": "quae",
+"keyword_country": "ST",
+"ranks": [
+{
+"rank_id": 525,
+"rank_position": 42,
+"rank_page": 20,
+"rank_date": "2016-05-08"
+},
+{
+"rank_id": 526,
+"rank_position": 1,
+"rank_page": 8,
+"rank_date": "2016-12-09"
+},
+{
+"rank_id": 527,
+"rank_position": 29,
+"rank_page": 1,
+"rank_date": "2016-05-20"
+},
+{
+"rank_id": 528,
+"rank_position": 60,
+"rank_page": 15,
+"rank_date": "2016-12-21"
+},
+{
+"rank_id": 529,
+"rank_position": 176,
+"rank_page": 7,
+"rank_date": "2016-06-17"
+},
+{
+"rank_id": 530,
+"rank_position": 378,
+"rank_page": 9,
+"rank_date": "2016-10-11"
+},
+{
+"rank_id": 531,
+"rank_position": 225,
+"rank_page": 7,
+"rank_date": "2016-05-24"
+},
+{
+"rank_id": 532,
+"rank_position": 375,
+"rank_page": 2,
+"rank_date": "2016-06-14"
+},
+{
+"rank_id": 533,
+"rank_position": 193,
+"rank_page": 17,
+"rank_date": "2016-03-08"
+},
+{
+"rank_id": 534,
+"rank_position": 385,
+"rank_page": 11,
+"rank_date": "2016-12-13"
+},
+{
+"rank_id": 535,
+"rank_position": 255,
+"rank_page": 10,
+"rank_date": "2016-06-27"
+},
+{
+"rank_id": 536,
+"rank_position": 74,
+"rank_page": 10,
+"rank_date": "2016-06-01"
+},
+{
+"rank_id": 537,
+"rank_position": 286,
+"rank_page": 11,
+"rank_date": "2016-04-21"
+}
+]
+},
+{
+"keyword_id": 51,
+"keyword_name": "qui",
+"keyword_country": "KW",
+"ranks": [
+{
+"rank_id": 538,
+"rank_position": 201,
+"rank_page": 19,
+"rank_date": "2016-03-06"
+},
+{
+"rank_id": 539,
+"rank_position": 56,
+"rank_page": 19,
+"rank_date": "2016-10-11"
+},
+{
+"rank_id": 540,
+"rank_position": 394,
+"rank_page": 18,
+"rank_date": "2016-07-27"
+},
+{
+"rank_id": 541,
+"rank_position": 73,
+"rank_page": 15,
+"rank_date": "2016-06-09"
+},
+{
+"rank_id": 542,
+"rank_position": 375,
+"rank_page": 1,
+"rank_date": "2016-08-28"
+},
+{
+"rank_id": 543,
+"rank_position": 263,
+"rank_page": 16,
+"rank_date": "2016-06-15"
+},
+{
+"rank_id": 544,
+"rank_position": 24,
+"rank_page": 5,
+"rank_date": "2016-08-21"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 7,
+"client_name": "Harris Inc",
+"products": [
+{
+"product_id": 18,
+"product_name": "Intelligent Aluminum Pants",
+"product_asin": "l1cpkk7yggsm",
+"product_image_url": "https://unsplash.it/539/203",
+"keywords": [
+{
+"keyword_id": 52,
+"keyword_name": "sunt",
+"keyword_country": "TO",
+"ranks": [
+{
+"rank_id": 545,
+"rank_position": 343,
+"rank_page": 12,
+"rank_date": "2016-09-14"
+},
+{
+"rank_id": 546,
+"rank_position": 177,
+"rank_page": 15,
+"rank_date": "2016-04-09"
+},
+{
+"rank_id": 547,
+"rank_position": 87,
+"rank_page": 10,
+"rank_date": "2016-06-27"
+},
+{
+"rank_id": 548,
+"rank_position": 379,
+"rank_page": 19,
+"rank_date": "2016-05-11"
+},
+{
+"rank_id": 549,
+"rank_position": 308,
+"rank_page": 17,
+"rank_date": "2016-03-22"
+},
+{
+"rank_id": 550,
+"rank_position": 213,
+"rank_page": 17,
+"rank_date": "2016-03-01"
+},
+{
+"rank_id": 551,
+"rank_position": 132,
+"rank_page": 18,
+"rank_date": "2016-03-13"
+},
+{
+"rank_id": 552,
+"rank_position": 128,
+"rank_page": 14,
+"rank_date": "2017-01-20"
+},
+{
+"rank_id": 553,
+"rank_position": 122,
+"rank_page": 15,
+"rank_date": "2016-02-11"
+},
+{
+"rank_id": 554,
+"rank_position": 373,
+"rank_page": 3,
+"rank_date": "2016-07-25"
+},
+{
+"rank_id": 555,
+"rank_position": 169,
+"rank_page": 3,
+"rank_date": "2016-05-22"
+},
+{
+"rank_id": 556,
+"rank_position": 355,
+"rank_page": 12,
+"rank_date": "2016-10-16"
+},
+{
+"rank_id": 557,
+"rank_position": 229,
+"rank_page": 4,
+"rank_date": "2016-08-27"
+},
+{
+"rank_id": 558,
+"rank_position": 135,
+"rank_page": 13,
+"rank_date": "2016-03-07"
+},
+{
+"rank_id": 559,
+"rank_position": 17,
+"rank_page": 12,
+"rank_date": "2016-07-26"
+},
+{
+"rank_id": 560,
+"rank_position": 5,
+"rank_page": 19,
+"rank_date": "2016-05-14"
+},
+{
+"rank_id": 561,
+"rank_position": 134,
+"rank_page": 18,
+"rank_date": "2016-02-27"
+}
+]
+},
+{
+"keyword_id": 53,
+"keyword_name": "id",
+"keyword_country": "IE",
+"ranks": [
+{
+"rank_id": 562,
+"rank_position": 298,
+"rank_page": 7,
+"rank_date": "2016-11-19"
+},
+{
+"rank_id": 563,
+"rank_position": 29,
+"rank_page": 20,
+"rank_date": "2016-05-28"
+},
+{
+"rank_id": 564,
+"rank_position": 353,
+"rank_page": 15,
+"rank_date": "2016-05-21"
+},
+{
+"rank_id": 565,
+"rank_position": 62,
+"rank_page": 2,
+"rank_date": "2016-03-26"
+},
+{
+"rank_id": 566,
+"rank_position": 228,
+"rank_page": 17,
+"rank_date": "2017-01-23"
+},
+{
+"rank_id": 567,
+"rank_position": 370,
+"rank_page": 1,
+"rank_date": "2016-12-16"
+},
+{
+"rank_id": 568,
+"rank_position": 306,
+"rank_page": 12,
+"rank_date": "2016-07-06"
+},
+{
+"rank_id": 569,
+"rank_position": 312,
+"rank_page": 16,
+"rank_date": "2016-12-13"
+},
+{
+"rank_id": 570,
+"rank_position": 384,
+"rank_page": 18,
+"rank_date": "2016-09-18"
+},
+{
+"rank_id": 571,
+"rank_position": 274,
+"rank_page": 14,
+"rank_date": "2016-10-20"
+},
+{
+"rank_id": 572,
+"rank_position": 99,
+"rank_page": 13,
+"rank_date": "2016-02-04"
+},
+{
+"rank_id": 573,
+"rank_position": 142,
+"rank_page": 9,
+"rank_date": "2016-10-18"
+},
+{
+"rank_id": 574,
+"rank_position": 168,
+"rank_page": 15,
+"rank_date": "2016-08-26"
+},
+{
+"rank_id": 575,
+"rank_position": 332,
+"rank_page": 6,
+"rank_date": "2016-11-29"
+},
+{
+"rank_id": 576,
+"rank_position": 261,
+"rank_page": 13,
+"rank_date": "2016-04-06"
+}
+]
+},
+{
+"keyword_id": 54,
+"keyword_name": "illum",
+"keyword_country": "CI",
+"ranks": [
+{
+"rank_id": 577,
+"rank_position": 341,
+"rank_page": 14,
+"rank_date": "2016-04-07"
+},
+{
+"rank_id": 578,
+"rank_position": 389,
+"rank_page": 14,
+"rank_date": "2016-08-23"
+},
+{
+"rank_id": 579,
+"rank_position": 116,
+"rank_page": 11,
+"rank_date": "2016-03-06"
+},
+{
+"rank_id": 580,
+"rank_position": 361,
+"rank_page": 1,
+"rank_date": "2016-06-11"
+},
+{
+"rank_id": 581,
+"rank_position": 59,
+"rank_page": 16,
+"rank_date": "2016-04-18"
+},
+{
+"rank_id": 582,
+"rank_position": 74,
+"rank_page": 16,
+"rank_date": "2016-03-28"
+},
+{
+"rank_id": 583,
+"rank_position": 165,
+"rank_page": 2,
+"rank_date": "2016-09-25"
+}
+]
+},
+{
+"keyword_id": 55,
+"keyword_name": "iste",
+"keyword_country": "IR",
+"ranks": [
+{
+"rank_id": 584,
+"rank_position": 118,
+"rank_page": 1,
+"rank_date": "2016-03-22"
+}
+]
+},
+{
+"keyword_id": 56,
+"keyword_name": "accusantium",
+"keyword_country": "ID",
+"ranks": [
+{
+"rank_id": 585,
+"rank_position": 75,
+"rank_page": 2,
+"rank_date": "2016-06-16"
+},
+{
+"rank_id": 586,
+"rank_position": 65,
+"rank_page": 7,
+"rank_date": "2016-10-10"
+},
+{
+"rank_id": 587,
+"rank_position": 189,
+"rank_page": 11,
+"rank_date": "2017-01-04"
+},
+{
+"rank_id": 588,
+"rank_position": 346,
+"rank_page": 13,
+"rank_date": "2016-04-14"
+}
+]
+}
+]
+},
+{
+"product_id": 19,
+"product_name": "Mediocre Plastic Coat",
+"product_asin": "w7bybak10dq7",
+"product_image_url": "https://unsplash.it/618/207",
+"keywords": [
+{
+"keyword_id": 57,
+"keyword_name": "recusandae",
+"keyword_country": "PL",
+"ranks": [
+{
+"rank_id": 589,
+"rank_position": 211,
+"rank_page": 9,
+"rank_date": "2016-04-02"
+},
+{
+"rank_id": 590,
+"rank_position": 345,
+"rank_page": 9,
+"rank_date": "2016-02-24"
+},
+{
+"rank_id": 591,
+"rank_position": 128,
+"rank_page": 2,
+"rank_date": "2016-06-19"
+},
+{
+"rank_id": 592,
+"rank_position": 396,
+"rank_page": 3,
+"rank_date": "2016-09-10"
+},
+{
+"rank_id": 593,
+"rank_position": 7,
+"rank_page": 1,
+"rank_date": "2016-03-12"
+},
+{
+"rank_id": 594,
+"rank_position": 221,
+"rank_page": 9,
+"rank_date": "2016-06-28"
+},
+{
+"rank_id": 595,
+"rank_position": 117,
+"rank_page": 11,
+"rank_date": "2016-11-05"
+},
+{
+"rank_id": 596,
+"rank_position": 67,
+"rank_page": 3,
+"rank_date": "2016-05-30"
+},
+{
+"rank_id": 597,
+"rank_position": 228,
+"rank_page": 18,
+"rank_date": "2016-07-24"
+},
+{
+"rank_id": 598,
+"rank_position": 89,
+"rank_page": 20,
+"rank_date": "2016-06-05"
+},
+{
+"rank_id": 599,
+"rank_position": 269,
+"rank_page": 8,
+"rank_date": "2016-09-01"
+},
+{
+"rank_id": 600,
+"rank_position": 196,
+"rank_page": 18,
+"rank_date": "2016-03-21"
+},
+{
+"rank_id": 601,
+"rank_position": 326,
+"rank_page": 2,
+"rank_date": "2016-08-23"
+},
+{
+"rank_id": 602,
+"rank_position": 305,
+"rank_page": 13,
+"rank_date": "2017-01-18"
+},
+{
+"rank_id": 603,
+"rank_position": 2,
+"rank_page": 20,
+"rank_date": "2016-07-14"
+},
+{
+"rank_id": 604,
+"rank_position": 83,
+"rank_page": 14,
+"rank_date": "2016-06-26"
+},
+{
+"rank_id": 605,
+"rank_position": 57,
+"rank_page": 9,
+"rank_date": "2016-05-30"
+},
+{
+"rank_id": 606,
+"rank_position": 222,
+"rank_page": 15,
+"rank_date": "2016-04-05"
+}
+]
+},
+{
+"keyword_id": 58,
+"keyword_name": "dolore",
+"keyword_country": "SI",
+"ranks": [
+{
+"rank_id": 607,
+"rank_position": 380,
+"rank_page": 20,
+"rank_date": "2016-05-27"
+},
+{
+"rank_id": 608,
+"rank_position": 366,
+"rank_page": 3,
+"rank_date": "2016-04-14"
+},
+{
+"rank_id": 609,
+"rank_position": 255,
+"rank_page": 11,
+"rank_date": "2016-03-08"
+},
+{
+"rank_id": 610,
+"rank_position": 94,
+"rank_page": 11,
+"rank_date": "2016-08-05"
+},
+{
+"rank_id": 611,
+"rank_position": 58,
+"rank_page": 11,
+"rank_date": "2016-05-03"
+},
+{
+"rank_id": 612,
+"rank_position": 195,
+"rank_page": 2,
+"rank_date": "2016-09-23"
+},
+{
+"rank_id": 613,
+"rank_position": 14,
+"rank_page": 5,
+"rank_date": "2016-10-28"
+},
+{
+"rank_id": 614,
+"rank_position": 345,
+"rank_page": 13,
+"rank_date": "2016-09-14"
+},
+{
+"rank_id": 615,
+"rank_position": 338,
+"rank_page": 6,
+"rank_date": "2016-05-25"
+},
+{
+"rank_id": 616,
+"rank_position": 160,
+"rank_page": 16,
+"rank_date": "2017-01-28"
+}
+]
+},
+{
+"keyword_id": 59,
+"keyword_name": "mollitia",
+"keyword_country": "CL",
+"ranks": [
+{
+"rank_id": 617,
+"rank_position": 387,
+"rank_page": 9,
+"rank_date": "2016-02-28"
+},
+{
+"rank_id": 618,
+"rank_position": 11,
+"rank_page": 20,
+"rank_date": "2016-11-01"
+},
+{
+"rank_id": 619,
+"rank_position": 258,
+"rank_page": 10,
+"rank_date": "2016-06-17"
+},
+{
+"rank_id": 620,
+"rank_position": 88,
+"rank_page": 20,
+"rank_date": "2016-08-30"
+},
+{
+"rank_id": 621,
+"rank_position": 225,
+"rank_page": 10,
+"rank_date": "2016-12-16"
+},
+{
+"rank_id": 622,
+"rank_position": 91,
+"rank_page": 10,
+"rank_date": "2016-02-21"
+},
+{
+"rank_id": 623,
+"rank_position": 345,
+"rank_page": 12,
+"rank_date": "2016-06-19"
+},
+{
+"rank_id": 624,
+"rank_position": 56,
+"rank_page": 9,
+"rank_date": "2016-03-22"
+},
+{
+"rank_id": 625,
+"rank_position": 50,
+"rank_page": 3,
+"rank_date": "2016-10-16"
+},
+{
+"rank_id": 626,
+"rank_position": 289,
+"rank_page": 16,
+"rank_date": "2016-08-03"
+},
+{
+"rank_id": 627,
+"rank_position": 154,
+"rank_page": 15,
+"rank_date": "2016-08-30"
+},
+{
+"rank_id": 628,
+"rank_position": 399,
+"rank_page": 6,
+"rank_date": "2016-02-02"
+},
+{
+"rank_id": 629,
+"rank_position": 328,
+"rank_page": 4,
+"rank_date": "2016-08-25"
+},
+{
+"rank_id": 630,
+"rank_position": 399,
+"rank_page": 5,
+"rank_date": "2016-07-08"
+},
+{
+"rank_id": 631,
+"rank_position": 355,
+"rank_page": 6,
+"rank_date": "2016-04-03"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 8,
+"client_name": "Tremblay, Morar and Fisher",
+"products": [
+{
+"product_id": 20,
+"product_name": "Rustic Paper Knife",
+"product_asin": "um41w315r7ae",
+"product_image_url": "https://unsplash.it/282/708",
+"keywords": [
+{
+"keyword_id": 60,
+"keyword_name": "ea",
+"keyword_country": "MW",
+"ranks": [
+{
+"rank_id": 632,
+"rank_position": 14,
+"rank_page": 16,
+"rank_date": "2016-08-11"
+},
+{
+"rank_id": 633,
+"rank_position": 339,
+"rank_page": 6,
+"rank_date": "2016-10-26"
+}
+]
+}
+]
+},
+{
+"product_id": 21,
+"product_name": "Intelligent Granite Knife",
+"product_asin": "nayv0464tc4m",
+"product_image_url": "https://unsplash.it/505/567",
+"keywords": [
+{
+"keyword_id": 61,
+"keyword_name": "nostrum",
+"keyword_country": "GM",
+"ranks": [
+{
+"rank_id": 634,
+"rank_position": 138,
+"rank_page": 18,
+"rank_date": "2016-04-07"
+},
+{
+"rank_id": 635,
+"rank_position": 363,
+"rank_page": 5,
+"rank_date": "2016-11-16"
+},
+{
+"rank_id": 636,
+"rank_position": 174,
+"rank_page": 8,
+"rank_date": "2016-03-23"
+},
+{
+"rank_id": 637,
+"rank_position": 210,
+"rank_page": 10,
+"rank_date": "2016-06-14"
+}
+]
+},
+{
+"keyword_id": 62,
+"keyword_name": "fugiat",
+"keyword_country": "BI",
+"ranks": [
+{
+"rank_id": 638,
+"rank_position": 385,
+"rank_page": 8,
+"rank_date": "2016-02-15"
+},
+{
+"rank_id": 639,
+"rank_position": 50,
+"rank_page": 9,
+"rank_date": "2016-02-15"
+},
+{
+"rank_id": 640,
+"rank_position": 241,
+"rank_page": 17,
+"rank_date": "2016-09-04"
+}
+]
+},
+{
+"keyword_id": 63,
+"keyword_name": "qui",
+"keyword_country": "DO",
+"ranks": [
+{
+"rank_id": 641,
+"rank_position": 285,
+"rank_page": 17,
+"rank_date": "2016-03-29"
+},
+{
+"rank_id": 642,
+"rank_position": 81,
+"rank_page": 20,
+"rank_date": "2016-08-24"
+},
+{
+"rank_id": 643,
+"rank_position": 256,
+"rank_page": 12,
+"rank_date": "2016-07-09"
+},
+{
+"rank_id": 644,
+"rank_position": 146,
+"rank_page": 13,
+"rank_date": "2016-05-06"
+},
+{
+"rank_id": 645,
+"rank_position": 385,
+"rank_page": 1,
+"rank_date": "2016-07-18"
+},
+{
+"rank_id": 646,
+"rank_position": 10,
+"rank_page": 9,
+"rank_date": "2016-02-24"
+},
+{
+"rank_id": 647,
+"rank_position": 82,
+"rank_page": 10,
+"rank_date": "2016-10-15"
+},
+{
+"rank_id": 648,
+"rank_position": 10,
+"rank_page": 17,
+"rank_date": "2016-09-17"
+},
+{
+"rank_id": 649,
+"rank_position": 299,
+"rank_page": 5,
+"rank_date": "2016-03-15"
+},
+{
+"rank_id": 650,
+"rank_position": 166,
+"rank_page": 12,
+"rank_date": "2016-03-20"
+},
+{
+"rank_id": 651,
+"rank_position": 145,
+"rank_page": 4,
+"rank_date": "2016-10-10"
+},
+{
+"rank_id": 652,
+"rank_position": 188,
+"rank_page": 17,
+"rank_date": "2016-11-07"
+},
+{
+"rank_id": 653,
+"rank_position": 13,
+"rank_page": 8,
+"rank_date": "2016-05-05"
+},
+{
+"rank_id": 654,
+"rank_position": 342,
+"rank_page": 12,
+"rank_date": "2017-01-22"
+},
+{
+"rank_id": 655,
+"rank_position": 378,
+"rank_page": 1,
+"rank_date": "2016-10-01"
+},
+{
+"rank_id": 656,
+"rank_position": 100,
+"rank_page": 3,
+"rank_date": "2016-03-24"
+}
+]
+},
+{
+"keyword_id": 64,
+"keyword_name": "ad",
+"keyword_country": "ES",
+"ranks": [
+{
+"rank_id": 657,
+"rank_position": 189,
+"rank_page": 2,
+"rank_date": "2016-06-13"
+},
+{
+"rank_id": 658,
+"rank_position": 264,
+"rank_page": 17,
+"rank_date": "2016-06-14"
+},
+{
+"rank_id": 659,
+"rank_position": 203,
+"rank_page": 10,
+"rank_date": "2016-03-10"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 9,
+"client_name": "Ward, Braun and Zulauf",
+"products": [
+{
+"product_id": 22,
+"product_name": "Fantastic Bronze Lamp",
+"product_asin": "81qlc23g2tt",
+"product_image_url": "https://unsplash.it/493/479",
+"keywords": [
+{
+"keyword_id": 65,
+"keyword_name": "accusamus",
+"keyword_country": "BM",
+"ranks": [
+{
+"rank_id": 660,
+"rank_position": 76,
+"rank_page": 6,
+"rank_date": "2016-05-26"
+},
+{
+"rank_id": 661,
+"rank_position": 16,
+"rank_page": 18,
+"rank_date": "2016-04-24"
+},
+{
+"rank_id": 662,
+"rank_position": 200,
+"rank_page": 4,
+"rank_date": "2016-11-25"
+},
+{
+"rank_id": 663,
+"rank_position": 229,
+"rank_page": 19,
+"rank_date": "2016-11-05"
+},
+{
+"rank_id": 664,
+"rank_position": 68,
+"rank_page": 13,
+"rank_date": "2016-06-30"
+},
+{
+"rank_id": 665,
+"rank_position": 269,
+"rank_page": 5,
+"rank_date": "2016-12-11"
+}
+]
+},
+{
+"keyword_id": 66,
+"keyword_name": "dicta",
+"keyword_country": "CZ",
+"ranks": [
+{
+"rank_id": 666,
+"rank_position": 256,
+"rank_page": 11,
+"rank_date": "2016-06-26"
+},
+{
+"rank_id": 667,
+"rank_position": 31,
+"rank_page": 10,
+"rank_date": "2016-04-24"
+},
+{
+"rank_id": 668,
+"rank_position": 200,
+"rank_page": 19,
+"rank_date": "2016-08-17"
+},
+{
+"rank_id": 669,
+"rank_position": 29,
+"rank_page": 3,
+"rank_date": "2016-10-30"
+},
+{
+"rank_id": 670,
+"rank_position": 177,
+"rank_page": 9,
+"rank_date": "2016-05-14"
+},
+{
+"rank_id": 671,
+"rank_position": 81,
+"rank_page": 5,
+"rank_date": "2016-07-23"
+},
+{
+"rank_id": 672,
+"rank_position": 360,
+"rank_page": 17,
+"rank_date": "2016-08-29"
+},
+{
+"rank_id": 673,
+"rank_position": 121,
+"rank_page": 3,
+"rank_date": "2017-01-25"
+},
+{
+"rank_id": 674,
+"rank_position": 329,
+"rank_page": 8,
+"rank_date": "2016-08-05"
+},
+{
+"rank_id": 675,
+"rank_position": 290,
+"rank_page": 19,
+"rank_date": "2016-12-27"
+},
+{
+"rank_id": 676,
+"rank_position": 187,
+"rank_page": 1,
+"rank_date": "2016-09-23"
+},
+{
+"rank_id": 677,
+"rank_position": 237,
+"rank_page": 1,
+"rank_date": "2016-06-16"
+},
+{
+"rank_id": 678,
+"rank_position": 25,
+"rank_page": 2,
+"rank_date": "2016-08-15"
+},
+{
+"rank_id": 679,
+"rank_position": 348,
+"rank_page": 11,
+"rank_date": "2016-04-01"
+},
+{
+"rank_id": 680,
+"rank_position": 326,
+"rank_page": 3,
+"rank_date": "2016-08-15"
+},
+{
+"rank_id": 681,
+"rank_position": 207,
+"rank_page": 2,
+"rank_date": "2016-09-16"
+},
+{
+"rank_id": 682,
+"rank_position": 212,
+"rank_page": 9,
+"rank_date": "2016-09-19"
+},
+{
+"rank_id": 683,
+"rank_position": 296,
+"rank_page": 8,
+"rank_date": "2016-10-20"
+}
+]
+},
+{
+"keyword_id": 67,
+"keyword_name": "est",
+"keyword_country": "AI",
+"ranks": [
+{
+"rank_id": 684,
+"rank_position": 218,
+"rank_page": 19,
+"rank_date": "2016-02-26"
+},
+{
+"rank_id": 685,
+"rank_position": 75,
+"rank_page": 17,
+"rank_date": "2016-08-05"
+},
+{
+"rank_id": 686,
+"rank_position": 354,
+"rank_page": 13,
+"rank_date": "2016-08-28"
+},
+{
+"rank_id": 687,
+"rank_position": 37,
+"rank_page": 2,
+"rank_date": "2016-12-12"
+},
+{
+"rank_id": 688,
+"rank_position": 352,
+"rank_page": 20,
+"rank_date": "2016-12-16"
+},
+{
+"rank_id": 689,
+"rank_position": 360,
+"rank_page": 6,
+"rank_date": "2016-08-11"
+},
+{
+"rank_id": 690,
+"rank_position": 317,
+"rank_page": 13,
+"rank_date": "2016-06-27"
+},
+{
+"rank_id": 691,
+"rank_position": 82,
+"rank_page": 8,
+"rank_date": "2016-04-16"
+},
+{
+"rank_id": 692,
+"rank_position": 79,
+"rank_page": 19,
+"rank_date": "2016-11-29"
+},
+{
+"rank_id": 693,
+"rank_position": 176,
+"rank_page": 20,
+"rank_date": "2016-04-09"
+},
+{
+"rank_id": 694,
+"rank_position": 232,
+"rank_page": 1,
+"rank_date": "2016-02-05"
+},
+{
+"rank_id": 695,
+"rank_position": 81,
+"rank_page": 18,
+"rank_date": "2017-02-01"
+},
+{
+"rank_id": 696,
+"rank_position": 60,
+"rank_page": 4,
+"rank_date": "2016-07-26"
+},
+{
+"rank_id": 697,
+"rank_position": 102,
+"rank_page": 4,
+"rank_date": "2016-05-07"
+},
+{
+"rank_id": 698,
+"rank_position": 286,
+"rank_page": 4,
+"rank_date": "2016-08-26"
+},
+{
+"rank_id": 699,
+"rank_position": 333,
+"rank_page": 19,
+"rank_date": "2016-04-27"
+},
+{
+"rank_id": 700,
+"rank_position": 207,
+"rank_page": 7,
+"rank_date": "2016-08-27"
+},
+{
+"rank_id": 701,
+"rank_position": 317,
+"rank_page": 13,
+"rank_date": "2016-07-05"
+}
+]
+},
+{
+"keyword_id": 68,
+"keyword_name": "pariatur",
+"keyword_country": "TO",
+"ranks": [
+{
+"rank_id": 702,
+"rank_position": 194,
+"rank_page": 17,
+"rank_date": "2016-08-17"
+},
+{
+"rank_id": 703,
+"rank_position": 377,
+"rank_page": 13,
+"rank_date": "2016-05-10"
+},
+{
+"rank_id": 704,
+"rank_position": 282,
+"rank_page": 1,
+"rank_date": "2016-02-22"
+},
+{
+"rank_id": 705,
+"rank_position": 276,
+"rank_page": 17,
+"rank_date": "2016-07-15"
+},
+{
+"rank_id": 706,
+"rank_position": 311,
+"rank_page": 6,
+"rank_date": "2016-08-19"
+},
+{
+"rank_id": 707,
+"rank_position": 273,
+"rank_page": 10,
+"rank_date": "2016-12-15"
+},
+{
+"rank_id": 708,
+"rank_position": 15,
+"rank_page": 2,
+"rank_date": "2016-07-31"
+},
+{
+"rank_id": 709,
+"rank_position": 56,
+"rank_page": 12,
+"rank_date": "2016-07-31"
+},
+{
+"rank_id": 710,
+"rank_position": 49,
+"rank_page": 2,
+"rank_date": "2016-03-11"
+},
+{
+"rank_id": 711,
+"rank_position": 109,
+"rank_page": 6,
+"rank_date": "2016-06-03"
+}
+]
+},
+{
+"keyword_id": 69,
+"keyword_name": "animi",
+"keyword_country": "LT",
+"ranks": [
+{
+"rank_id": 712,
+"rank_position": 14,
+"rank_page": 9,
+"rank_date": "2016-08-25"
+},
+{
+"rank_id": 713,
+"rank_position": 201,
+"rank_page": 11,
+"rank_date": "2016-02-29"
+},
+{
+"rank_id": 714,
+"rank_position": 220,
+"rank_page": 6,
+"rank_date": "2016-05-09"
+},
+{
+"rank_id": 715,
+"rank_position": 8,
+"rank_page": 15,
+"rank_date": "2016-07-05"
+},
+{
+"rank_id": 716,
+"rank_position": 236,
+"rank_page": 4,
+"rank_date": "2016-05-28"
+},
+{
+"rank_id": 717,
+"rank_position": 124,
+"rank_page": 8,
+"rank_date": "2017-01-22"
+},
+{
+"rank_id": 718,
+"rank_position": 390,
+"rank_page": 4,
+"rank_date": "2016-03-01"
+},
+{
+"rank_id": 719,
+"rank_position": 123,
+"rank_page": 10,
+"rank_date": "2016-02-27"
+}
+]
+}
+]
+},
+{
+"product_id": 23,
+"product_name": "Sleek Concrete Shoes",
+"product_asin": "m3yv8fwms5e9",
+"product_image_url": "https://unsplash.it/411/617",
+"keywords": [
+{
+"keyword_id": 70,
+"keyword_name": "consequuntur",
+"keyword_country": "BO",
+"ranks": [
+{
+"rank_id": 720,
+"rank_position": 207,
+"rank_page": 17,
+"rank_date": "2016-09-14"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 10,
+"client_name": "Dach-Littel",
+"products": [
+{
+"product_id": 24,
+"product_name": "Gorgeous Cotton Plate",
+"product_asin": "ihifmxzqwo7v",
+"product_image_url": "https://unsplash.it/433/577",
+"keywords": [
+{
+"keyword_id": 71,
+"keyword_name": "accusantium",
+"keyword_country": "MS",
+"ranks": [
+{
+"rank_id": 721,
+"rank_position": 58,
+"rank_page": 18,
+"rank_date": "2016-11-28"
+},
+{
+"rank_id": 722,
+"rank_position": 277,
+"rank_page": 8,
+"rank_date": "2016-03-28"
+},
+{
+"rank_id": 723,
+"rank_position": 52,
+"rank_page": 20,
+"rank_date": "2016-06-08"
+},
+{
+"rank_id": 724,
+"rank_position": 324,
+"rank_page": 10,
+"rank_date": "2016-09-12"
+},
+{
+"rank_id": 725,
+"rank_position": 54,
+"rank_page": 7,
+"rank_date": "2016-04-12"
+},
+{
+"rank_id": 726,
+"rank_position": 130,
+"rank_page": 1,
+"rank_date": "2016-07-01"
+},
+{
+"rank_id": 727,
+"rank_position": 179,
+"rank_page": 20,
+"rank_date": "2016-10-03"
+},
+{
+"rank_id": 728,
+"rank_position": 299,
+"rank_page": 16,
+"rank_date": "2016-12-01"
+},
+{
+"rank_id": 729,
+"rank_position": 122,
+"rank_page": 8,
+"rank_date": "2016-04-21"
+},
+{
+"rank_id": 730,
+"rank_position": 190,
+"rank_page": 3,
+"rank_date": "2016-11-07"
+},
+{
+"rank_id": 731,
+"rank_position": 178,
+"rank_page": 11,
+"rank_date": "2016-02-19"
+},
+{
+"rank_id": 732,
+"rank_position": 147,
+"rank_page": 4,
+"rank_date": "2016-06-01"
+},
+{
+"rank_id": 733,
+"rank_position": 78,
+"rank_page": 12,
+"rank_date": "2016-06-23"
+},
+{
+"rank_id": 734,
+"rank_position": 152,
+"rank_page": 13,
+"rank_date": "2016-12-08"
+},
+{
+"rank_id": 735,
+"rank_position": 196,
+"rank_page": 12,
+"rank_date": "2016-06-23"
+},
+{
+"rank_id": 736,
+"rank_position": 329,
+"rank_page": 12,
+"rank_date": "2016-03-05"
+},
+{
+"rank_id": 737,
+"rank_position": 262,
+"rank_page": 12,
+"rank_date": "2016-05-02"
+},
+{
+"rank_id": 738,
+"rank_position": 297,
+"rank_page": 14,
+"rank_date": "2016-02-06"
+},
+{
+"rank_id": 739,
+"rank_position": 38,
+"rank_page": 12,
+"rank_date": "2016-12-16"
+},
+{
+"rank_id": 740,
+"rank_position": 323,
+"rank_page": 9,
+"rank_date": "2016-06-01"
+}
+]
+}
+]
+},
+{
+"product_id": 25,
+"product_name": "Small Steel Keyboard",
+"product_asin": "j0l8mlvahe4e",
+"product_image_url": "https://unsplash.it/418/748",
+"keywords": [
+{
+"keyword_id": 72,
+"keyword_name": "eos",
+"keyword_country": "SL",
+"ranks": [
+{
+"rank_id": 741,
+"rank_position": 75,
+"rank_page": 14,
+"rank_date": "2016-03-30"
+},
+{
+"rank_id": 742,
+"rank_position": 82,
+"rank_page": 12,
+"rank_date": "2016-11-01"
+},
+{
+"rank_id": 743,
+"rank_position": 266,
+"rank_page": 19,
+"rank_date": "2016-07-30"
+},
+{
+"rank_id": 744,
+"rank_position": 284,
+"rank_page": 10,
+"rank_date": "2016-03-23"
+},
+{
+"rank_id": 745,
+"rank_position": 223,
+"rank_page": 1,
+"rank_date": "2016-07-17"
+},
+{
+"rank_id": 746,
+"rank_position": 367,
+"rank_page": 8,
+"rank_date": "2016-08-18"
+},
+{
+"rank_id": 747,
+"rank_position": 134,
+"rank_page": 19,
+"rank_date": "2016-04-23"
+},
+{
+"rank_id": 748,
+"rank_position": 132,
+"rank_page": 5,
+"rank_date": "2016-07-06"
+},
+{
+"rank_id": 749,
+"rank_position": 266,
+"rank_page": 10,
+"rank_date": "2017-01-29"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 11,
+"client_name": "Pouros Group",
+"products": [
+{
+"product_id": 26,
+"product_name": "Mediocre Paper Plate",
+"product_asin": "k69lsqs9jq14",
+"product_image_url": "https://unsplash.it/695/304",
+"keywords": [
+{
+"keyword_id": 73,
+"keyword_name": "in",
+"keyword_country": "LA",
+"ranks": [
+{
+"rank_id": 750,
+"rank_position": 110,
+"rank_page": 11,
+"rank_date": "2016-11-02"
+},
+{
+"rank_id": 751,
+"rank_position": 374,
+"rank_page": 2,
+"rank_date": "2016-02-11"
+},
+{
+"rank_id": 752,
+"rank_position": 95,
+"rank_page": 9,
+"rank_date": "2016-07-11"
+},
+{
+"rank_id": 753,
+"rank_position": 59,
+"rank_page": 10,
+"rank_date": "2016-06-02"
+},
+{
+"rank_id": 754,
+"rank_position": 298,
+"rank_page": 3,
+"rank_date": "2016-05-10"
+},
+{
+"rank_id": 755,
+"rank_position": 17,
+"rank_page": 2,
+"rank_date": "2016-04-09"
+},
+{
+"rank_id": 756,
+"rank_position": 182,
+"rank_page": 12,
+"rank_date": "2016-05-29"
+},
+{
+"rank_id": 757,
+"rank_position": 125,
+"rank_page": 3,
+"rank_date": "2016-04-30"
+},
+{
+"rank_id": 758,
+"rank_position": 350,
+"rank_page": 6,
+"rank_date": "2016-02-20"
+},
+{
+"rank_id": 759,
+"rank_position": 97,
+"rank_page": 5,
+"rank_date": "2016-08-03"
+}
+]
+},
+{
+"keyword_id": 74,
+"keyword_name": "culpa",
+"keyword_country": "SN",
+"ranks": [
+{
+"rank_id": 760,
+"rank_position": 35,
+"rank_page": 9,
+"rank_date": "2016-07-09"
+},
+{
+"rank_id": 761,
+"rank_position": 5,
+"rank_page": 16,
+"rank_date": "2016-07-26"
+},
+{
+"rank_id": 762,
+"rank_position": 44,
+"rank_page": 10,
+"rank_date": "2016-11-05"
+}
+]
+}
+]
+},
+{
+"product_id": 27,
+"product_name": "Rustic Linen Car",
+"product_asin": "r3e80bltq5di",
+"product_image_url": "https://unsplash.it/518/584",
+"keywords": [
+{
+"keyword_id": 75,
+"keyword_name": "cum",
+"keyword_country": "AG",
+"ranks": [
+{
+"rank_id": 763,
+"rank_position": 338,
+"rank_page": 20,
+"rank_date": "2016-08-10"
+},
+{
+"rank_id": 764,
+"rank_position": 173,
+"rank_page": 15,
+"rank_date": "2016-02-14"
+},
+{
+"rank_id": 765,
+"rank_position": 54,
+"rank_page": 11,
+"rank_date": "2016-04-06"
+},
+{
+"rank_id": 766,
+"rank_position": 341,
+"rank_page": 13,
+"rank_date": "2016-04-06"
+},
+{
+"rank_id": 767,
+"rank_position": 72,
+"rank_page": 20,
+"rank_date": "2016-09-26"
+},
+{
+"rank_id": 768,
+"rank_position": 259,
+"rank_page": 10,
+"rank_date": "2016-03-28"
+},
+{
+"rank_id": 769,
+"rank_position": 356,
+"rank_page": 8,
+"rank_date": "2016-05-28"
+},
+{
+"rank_id": 770,
+"rank_position": 285,
+"rank_page": 8,
+"rank_date": "2016-07-05"
+},
+{
+"rank_id": 771,
+"rank_position": 7,
+"rank_page": 4,
+"rank_date": "2016-12-29"
+},
+{
+"rank_id": 772,
+"rank_position": 285,
+"rank_page": 16,
+"rank_date": "2016-07-19"
+},
+{
+"rank_id": 773,
+"rank_position": 168,
+"rank_page": 6,
+"rank_date": "2017-01-06"
+}
+]
+},
+{
+"keyword_id": 76,
+"keyword_name": "nemo",
+"keyword_country": "LR",
+"ranks": [
+{
+"rank_id": 774,
+"rank_position": 164,
+"rank_page": 8,
+"rank_date": "2016-08-15"
+}
+]
+}
+]
+},
+{
+"product_id": 28,
+"product_name": "Practical Marble Car",
+"product_asin": "i1tnltir9si1",
+"product_image_url": "https://unsplash.it/246/619",
+"keywords": [
+{
+"keyword_id": 77,
+"keyword_name": "voluptas",
+"keyword_country": "BR",
+"ranks": [
+{
+"rank_id": 775,
+"rank_position": 102,
+"rank_page": 12,
+"rank_date": "2016-07-10"
+},
+{
+"rank_id": 776,
+"rank_position": 19,
+"rank_page": 8,
+"rank_date": "2016-04-25"
+},
+{
+"rank_id": 777,
+"rank_position": 348,
+"rank_page": 5,
+"rank_date": "2016-06-18"
+},
+{
+"rank_id": 778,
+"rank_position": 364,
+"rank_page": 20,
+"rank_date": "2016-12-22"
+},
+{
+"rank_id": 779,
+"rank_position": 245,
+"rank_page": 6,
+"rank_date": "2016-05-18"
+},
+{
+"rank_id": 780,
+"rank_position": 181,
+"rank_page": 10,
+"rank_date": "2016-08-28"
+},
+{
+"rank_id": 781,
+"rank_position": 59,
+"rank_page": 10,
+"rank_date": "2016-10-08"
+},
+{
+"rank_id": 782,
+"rank_position": 155,
+"rank_page": 15,
+"rank_date": "2016-12-18"
+},
+{
+"rank_id": 783,
+"rank_position": 102,
+"rank_page": 6,
+"rank_date": "2017-01-28"
+},
+{
+"rank_id": 784,
+"rank_position": 248,
+"rank_page": 7,
+"rank_date": "2016-03-05"
+},
+{
+"rank_id": 785,
+"rank_position": 296,
+"rank_page": 15,
+"rank_date": "2017-01-24"
+},
+{
+"rank_id": 786,
+"rank_position": 334,
+"rank_page": 10,
+"rank_date": "2016-09-06"
+},
+{
+"rank_id": 787,
+"rank_position": 380,
+"rank_page": 9,
+"rank_date": "2016-03-03"
+},
+{
+"rank_id": 788,
+"rank_position": 179,
+"rank_page": 11,
+"rank_date": "2016-06-04"
+},
+{
+"rank_id": 789,
+"rank_position": 69,
+"rank_page": 7,
+"rank_date": "2016-03-28"
+},
+{
+"rank_id": 790,
+"rank_position": 198,
+"rank_page": 8,
+"rank_date": "2016-07-05"
+}
+]
+},
+{
+"keyword_id": 78,
+"keyword_name": "ad",
+"keyword_country": "ZW",
+"ranks": [
+{
+"rank_id": 791,
+"rank_position": 288,
+"rank_page": 5,
+"rank_date": "2016-07-25"
+},
+{
+"rank_id": 792,
+"rank_position": 216,
+"rank_page": 9,
+"rank_date": "2016-05-08"
+},
+{
+"rank_id": 793,
+"rank_position": 72,
+"rank_page": 10,
+"rank_date": "2016-12-16"
+},
+{
+"rank_id": 794,
+"rank_position": 79,
+"rank_page": 3,
+"rank_date": "2016-08-13"
+},
+{
+"rank_id": 795,
+"rank_position": 95,
+"rank_page": 1,
+"rank_date": "2016-09-12"
+},
+{
+"rank_id": 796,
+"rank_position": 161,
+"rank_page": 18,
+"rank_date": "2016-06-15"
+},
+{
+"rank_id": 797,
+"rank_position": 341,
+"rank_page": 20,
+"rank_date": "2016-07-04"
+}
+]
+},
+{
+"keyword_id": 79,
+"keyword_name": "non",
+"keyword_country": "SZ",
+"ranks": [
+{
+"rank_id": 798,
+"rank_position": 80,
+"rank_page": 13,
+"rank_date": "2016-05-15"
+},
+{
+"rank_id": 799,
+"rank_position": 170,
+"rank_page": 9,
+"rank_date": "2016-07-16"
+},
+{
+"rank_id": 800,
+"rank_position": 317,
+"rank_page": 20,
+"rank_date": "2016-05-01"
+},
+{
+"rank_id": 801,
+"rank_position": 383,
+"rank_page": 8,
+"rank_date": "2016-02-13"
+},
+{
+"rank_id": 802,
+"rank_position": 26,
+"rank_page": 20,
+"rank_date": "2016-08-28"
+},
+{
+"rank_id": 803,
+"rank_position": 229,
+"rank_page": 13,
+"rank_date": "2016-03-13"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 12,
+"client_name": "Batz and Sons",
+"products": [
+{
+"product_id": 29,
+"product_name": "Rustic Plastic Knife",
+"product_asin": "nvxvax1spb1l",
+"product_image_url": "https://unsplash.it/789/521",
+"keywords": [
+{
+"keyword_id": 80,
+"keyword_name": "et",
+"keyword_country": "PW",
+"ranks": [
+{
+"rank_id": 804,
+"rank_position": 68,
+"rank_page": 1,
+"rank_date": "2016-05-01"
+},
+{
+"rank_id": 805,
+"rank_position": 343,
+"rank_page": 15,
+"rank_date": "2016-02-11"
+},
+{
+"rank_id": 806,
+"rank_position": 399,
+"rank_page": 3,
+"rank_date": "2016-03-12"
+},
+{
+"rank_id": 807,
+"rank_position": 57,
+"rank_page": 3,
+"rank_date": "2016-07-26"
+},
+{
+"rank_id": 808,
+"rank_position": 87,
+"rank_page": 3,
+"rank_date": "2016-10-23"
+},
+{
+"rank_id": 809,
+"rank_position": 271,
+"rank_page": 17,
+"rank_date": "2016-06-22"
+},
+{
+"rank_id": 810,
+"rank_position": 288,
+"rank_page": 5,
+"rank_date": "2016-10-15"
+},
+{
+"rank_id": 811,
+"rank_position": 61,
+"rank_page": 1,
+"rank_date": "2016-06-26"
+},
+{
+"rank_id": 812,
+"rank_position": 257,
+"rank_page": 9,
+"rank_date": "2017-01-01"
+},
+{
+"rank_id": 813,
+"rank_position": 363,
+"rank_page": 15,
+"rank_date": "2016-05-04"
+},
+{
+"rank_id": 814,
+"rank_position": 197,
+"rank_page": 19,
+"rank_date": "2016-08-29"
+},
+{
+"rank_id": 815,
+"rank_position": 28,
+"rank_page": 3,
+"rank_date": "2016-10-28"
+},
+{
+"rank_id": 816,
+"rank_position": 287,
+"rank_page": 6,
+"rank_date": "2017-01-31"
+},
+{
+"rank_id": 817,
+"rank_position": 88,
+"rank_page": 15,
+"rank_date": "2017-01-08"
+}
+]
+},
+{
+"keyword_id": 81,
+"keyword_name": "pariatur",
+"keyword_country": "LV",
+"ranks": [
+{
+"rank_id": 818,
+"rank_position": 293,
+"rank_page": 20,
+"rank_date": "2016-02-13"
+},
+{
+"rank_id": 819,
+"rank_position": 182,
+"rank_page": 9,
+"rank_date": "2016-12-29"
+},
+{
+"rank_id": 820,
+"rank_position": 250,
+"rank_page": 19,
+"rank_date": "2016-04-03"
+}
+]
+},
+{
+"keyword_id": 82,
+"keyword_name": "qui",
+"keyword_country": "PW",
+"ranks": [
+{
+"rank_id": 821,
+"rank_position": 395,
+"rank_page": 10,
+"rank_date": "2017-01-20"
+},
+{
+"rank_id": 822,
+"rank_position": 226,
+"rank_page": 2,
+"rank_date": "2016-12-27"
+},
+{
+"rank_id": 823,
+"rank_position": 368,
+"rank_page": 16,
+"rank_date": "2016-07-30"
+},
+{
+"rank_id": 824,
+"rank_position": 52,
+"rank_page": 10,
+"rank_date": "2017-01-30"
+},
+{
+"rank_id": 825,
+"rank_position": 50,
+"rank_page": 14,
+"rank_date": "2016-04-23"
+},
+{
+"rank_id": 826,
+"rank_position": 265,
+"rank_page": 15,
+"rank_date": "2016-03-24"
+},
+{
+"rank_id": 827,
+"rank_position": 43,
+"rank_page": 6,
+"rank_date": "2016-11-24"
+},
+{
+"rank_id": 828,
+"rank_position": 106,
+"rank_page": 6,
+"rank_date": "2016-09-10"
+},
+{
+"rank_id": 829,
+"rank_position": 163,
+"rank_page": 4,
+"rank_date": "2016-02-14"
+},
+{
+"rank_id": 830,
+"rank_position": 254,
+"rank_page": 1,
+"rank_date": "2016-07-22"
+}
+]
+},
+{
+"keyword_id": 83,
+"keyword_name": "nemo",
+"keyword_country": "TJ",
+"ranks": [
+{
+"rank_id": 831,
+"rank_position": 294,
+"rank_page": 9,
+"rank_date": "2016-10-22"
+},
+{
+"rank_id": 832,
+"rank_position": 84,
+"rank_page": 4,
+"rank_date": "2016-10-01"
+},
+{
+"rank_id": 833,
+"rank_position": 351,
+"rank_page": 10,
+"rank_date": "2016-11-24"
+},
+{
+"rank_id": 834,
+"rank_position": 288,
+"rank_page": 16,
+"rank_date": "2016-11-07"
+},
+{
+"rank_id": 835,
+"rank_position": 126,
+"rank_page": 20,
+"rank_date": "2016-12-07"
+},
+{
+"rank_id": 836,
+"rank_position": 11,
+"rank_page": 19,
+"rank_date": "2016-12-25"
+},
+{
+"rank_id": 837,
+"rank_position": 52,
+"rank_page": 3,
+"rank_date": "2016-03-13"
+},
+{
+"rank_id": 838,
+"rank_position": 301,
+"rank_page": 6,
+"rank_date": "2016-09-15"
+},
+{
+"rank_id": 839,
+"rank_position": 295,
+"rank_page": 6,
+"rank_date": "2016-07-08"
+},
+{
+"rank_id": 840,
+"rank_position": 195,
+"rank_page": 9,
+"rank_date": "2016-12-11"
+}
+]
+},
+{
+"keyword_id": 84,
+"keyword_name": "illum",
+"keyword_country": "KW",
+"ranks": [
+{
+"rank_id": 841,
+"rank_position": 57,
+"rank_page": 14,
+"rank_date": "2016-06-21"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 13,
+"client_name": "Casper-Hoeger",
+"products": [
+{
+"product_id": 30,
+"product_name": "Ergonomic Copper Gloves",
+"product_asin": "aldje832suin",
+"product_image_url": "https://unsplash.it/433/388",
+"keywords": [
+{
+"keyword_id": 85,
+"keyword_name": "dolorem",
+"keyword_country": "JO",
+"ranks": [
+{
+"rank_id": 842,
+"rank_position": 343,
+"rank_page": 7,
+"rank_date": "2016-10-08"
+},
+{
+"rank_id": 843,
+"rank_position": 210,
+"rank_page": 1,
+"rank_date": "2016-10-21"
+},
+{
+"rank_id": 844,
+"rank_position": 134,
+"rank_page": 8,
+"rank_date": "2016-10-05"
+},
+{
+"rank_id": 845,
+"rank_position": 269,
+"rank_page": 7,
+"rank_date": "2016-09-24"
+},
+{
+"rank_id": 846,
+"rank_position": 309,
+"rank_page": 11,
+"rank_date": "2016-04-03"
+},
+{
+"rank_id": 847,
+"rank_position": 330,
+"rank_page": 9,
+"rank_date": "2016-10-18"
+},
+{
+"rank_id": 848,
+"rank_position": 220,
+"rank_page": 15,
+"rank_date": "2017-01-14"
+},
+{
+"rank_id": 849,
+"rank_position": 284,
+"rank_page": 18,
+"rank_date": "2016-08-05"
+}
+]
+},
+{
+"keyword_id": 86,
+"keyword_name": "facere",
+"keyword_country": "IN",
+"ranks": [
+{
+"rank_id": 850,
+"rank_position": 193,
+"rank_page": 17,
+"rank_date": "2016-07-29"
+},
+{
+"rank_id": 851,
+"rank_position": 297,
+"rank_page": 14,
+"rank_date": "2016-03-03"
+},
+{
+"rank_id": 852,
+"rank_position": 176,
+"rank_page": 9,
+"rank_date": "2016-06-18"
+},
+{
+"rank_id": 853,
+"rank_position": 126,
+"rank_page": 12,
+"rank_date": "2016-03-04"
+}
+]
+},
+{
+"keyword_id": 87,
+"keyword_name": "id",
+"keyword_country": "BH",
+"ranks": [
+{
+"rank_id": 854,
+"rank_position": 172,
+"rank_page": 1,
+"rank_date": "2016-05-09"
+},
+{
+"rank_id": 855,
+"rank_position": 27,
+"rank_page": 5,
+"rank_date": "2016-05-20"
+},
+{
+"rank_id": 856,
+"rank_position": 322,
+"rank_page": 10,
+"rank_date": "2016-09-07"
+},
+{
+"rank_id": 857,
+"rank_position": 331,
+"rank_page": 7,
+"rank_date": "2016-05-27"
+},
+{
+"rank_id": 858,
+"rank_position": 22,
+"rank_page": 18,
+"rank_date": "2016-10-01"
+},
+{
+"rank_id": 859,
+"rank_position": 88,
+"rank_page": 11,
+"rank_date": "2016-11-26"
+},
+{
+"rank_id": 860,
+"rank_position": 164,
+"rank_page": 15,
+"rank_date": "2016-11-17"
+},
+{
+"rank_id": 861,
+"rank_position": 290,
+"rank_page": 12,
+"rank_date": "2016-04-30"
+},
+{
+"rank_id": 862,
+"rank_position": 17,
+"rank_page": 14,
+"rank_date": "2016-11-07"
+},
+{
+"rank_id": 863,
+"rank_position": 388,
+"rank_page": 7,
+"rank_date": "2016-11-11"
+}
+]
+},
+{
+"keyword_id": 88,
+"keyword_name": "at",
+"keyword_country": "ZA",
+"ranks": [
+{
+"rank_id": 864,
+"rank_position": 230,
+"rank_page": 14,
+"rank_date": "2016-05-05"
+},
+{
+"rank_id": 865,
+"rank_position": 316,
+"rank_page": 17,
+"rank_date": "2016-08-06"
+},
+{
+"rank_id": 866,
+"rank_position": 396,
+"rank_page": 17,
+"rank_date": "2016-03-28"
+},
+{
+"rank_id": 867,
+"rank_position": 67,
+"rank_page": 9,
+"rank_date": "2016-02-18"
+},
+{
+"rank_id": 868,
+"rank_position": 376,
+"rank_page": 15,
+"rank_date": "2016-03-25"
+},
+{
+"rank_id": 869,
+"rank_position": 137,
+"rank_page": 20,
+"rank_date": "2016-06-18"
+},
+{
+"rank_id": 870,
+"rank_position": 329,
+"rank_page": 20,
+"rank_date": "2016-10-11"
+},
+{
+"rank_id": 871,
+"rank_position": 181,
+"rank_page": 1,
+"rank_date": "2016-05-13"
+},
+{
+"rank_id": 872,
+"rank_position": 249,
+"rank_page": 4,
+"rank_date": "2016-03-18"
+},
+{
+"rank_id": 873,
+"rank_position": 27,
+"rank_page": 15,
+"rank_date": "2016-10-17"
+},
+{
+"rank_id": 874,
+"rank_position": 306,
+"rank_page": 16,
+"rank_date": "2016-04-05"
+},
+{
+"rank_id": 875,
+"rank_position": 120,
+"rank_page": 2,
+"rank_date": "2016-09-12"
+},
+{
+"rank_id": 876,
+"rank_position": 142,
+"rank_page": 18,
+"rank_date": "2017-01-02"
+},
+{
+"rank_id": 877,
+"rank_position": 98,
+"rank_page": 2,
+"rank_date": "2016-07-04"
+},
+{
+"rank_id": 878,
+"rank_position": 349,
+"rank_page": 2,
+"rank_date": "2016-10-01"
+},
+{
+"rank_id": 879,
+"rank_position": 324,
+"rank_page": 8,
+"rank_date": "2016-09-09"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 14,
+"client_name": "Cormier, Simonis and Bradtke",
+"products": [
+{
+"product_id": 31,
+"product_name": "Rustic Rubber Table",
+"product_asin": "pcybvr3ze177",
+"product_image_url": "https://unsplash.it/215/623",
+"keywords": [
+{
+"keyword_id": 89,
+"keyword_name": "quibusdam",
+"keyword_country": "SO",
+"ranks": [
+{
+"rank_id": 880,
+"rank_position": 72,
+"rank_page": 4,
+"rank_date": "2016-08-23"
+},
+{
+"rank_id": 881,
+"rank_position": 239,
+"rank_page": 15,
+"rank_date": "2016-08-17"
+},
+{
+"rank_id": 882,
+"rank_position": 254,
+"rank_page": 7,
+"rank_date": "2016-04-24"
+},
+{
+"rank_id": 883,
+"rank_position": 269,
+"rank_page": 19,
+"rank_date": "2016-06-25"
+},
+{
+"rank_id": 884,
+"rank_position": 299,
+"rank_page": 8,
+"rank_date": "2016-10-12"
+},
+{
+"rank_id": 885,
+"rank_position": 275,
+"rank_page": 17,
+"rank_date": "2016-11-06"
+},
+{
+"rank_id": 886,
+"rank_position": 144,
+"rank_page": 20,
+"rank_date": "2016-04-03"
+},
+{
+"rank_id": 887,
+"rank_position": 234,
+"rank_page": 15,
+"rank_date": "2016-05-13"
+},
+{
+"rank_id": 888,
+"rank_position": 112,
+"rank_page": 9,
+"rank_date": "2016-07-20"
+},
+{
+"rank_id": 889,
+"rank_position": 228,
+"rank_page": 20,
+"rank_date": "2016-07-31"
+},
+{
+"rank_id": 890,
+"rank_position": 382,
+"rank_page": 2,
+"rank_date": "2016-06-11"
+},
+{
+"rank_id": 891,
+"rank_position": 151,
+"rank_page": 6,
+"rank_date": "2016-12-29"
+},
+{
+"rank_id": 892,
+"rank_position": 95,
+"rank_page": 12,
+"rank_date": "2016-03-06"
+},
+{
+"rank_id": 893,
+"rank_position": 369,
+"rank_page": 9,
+"rank_date": "2016-06-04"
+}
+]
+},
+{
+"keyword_id": 90,
+"keyword_name": "omnis",
+"keyword_country": "ZM",
+"ranks": [
+{
+"rank_id": 894,
+"rank_position": 248,
+"rank_page": 8,
+"rank_date": "2016-05-27"
+},
+{
+"rank_id": 895,
+"rank_position": 165,
+"rank_page": 7,
+"rank_date": "2016-09-21"
+},
+{
+"rank_id": 896,
+"rank_position": 132,
+"rank_page": 8,
+"rank_date": "2016-08-15"
+},
+{
+"rank_id": 897,
+"rank_position": 81,
+"rank_page": 6,
+"rank_date": "2016-12-26"
+},
+{
+"rank_id": 898,
+"rank_position": 250,
+"rank_page": 2,
+"rank_date": "2016-10-01"
+},
+{
+"rank_id": 899,
+"rank_position": 10,
+"rank_page": 17,
+"rank_date": "2016-10-25"
+}
+]
+},
+{
+"keyword_id": 91,
+"keyword_name": "incidunt",
+"keyword_country": "AQ",
+"ranks": [
+{
+"rank_id": 900,
+"rank_position": 32,
+"rank_page": 19,
+"rank_date": "2016-11-03"
+},
+{
+"rank_id": 901,
+"rank_position": 50,
+"rank_page": 7,
+"rank_date": "2016-10-16"
+},
+{
+"rank_id": 902,
+"rank_position": 327,
+"rank_page": 1,
+"rank_date": "2016-11-07"
+},
+{
+"rank_id": 903,
+"rank_position": 371,
+"rank_page": 4,
+"rank_date": "2017-01-09"
+},
+{
+"rank_id": 904,
+"rank_position": 84,
+"rank_page": 12,
+"rank_date": "2016-05-23"
+}
+]
+},
+{
+"keyword_id": 92,
+"keyword_name": "sed",
+"keyword_country": "MW",
+"ranks": [
+{
+"rank_id": 905,
+"rank_position": 11,
+"rank_page": 10,
+"rank_date": "2016-10-13"
+},
+{
+"rank_id": 906,
+"rank_position": 331,
+"rank_page": 5,
+"rank_date": "2016-07-17"
+},
+{
+"rank_id": 907,
+"rank_position": 285,
+"rank_page": 18,
+"rank_date": "2016-09-24"
+},
+{
+"rank_id": 908,
+"rank_position": 210,
+"rank_page": 3,
+"rank_date": "2017-01-03"
+},
+{
+"rank_id": 909,
+"rank_position": 356,
+"rank_page": 8,
+"rank_date": "2016-05-01"
+},
+{
+"rank_id": 910,
+"rank_position": 96,
+"rank_page": 8,
+"rank_date": "2016-04-15"
+},
+{
+"rank_id": 911,
+"rank_position": 392,
+"rank_page": 11,
+"rank_date": "2016-08-08"
+},
+{
+"rank_id": 912,
+"rank_position": 308,
+"rank_page": 7,
+"rank_date": "2016-02-19"
+},
+{
+"rank_id": 913,
+"rank_position": 268,
+"rank_page": 4,
+"rank_date": "2016-11-20"
+},
+{
+"rank_id": 914,
+"rank_position": 325,
+"rank_page": 15,
+"rank_date": "2016-09-15"
+},
+{
+"rank_id": 915,
+"rank_position": 383,
+"rank_page": 5,
+"rank_date": "2016-03-14"
+},
+{
+"rank_id": 916,
+"rank_position": 18,
+"rank_page": 13,
+"rank_date": "2016-11-13"
+}
+]
+}
+]
+},
+{
+"product_id": 32,
+"product_name": "Fantastic Iron Coat",
+"product_asin": "6y57c2fwv9zv",
+"product_image_url": "https://unsplash.it/643/553",
+"keywords": [
+{
+"keyword_id": 93,
+"keyword_name": "ea",
+"keyword_country": "RE",
+"ranks": [
+{
+"rank_id": 917,
+"rank_position": 225,
+"rank_page": 15,
+"rank_date": "2016-09-03"
+},
+{
+"rank_id": 918,
+"rank_position": 204,
+"rank_page": 1,
+"rank_date": "2016-09-03"
+},
+{
+"rank_id": 919,
+"rank_position": 218,
+"rank_page": 5,
+"rank_date": "2016-03-14"
+},
+{
+"rank_id": 920,
+"rank_position": 249,
+"rank_page": 7,
+"rank_date": "2016-04-14"
+},
+{
+"rank_id": 921,
+"rank_position": 320,
+"rank_page": 15,
+"rank_date": "2016-11-21"
+},
+{
+"rank_id": 922,
+"rank_position": 34,
+"rank_page": 12,
+"rank_date": "2016-06-18"
+},
+{
+"rank_id": 923,
+"rank_position": 215,
+"rank_page": 15,
+"rank_date": "2016-05-22"
+},
+{
+"rank_id": 924,
+"rank_position": 163,
+"rank_page": 3,
+"rank_date": "2016-10-27"
+},
+{
+"rank_id": 925,
+"rank_position": 394,
+"rank_page": 19,
+"rank_date": "2016-08-04"
+},
+{
+"rank_id": 926,
+"rank_position": 117,
+"rank_page": 10,
+"rank_date": "2016-09-04"
+},
+{
+"rank_id": 927,
+"rank_position": 59,
+"rank_page": 8,
+"rank_date": "2016-06-09"
+},
+{
+"rank_id": 928,
+"rank_position": 213,
+"rank_page": 1,
+"rank_date": "2016-09-21"
+},
+{
+"rank_id": 929,
+"rank_position": 263,
+"rank_page": 8,
+"rank_date": "2016-03-28"
+},
+{
+"rank_id": 930,
+"rank_position": 70,
+"rank_page": 2,
+"rank_date": "2016-12-24"
+}
+]
+},
+{
+"keyword_id": 94,
+"keyword_name": "vitae",
+"keyword_country": "VN",
+"ranks": [
+{
+"rank_id": 931,
+"rank_position": 97,
+"rank_page": 11,
+"rank_date": "2016-02-03"
+},
+{
+"rank_id": 932,
+"rank_position": 156,
+"rank_page": 3,
+"rank_date": "2016-08-06"
+},
+{
+"rank_id": 933,
+"rank_position": 140,
+"rank_page": 17,
+"rank_date": "2016-02-23"
+},
+{
+"rank_id": 934,
+"rank_position": 242,
+"rank_page": 10,
+"rank_date": "2016-06-17"
+},
+{
+"rank_id": 935,
+"rank_position": 35,
+"rank_page": 16,
+"rank_date": "2016-03-22"
+},
+{
+"rank_id": 936,
+"rank_position": 387,
+"rank_page": 2,
+"rank_date": "2016-12-25"
+},
+{
+"rank_id": 937,
+"rank_position": 178,
+"rank_page": 19,
+"rank_date": "2017-01-04"
+},
+{
+"rank_id": 938,
+"rank_position": 181,
+"rank_page": 13,
+"rank_date": "2016-06-27"
+},
+{
+"rank_id": 939,
+"rank_position": 366,
+"rank_page": 8,
+"rank_date": "2016-12-29"
+},
+{
+"rank_id": 940,
+"rank_position": 13,
+"rank_page": 14,
+"rank_date": "2017-01-25"
+},
+{
+"rank_id": 941,
+"rank_position": 168,
+"rank_page": 3,
+"rank_date": "2016-11-26"
+},
+{
+"rank_id": 942,
+"rank_position": 221,
+"rank_page": 10,
+"rank_date": "2016-11-14"
+}
+]
+},
+{
+"keyword_id": 95,
+"keyword_name": "excepturi",
+"keyword_country": "GP",
+"ranks": [
+{
+"rank_id": 943,
+"rank_position": 291,
+"rank_page": 19,
+"rank_date": "2016-05-01"
+},
+{
+"rank_id": 944,
+"rank_position": 56,
+"rank_page": 10,
+"rank_date": "2016-08-09"
+},
+{
+"rank_id": 945,
+"rank_position": 229,
+"rank_page": 5,
+"rank_date": "2016-12-04"
+},
+{
+"rank_id": 946,
+"rank_position": 12,
+"rank_page": 17,
+"rank_date": "2016-04-01"
+},
+{
+"rank_id": 947,
+"rank_position": 244,
+"rank_page": 4,
+"rank_date": "2017-01-30"
+},
+{
+"rank_id": 948,
+"rank_position": 152,
+"rank_page": 18,
+"rank_date": "2016-04-01"
+},
+{
+"rank_id": 949,
+"rank_position": 330,
+"rank_page": 13,
+"rank_date": "2016-07-30"
+},
+{
+"rank_id": 950,
+"rank_position": 106,
+"rank_page": 20,
+"rank_date": "2016-05-13"
+},
+{
+"rank_id": 951,
+"rank_position": 202,
+"rank_page": 15,
+"rank_date": "2016-03-08"
+},
+{
+"rank_id": 952,
+"rank_position": 343,
+"rank_page": 20,
+"rank_date": "2016-04-27"
+},
+{
+"rank_id": 953,
+"rank_position": 172,
+"rank_page": 12,
+"rank_date": "2016-06-22"
+},
+{
+"rank_id": 954,
+"rank_position": 187,
+"rank_page": 8,
+"rank_date": "2016-12-08"
+},
+{
+"rank_id": 955,
+"rank_position": 255,
+"rank_page": 13,
+"rank_date": "2016-10-08"
+},
+{
+"rank_id": 956,
+"rank_position": 243,
+"rank_page": 12,
+"rank_date": "2016-07-18"
+},
+{
+"rank_id": 957,
+"rank_position": 337,
+"rank_page": 4,
+"rank_date": "2016-08-08"
+},
+{
+"rank_id": 958,
+"rank_position": 263,
+"rank_page": 1,
+"rank_date": "2016-03-04"
+},
+{
+"rank_id": 959,
+"rank_position": 265,
+"rank_page": 16,
+"rank_date": "2016-05-27"
+},
+{
+"rank_id": 960,
+"rank_position": 301,
+"rank_page": 13,
+"rank_date": "2016-06-14"
+},
+{
+"rank_id": 961,
+"rank_position": 193,
+"rank_page": 2,
+"rank_date": "2016-12-20"
+},
+{
+"rank_id": 962,
+"rank_position": 219,
+"rank_page": 2,
+"rank_date": "2016-08-10"
+}
+]
+},
+{
+"keyword_id": 96,
+"keyword_name": "recusandae",
+"keyword_country": "GN",
+"ranks": [
+{
+"rank_id": 963,
+"rank_position": 363,
+"rank_page": 16,
+"rank_date": "2016-02-15"
+},
+{
+"rank_id": 964,
+"rank_position": 45,
+"rank_page": 14,
+"rank_date": "2016-02-18"
+},
+{
+"rank_id": 965,
+"rank_position": 215,
+"rank_page": 19,
+"rank_date": "2016-03-01"
+},
+{
+"rank_id": 966,
+"rank_position": 367,
+"rank_page": 14,
+"rank_date": "2016-06-20"
+},
+{
+"rank_id": 967,
+"rank_position": 195,
+"rank_page": 5,
+"rank_date": "2016-05-24"
+},
+{
+"rank_id": 968,
+"rank_position": 22,
+"rank_page": 4,
+"rank_date": "2016-08-15"
+},
+{
+"rank_id": 969,
+"rank_position": 201,
+"rank_page": 6,
+"rank_date": "2016-03-17"
+},
+{
+"rank_id": 970,
+"rank_position": 44,
+"rank_page": 3,
+"rank_date": "2016-10-28"
+},
+{
+"rank_id": 971,
+"rank_position": 132,
+"rank_page": 3,
+"rank_date": "2016-06-09"
+},
+{
+"rank_id": 972,
+"rank_position": 236,
+"rank_page": 2,
+"rank_date": "2017-01-20"
+},
+{
+"rank_id": 973,
+"rank_position": 160,
+"rank_page": 15,
+"rank_date": "2016-12-31"
+},
+{
+"rank_id": 974,
+"rank_position": 126,
+"rank_page": 3,
+"rank_date": "2016-07-14"
+},
+{
+"rank_id": 975,
+"rank_position": 258,
+"rank_page": 4,
+"rank_date": "2016-08-30"
+}
+]
+},
+{
+"keyword_id": 97,
+"keyword_name": "aspernatur",
+"keyword_country": "PM",
+"ranks": [
+{
+"rank_id": 976,
+"rank_position": 23,
+"rank_page": 20,
+"rank_date": "2016-11-02"
+},
+{
+"rank_id": 977,
+"rank_position": 135,
+"rank_page": 8,
+"rank_date": "2016-03-04"
+},
+{
+"rank_id": 978,
+"rank_position": 19,
+"rank_page": 1,
+"rank_date": "2016-04-01"
+},
+{
+"rank_id": 979,
+"rank_position": 273,
+"rank_page": 13,
+"rank_date": "2016-09-22"
+},
+{
+"rank_id": 980,
+"rank_position": 171,
+"rank_page": 1,
+"rank_date": "2016-04-15"
+},
+{
+"rank_id": 981,
+"rank_position": 113,
+"rank_page": 19,
+"rank_date": "2016-03-30"
+},
+{
+"rank_id": 982,
+"rank_position": 136,
+"rank_page": 9,
+"rank_date": "2016-07-17"
+},
+{
+"rank_id": 983,
+"rank_position": 232,
+"rank_page": 8,
+"rank_date": "2016-11-20"
+},
+{
+"rank_id": 984,
+"rank_position": 361,
+"rank_page": 6,
+"rank_date": "2016-12-23"
+},
+{
+"rank_id": 985,
+"rank_position": 130,
+"rank_page": 11,
+"rank_date": "2016-03-01"
+},
+{
+"rank_id": 986,
+"rank_position": 372,
+"rank_page": 16,
+"rank_date": "2016-10-15"
+},
+{
+"rank_id": 987,
+"rank_position": 137,
+"rank_page": 15,
+"rank_date": "2016-11-08"
+},
+{
+"rank_id": 988,
+"rank_position": 58,
+"rank_page": 3,
+"rank_date": "2016-03-22"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 15,
+"client_name": "Gottlieb, Senger and Sporer",
+"products": [
+{
+"product_id": 33,
+"product_name": "Mediocre Bronze Shirt",
+"product_asin": "ob02pczgv6r",
+"product_image_url": "https://unsplash.it/595/568",
+"keywords": [
+{
+"keyword_id": 98,
+"keyword_name": "velit",
+"keyword_country": "CN",
+"ranks": [
+{
+"rank_id": 989,
+"rank_position": 355,
+"rank_page": 9,
+"rank_date": "2016-06-21"
+},
+{
+"rank_id": 990,
+"rank_position": 364,
+"rank_page": 7,
+"rank_date": "2016-05-24"
+},
+{
+"rank_id": 991,
+"rank_position": 48,
+"rank_page": 11,
+"rank_date": "2016-11-14"
+},
+{
+"rank_id": 992,
+"rank_position": 195,
+"rank_page": 3,
+"rank_date": "2016-07-17"
+},
+{
+"rank_id": 993,
+"rank_position": 9,
+"rank_page": 17,
+"rank_date": "2016-03-12"
+}
+]
+},
+{
+"keyword_id": 99,
+"keyword_name": "dolores",
+"keyword_country": "ML",
+"ranks": [
+{
+"rank_id": 994,
+"rank_position": 38,
+"rank_page": 5,
+"rank_date": "2016-07-16"
+},
+{
+"rank_id": 995,
+"rank_position": 129,
+"rank_page": 2,
+"rank_date": "2016-08-20"
+},
+{
+"rank_id": 996,
+"rank_position": 384,
+"rank_page": 15,
+"rank_date": "2016-04-11"
+},
+{
+"rank_id": 997,
+"rank_position": 203,
+"rank_page": 20,
+"rank_date": "2016-08-12"
+},
+{
+"rank_id": 998,
+"rank_position": 159,
+"rank_page": 10,
+"rank_date": "2016-10-11"
+},
+{
+"rank_id": 999,
+"rank_position": 354,
+"rank_page": 8,
+"rank_date": "2016-08-09"
+},
+{
+"rank_id": 1000,
+"rank_position": 79,
+"rank_page": 9,
+"rank_date": "2017-01-25"
+},
+{
+"rank_id": 1001,
+"rank_position": 106,
+"rank_page": 10,
+"rank_date": "2016-02-09"
+},
+{
+"rank_id": 1002,
+"rank_position": 299,
+"rank_page": 5,
+"rank_date": "2016-07-31"
+},
+{
+"rank_id": 1003,
+"rank_position": 62,
+"rank_page": 10,
+"rank_date": "2016-09-04"
+},
+{
+"rank_id": 1004,
+"rank_position": 180,
+"rank_page": 17,
+"rank_date": "2016-02-26"
+},
+{
+"rank_id": 1005,
+"rank_position": 400,
+"rank_page": 9,
+"rank_date": "2016-12-15"
+},
+{
+"rank_id": 1006,
+"rank_position": 233,
+"rank_page": 13,
+"rank_date": "2016-08-16"
+},
+{
+"rank_id": 1007,
+"rank_position": 220,
+"rank_page": 1,
+"rank_date": "2016-05-11"
+},
+{
+"rank_id": 1008,
+"rank_position": 308,
+"rank_page": 3,
+"rank_date": "2016-04-25"
+},
+{
+"rank_id": 1009,
+"rank_position": 255,
+"rank_page": 8,
+"rank_date": "2016-03-03"
+},
+{
+"rank_id": 1010,
+"rank_position": 203,
+"rank_page": 7,
+"rank_date": "2016-03-17"
+},
+{
+"rank_id": 1011,
+"rank_position": 108,
+"rank_page": 4,
+"rank_date": "2016-09-27"
+}
+]
+},
+{
+"keyword_id": 100,
+"keyword_name": "recusandae",
+"keyword_country": "MS",
+"ranks": [
+{
+"rank_id": 1012,
+"rank_position": 203,
+"rank_page": 8,
+"rank_date": "2016-06-07"
+},
+{
+"rank_id": 1013,
+"rank_position": 147,
+"rank_page": 19,
+"rank_date": "2016-02-16"
+},
+{
+"rank_id": 1014,
+"rank_position": 271,
+"rank_page": 2,
+"rank_date": "2016-02-29"
+},
+{
+"rank_id": 1015,
+"rank_position": 124,
+"rank_page": 16,
+"rank_date": "2016-02-24"
+},
+{
+"rank_id": 1016,
+"rank_position": 359,
+"rank_page": 8,
+"rank_date": "2016-12-28"
+},
+{
+"rank_id": 1017,
+"rank_position": 156,
+"rank_page": 15,
+"rank_date": "2016-12-27"
+},
+{
+"rank_id": 1018,
+"rank_position": 381,
+"rank_page": 11,
+"rank_date": "2016-04-16"
+},
+{
+"rank_id": 1019,
+"rank_position": 273,
+"rank_page": 1,
+"rank_date": "2016-02-24"
+},
+{
+"rank_id": 1020,
+"rank_position": 327,
+"rank_page": 7,
+"rank_date": "2016-04-04"
+},
+{
+"rank_id": 1021,
+"rank_position": 367,
+"rank_page": 20,
+"rank_date": "2016-09-16"
+},
+{
+"rank_id": 1022,
+"rank_position": 348,
+"rank_page": 15,
+"rank_date": "2016-08-31"
+},
+{
+"rank_id": 1023,
+"rank_position": 252,
+"rank_page": 17,
+"rank_date": "2016-12-11"
+},
+{
+"rank_id": 1024,
+"rank_position": 312,
+"rank_page": 2,
+"rank_date": "2016-03-10"
+},
+{
+"rank_id": 1025,
+"rank_position": 41,
+"rank_page": 1,
+"rank_date": "2017-01-28"
+},
+{
+"rank_id": 1026,
+"rank_position": 360,
+"rank_page": 7,
+"rank_date": "2016-09-04"
+},
+{
+"rank_id": 1027,
+"rank_position": 116,
+"rank_page": 15,
+"rank_date": "2016-08-05"
+},
+{
+"rank_id": 1028,
+"rank_position": 187,
+"rank_page": 5,
+"rank_date": "2016-11-10"
+},
+{
+"rank_id": 1029,
+"rank_position": 113,
+"rank_page": 6,
+"rank_date": "2016-09-08"
+},
+{
+"rank_id": 1030,
+"rank_position": 325,
+"rank_page": 17,
+"rank_date": "2016-03-10"
+},
+{
+"rank_id": 1031,
+"rank_position": 360,
+"rank_page": 5,
+"rank_date": "2016-04-04"
+}
+]
+},
+{
+"keyword_id": 101,
+"keyword_name": "cum",
+"keyword_country": "NR",
+"ranks": [
+{
+"rank_id": 1032,
+"rank_position": 266,
+"rank_page": 8,
+"rank_date": "2016-03-03"
+},
+{
+"rank_id": 1033,
+"rank_position": 114,
+"rank_page": 5,
+"rank_date": "2016-11-09"
+},
+{
+"rank_id": 1034,
+"rank_position": 305,
+"rank_page": 3,
+"rank_date": "2016-08-28"
+},
+{
+"rank_id": 1035,
+"rank_position": 230,
+"rank_page": 16,
+"rank_date": "2016-12-13"
+},
+{
+"rank_id": 1036,
+"rank_position": 356,
+"rank_page": 3,
+"rank_date": "2016-08-01"
+},
+{
+"rank_id": 1037,
+"rank_position": 299,
+"rank_page": 13,
+"rank_date": "2016-05-06"
+},
+{
+"rank_id": 1038,
+"rank_position": 75,
+"rank_page": 15,
+"rank_date": "2016-06-22"
+},
+{
+"rank_id": 1039,
+"rank_position": 362,
+"rank_page": 4,
+"rank_date": "2016-09-20"
+},
+{
+"rank_id": 1040,
+"rank_position": 101,
+"rank_page": 17,
+"rank_date": "2016-12-15"
+},
+{
+"rank_id": 1041,
+"rank_position": 51,
+"rank_page": 5,
+"rank_date": "2016-05-17"
+},
+{
+"rank_id": 1042,
+"rank_position": 373,
+"rank_page": 6,
+"rank_date": "2016-04-16"
+},
+{
+"rank_id": 1043,
+"rank_position": 85,
+"rank_page": 2,
+"rank_date": "2016-03-01"
+},
+{
+"rank_id": 1044,
+"rank_position": 398,
+"rank_page": 4,
+"rank_date": "2016-03-10"
+},
+{
+"rank_id": 1045,
+"rank_position": 322,
+"rank_page": 14,
+"rank_date": "2016-10-19"
+},
+{
+"rank_id": 1046,
+"rank_position": 347,
+"rank_page": 8,
+"rank_date": "2016-07-29"
+},
+{
+"rank_id": 1047,
+"rank_position": 302,
+"rank_page": 14,
+"rank_date": "2016-03-31"
+},
+{
+"rank_id": 1048,
+"rank_position": 311,
+"rank_page": 8,
+"rank_date": "2016-04-10"
+},
+{
+"rank_id": 1049,
+"rank_position": 122,
+"rank_page": 20,
+"rank_date": "2016-09-01"
+},
+{
+"rank_id": 1050,
+"rank_position": 299,
+"rank_page": 15,
+"rank_date": "2017-01-11"
+}
+]
+}
+]
+},
+{
+"product_id": 34,
+"product_name": "Gorgeous Wool Gloves",
+"product_asin": "kmlupxqn1idk",
+"product_image_url": "https://unsplash.it/632/468",
+"keywords": [
+{
+"keyword_id": 102,
+"keyword_name": "ut",
+"keyword_country": "AU",
+"ranks": [
+{
+"rank_id": 1051,
+"rank_position": 392,
+"rank_page": 10,
+"rank_date": "2016-11-08"
+},
+{
+"rank_id": 1052,
+"rank_position": 61,
+"rank_page": 16,
+"rank_date": "2016-10-20"
+}
+]
+},
+{
+"keyword_id": 103,
+"keyword_name": "culpa",
+"keyword_country": "BZ",
+"ranks": [
+{
+"rank_id": 1053,
+"rank_position": 398,
+"rank_page": 8,
+"rank_date": "2016-07-31"
+},
+{
+"rank_id": 1054,
+"rank_position": 167,
+"rank_page": 9,
+"rank_date": "2016-08-27"
+},
+{
+"rank_id": 1055,
+"rank_position": 137,
+"rank_page": 1,
+"rank_date": "2016-08-03"
+},
+{
+"rank_id": 1056,
+"rank_position": 237,
+"rank_page": 4,
+"rank_date": "2016-02-28"
+},
+{
+"rank_id": 1057,
+"rank_position": 352,
+"rank_page": 8,
+"rank_date": "2017-02-01"
+},
+{
+"rank_id": 1058,
+"rank_position": 247,
+"rank_page": 12,
+"rank_date": "2016-02-07"
+},
+{
+"rank_id": 1059,
+"rank_position": 267,
+"rank_page": 15,
+"rank_date": "2016-06-08"
+},
+{
+"rank_id": 1060,
+"rank_position": 308,
+"rank_page": 18,
+"rank_date": "2016-04-29"
+},
+{
+"rank_id": 1061,
+"rank_position": 110,
+"rank_page": 1,
+"rank_date": "2016-12-22"
+},
+{
+"rank_id": 1062,
+"rank_position": 322,
+"rank_page": 20,
+"rank_date": "2016-11-17"
+},
+{
+"rank_id": 1063,
+"rank_position": 220,
+"rank_page": 3,
+"rank_date": "2016-08-20"
+},
+{
+"rank_id": 1064,
+"rank_position": 150,
+"rank_page": 12,
+"rank_date": "2016-04-20"
+},
+{
+"rank_id": 1065,
+"rank_position": 91,
+"rank_page": 9,
+"rank_date": "2016-12-20"
+},
+{
+"rank_id": 1066,
+"rank_position": 356,
+"rank_page": 20,
+"rank_date": "2016-08-05"
+},
+{
+"rank_id": 1067,
+"rank_position": 304,
+"rank_page": 3,
+"rank_date": "2016-06-12"
+},
+{
+"rank_id": 1068,
+"rank_position": 90,
+"rank_page": 9,
+"rank_date": "2016-07-27"
+},
+{
+"rank_id": 1069,
+"rank_position": 111,
+"rank_page": 3,
+"rank_date": "2016-09-03"
+},
+{
+"rank_id": 1070,
+"rank_position": 207,
+"rank_page": 20,
+"rank_date": "2016-03-10"
+},
+{
+"rank_id": 1071,
+"rank_position": 337,
+"rank_page": 3,
+"rank_date": "2016-02-02"
+},
+{
+"rank_id": 1072,
+"rank_position": 16,
+"rank_page": 20,
+"rank_date": "2016-07-19"
+}
+]
+},
+{
+"keyword_id": 104,
+"keyword_name": "rerum",
+"keyword_country": "PE",
+"ranks": [
+{
+"rank_id": 1073,
+"rank_position": 222,
+"rank_page": 4,
+"rank_date": "2016-09-25"
+},
+{
+"rank_id": 1074,
+"rank_position": 356,
+"rank_page": 11,
+"rank_date": "2016-04-21"
+},
+{
+"rank_id": 1075,
+"rank_position": 277,
+"rank_page": 5,
+"rank_date": "2016-08-02"
+},
+{
+"rank_id": 1076,
+"rank_position": 393,
+"rank_page": 4,
+"rank_date": "2016-09-10"
+},
+{
+"rank_id": 1077,
+"rank_position": 160,
+"rank_page": 1,
+"rank_date": "2016-09-15"
+},
+{
+"rank_id": 1078,
+"rank_position": 80,
+"rank_page": 6,
+"rank_date": "2016-09-14"
+},
+{
+"rank_id": 1079,
+"rank_position": 306,
+"rank_page": 16,
+"rank_date": "2016-08-27"
+},
+{
+"rank_id": 1080,
+"rank_position": 178,
+"rank_page": 6,
+"rank_date": "2016-02-24"
+},
+{
+"rank_id": 1081,
+"rank_position": 37,
+"rank_page": 5,
+"rank_date": "2016-10-23"
+}
+]
+},
+{
+"keyword_id": 105,
+"keyword_name": "accusantium",
+"keyword_country": "KH",
+"ranks": [
+{
+"rank_id": 1082,
+"rank_position": 336,
+"rank_page": 1,
+"rank_date": "2016-03-04"
+},
+{
+"rank_id": 1083,
+"rank_position": 12,
+"rank_page": 4,
+"rank_date": "2016-03-06"
+},
+{
+"rank_id": 1084,
+"rank_position": 54,
+"rank_page": 11,
+"rank_date": "2016-06-11"
+},
+{
+"rank_id": 1085,
+"rank_position": 285,
+"rank_page": 15,
+"rank_date": "2016-09-27"
+},
+{
+"rank_id": 1086,
+"rank_position": 299,
+"rank_page": 9,
+"rank_date": "2017-01-07"
+},
+{
+"rank_id": 1087,
+"rank_position": 3,
+"rank_page": 12,
+"rank_date": "2016-05-07"
+},
+{
+"rank_id": 1088,
+"rank_position": 132,
+"rank_page": 5,
+"rank_date": "2016-12-22"
+},
+{
+"rank_id": 1089,
+"rank_position": 163,
+"rank_page": 6,
+"rank_date": "2016-10-10"
+},
+{
+"rank_id": 1090,
+"rank_position": 206,
+"rank_page": 1,
+"rank_date": "2016-05-30"
+},
+{
+"rank_id": 1091,
+"rank_position": 385,
+"rank_page": 13,
+"rank_date": "2016-07-08"
+},
+{
+"rank_id": 1092,
+"rank_position": 363,
+"rank_page": 18,
+"rank_date": "2016-11-28"
+},
+{
+"rank_id": 1093,
+"rank_position": 175,
+"rank_page": 2,
+"rank_date": "2016-07-24"
+},
+{
+"rank_id": 1094,
+"rank_position": 254,
+"rank_page": 15,
+"rank_date": "2016-02-15"
+},
+{
+"rank_id": 1095,
+"rank_position": 301,
+"rank_page": 3,
+"rank_date": "2016-12-15"
+},
+{
+"rank_id": 1096,
+"rank_position": 46,
+"rank_page": 10,
+"rank_date": "2017-01-29"
+},
+{
+"rank_id": 1097,
+"rank_position": 26,
+"rank_page": 5,
+"rank_date": "2016-04-14"
+},
+{
+"rank_id": 1098,
+"rank_position": 390,
+"rank_page": 17,
+"rank_date": "2016-08-17"
+},
+{
+"rank_id": 1099,
+"rank_position": 87,
+"rank_page": 7,
+"rank_date": "2016-10-02"
+},
+{
+"rank_id": 1100,
+"rank_position": 328,
+"rank_page": 3,
+"rank_date": "2016-06-09"
+}
+]
+}
+]
+},
+{
+"product_id": 35,
+"product_name": "Small Aluminum Hat",
+"product_asin": "tc51l2w87tqc",
+"product_image_url": "https://unsplash.it/770/605",
+"keywords": [
+{
+"keyword_id": 106,
+"keyword_name": "qui",
+"keyword_country": "VE",
+"ranks": [
+{
+"rank_id": 1101,
+"rank_position": 362,
+"rank_page": 6,
+"rank_date": "2016-04-12"
+},
+{
+"rank_id": 1102,
+"rank_position": 298,
+"rank_page": 7,
+"rank_date": "2017-01-24"
+},
+{
+"rank_id": 1103,
+"rank_position": 173,
+"rank_page": 16,
+"rank_date": "2016-09-09"
+},
+{
+"rank_id": 1104,
+"rank_position": 234,
+"rank_page": 3,
+"rank_date": "2016-09-05"
+},
+{
+"rank_id": 1105,
+"rank_position": 341,
+"rank_page": 7,
+"rank_date": "2016-09-12"
+},
+{
+"rank_id": 1106,
+"rank_position": 185,
+"rank_page": 2,
+"rank_date": "2016-09-29"
+}
+]
+},
+{
+"keyword_id": 107,
+"keyword_name": "consequuntur",
+"keyword_country": "TL",
+"ranks": [
+{
+"rank_id": 1107,
+"rank_position": 396,
+"rank_page": 6,
+"rank_date": "2016-12-08"
+},
+{
+"rank_id": 1108,
+"rank_position": 31,
+"rank_page": 5,
+"rank_date": "2016-03-14"
+},
+{
+"rank_id": 1109,
+"rank_position": 72,
+"rank_page": 5,
+"rank_date": "2016-06-23"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 16,
+"client_name": "Christiansen and Sons",
+"products": [
+{
+"product_id": 36,
+"product_name": "Lightweight Granite Shoes",
+"product_asin": "v1i0qpsy2mso",
+"product_image_url": "https://unsplash.it/631/398",
+"keywords": [
+{
+"keyword_id": 108,
+"keyword_name": "facere",
+"keyword_country": "LS",
+"ranks": [
+{
+"rank_id": 1110,
+"rank_position": 260,
+"rank_page": 15,
+"rank_date": "2016-09-01"
+},
+{
+"rank_id": 1111,
+"rank_position": 388,
+"rank_page": 18,
+"rank_date": "2016-08-31"
+},
+{
+"rank_id": 1112,
+"rank_position": 248,
+"rank_page": 8,
+"rank_date": "2016-03-15"
+},
+{
+"rank_id": 1113,
+"rank_position": 63,
+"rank_page": 13,
+"rank_date": "2016-07-29"
+},
+{
+"rank_id": 1114,
+"rank_position": 168,
+"rank_page": 11,
+"rank_date": "2017-01-28"
+},
+{
+"rank_id": 1115,
+"rank_position": 295,
+"rank_page": 7,
+"rank_date": "2016-02-08"
+},
+{
+"rank_id": 1116,
+"rank_position": 73,
+"rank_page": 2,
+"rank_date": "2016-06-12"
+},
+{
+"rank_id": 1117,
+"rank_position": 28,
+"rank_page": 9,
+"rank_date": "2016-11-20"
+},
+{
+"rank_id": 1118,
+"rank_position": 85,
+"rank_page": 13,
+"rank_date": "2016-11-24"
+},
+{
+"rank_id": 1119,
+"rank_position": 345,
+"rank_page": 9,
+"rank_date": "2016-05-04"
+},
+{
+"rank_id": 1120,
+"rank_position": 152,
+"rank_page": 1,
+"rank_date": "2016-02-19"
+},
+{
+"rank_id": 1121,
+"rank_position": 225,
+"rank_page": 14,
+"rank_date": "2016-07-29"
+},
+{
+"rank_id": 1122,
+"rank_position": 10,
+"rank_page": 16,
+"rank_date": "2016-08-30"
+}
+]
+},
+{
+"keyword_id": 109,
+"keyword_name": "rerum",
+"keyword_country": "VG",
+"ranks": [
+{
+"rank_id": 1123,
+"rank_position": 58,
+"rank_page": 3,
+"rank_date": "2016-03-20"
+},
+{
+"rank_id": 1124,
+"rank_position": 218,
+"rank_page": 5,
+"rank_date": "2016-11-06"
+},
+{
+"rank_id": 1125,
+"rank_position": 101,
+"rank_page": 10,
+"rank_date": "2016-12-07"
+},
+{
+"rank_id": 1126,
+"rank_position": 255,
+"rank_page": 12,
+"rank_date": "2016-06-15"
+},
+{
+"rank_id": 1127,
+"rank_position": 116,
+"rank_page": 3,
+"rank_date": "2016-02-09"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 17,
+"client_name": "Senger, Huel and Ratke",
+"products": [
+{
+"product_id": 37,
+"product_name": "Gorgeous Marble Shirt",
+"product_asin": "i1qyngcvvwle",
+"product_image_url": "https://unsplash.it/600/209",
+"keywords": [
+{
+"keyword_id": 110,
+"keyword_name": "omnis",
+"keyword_country": "MS",
+"ranks": [
+{
+"rank_id": 1128,
+"rank_position": 345,
+"rank_page": 19,
+"rank_date": "2016-04-25"
+},
+{
+"rank_id": 1129,
+"rank_position": 179,
+"rank_page": 18,
+"rank_date": "2016-12-12"
+},
+{
+"rank_id": 1130,
+"rank_position": 276,
+"rank_page": 5,
+"rank_date": "2016-05-28"
+},
+{
+"rank_id": 1131,
+"rank_position": 12,
+"rank_page": 20,
+"rank_date": "2016-07-02"
+},
+{
+"rank_id": 1132,
+"rank_position": 147,
+"rank_page": 17,
+"rank_date": "2016-08-13"
+},
+{
+"rank_id": 1133,
+"rank_position": 370,
+"rank_page": 4,
+"rank_date": "2016-02-10"
+},
+{
+"rank_id": 1134,
+"rank_position": 309,
+"rank_page": 4,
+"rank_date": "2016-10-13"
+}
+]
+},
+{
+"keyword_id": 111,
+"keyword_name": "ratione",
+"keyword_country": "VC",
+"ranks": [
+{
+"rank_id": 1135,
+"rank_position": 311,
+"rank_page": 16,
+"rank_date": "2016-02-28"
+},
+{
+"rank_id": 1136,
+"rank_position": 154,
+"rank_page": 3,
+"rank_date": "2016-03-09"
+},
+{
+"rank_id": 1137,
+"rank_position": 84,
+"rank_page": 18,
+"rank_date": "2017-01-05"
+},
+{
+"rank_id": 1138,
+"rank_position": 200,
+"rank_page": 4,
+"rank_date": "2016-09-26"
+},
+{
+"rank_id": 1139,
+"rank_position": 204,
+"rank_page": 20,
+"rank_date": "2016-02-17"
+},
+{
+"rank_id": 1140,
+"rank_position": 227,
+"rank_page": 4,
+"rank_date": "2017-01-20"
+},
+{
+"rank_id": 1141,
+"rank_position": 158,
+"rank_page": 12,
+"rank_date": "2016-03-06"
+}
+]
+}
+]
+},
+{
+"product_id": 38,
+"product_name": "Enormous Linen Hat",
+"product_asin": "gut8si9apott",
+"product_image_url": "https://unsplash.it/536/654",
+"keywords": [
+{
+"keyword_id": 112,
+"keyword_name": "ab",
+"keyword_country": "RO",
+"ranks": [
+{
+"rank_id": 1142,
+"rank_position": 77,
+"rank_page": 1,
+"rank_date": "2016-06-29"
+},
+{
+"rank_id": 1143,
+"rank_position": 147,
+"rank_page": 1,
+"rank_date": "2016-02-18"
+},
+{
+"rank_id": 1144,
+"rank_position": 136,
+"rank_page": 19,
+"rank_date": "2017-01-03"
+},
+{
+"rank_id": 1145,
+"rank_position": 392,
+"rank_page": 14,
+"rank_date": "2017-01-11"
+},
+{
+"rank_id": 1146,
+"rank_position": 161,
+"rank_page": 8,
+"rank_date": "2016-05-26"
+},
+{
+"rank_id": 1147,
+"rank_position": 231,
+"rank_page": 19,
+"rank_date": "2016-11-14"
+},
+{
+"rank_id": 1148,
+"rank_position": 152,
+"rank_page": 14,
+"rank_date": "2016-10-23"
+}
+]
+},
+{
+"keyword_id": 113,
+"keyword_name": "est",
+"keyword_country": "GU",
+"ranks": [
+{
+"rank_id": 1149,
+"rank_position": 250,
+"rank_page": 9,
+"rank_date": "2016-06-18"
+},
+{
+"rank_id": 1150,
+"rank_position": 51,
+"rank_page": 2,
+"rank_date": "2016-03-02"
+},
+{
+"rank_id": 1151,
+"rank_position": 43,
+"rank_page": 1,
+"rank_date": "2016-11-23"
+},
+{
+"rank_id": 1152,
+"rank_position": 16,
+"rank_page": 2,
+"rank_date": "2016-09-02"
+},
+{
+"rank_id": 1153,
+"rank_position": 53,
+"rank_page": 8,
+"rank_date": "2016-12-06"
+},
+{
+"rank_id": 1154,
+"rank_position": 65,
+"rank_page": 3,
+"rank_date": "2016-05-05"
+},
+{
+"rank_id": 1155,
+"rank_position": 175,
+"rank_page": 7,
+"rank_date": "2016-11-18"
+},
+{
+"rank_id": 1156,
+"rank_position": 45,
+"rank_page": 20,
+"rank_date": "2016-12-20"
+},
+{
+"rank_id": 1157,
+"rank_position": 32,
+"rank_page": 1,
+"rank_date": "2016-10-31"
+},
+{
+"rank_id": 1158,
+"rank_position": 297,
+"rank_page": 8,
+"rank_date": "2016-12-05"
+},
+{
+"rank_id": 1159,
+"rank_position": 263,
+"rank_page": 6,
+"rank_date": "2017-01-18"
+},
+{
+"rank_id": 1160,
+"rank_position": 248,
+"rank_page": 1,
+"rank_date": "2016-06-22"
+},
+{
+"rank_id": 1161,
+"rank_position": 15,
+"rank_page": 1,
+"rank_date": "2016-07-17"
+},
+{
+"rank_id": 1162,
+"rank_position": 373,
+"rank_page": 10,
+"rank_date": "2016-07-19"
+},
+{
+"rank_id": 1163,
+"rank_position": 271,
+"rank_page": 2,
+"rank_date": "2016-09-11"
+},
+{
+"rank_id": 1164,
+"rank_position": 319,
+"rank_page": 3,
+"rank_date": "2016-09-21"
+},
+{
+"rank_id": 1165,
+"rank_position": 107,
+"rank_page": 16,
+"rank_date": "2016-07-25"
+}
+]
+},
+{
+"keyword_id": 114,
+"keyword_name": "voluptas",
+"keyword_country": "BG",
+"ranks": [
+{
+"rank_id": 1166,
+"rank_position": 327,
+"rank_page": 7,
+"rank_date": "2016-05-11"
+},
+{
+"rank_id": 1167,
+"rank_position": 267,
+"rank_page": 8,
+"rank_date": "2017-01-01"
+},
+{
+"rank_id": 1168,
+"rank_position": 27,
+"rank_page": 4,
+"rank_date": "2016-04-17"
+},
+{
+"rank_id": 1169,
+"rank_position": 286,
+"rank_page": 7,
+"rank_date": "2016-08-28"
+},
+{
+"rank_id": 1170,
+"rank_position": 269,
+"rank_page": 18,
+"rank_date": "2016-09-24"
+},
+{
+"rank_id": 1171,
+"rank_position": 299,
+"rank_page": 13,
+"rank_date": "2016-09-09"
+},
+{
+"rank_id": 1172,
+"rank_position": 81,
+"rank_page": 3,
+"rank_date": "2016-02-17"
+}
+]
+}
+]
+},
+{
+"product_id": 39,
+"product_name": "Heavy Duty Plastic Watch",
+"product_asin": "vjr3m9xcses9",
+"product_image_url": "https://unsplash.it/625/741",
+"keywords": [
+{
+"keyword_id": 115,
+"keyword_name": "laborum",
+"keyword_country": "GL",
+"ranks": [
+{
+"rank_id": 1173,
+"rank_position": 206,
+"rank_page": 6,
+"rank_date": "2016-06-27"
+},
+{
+"rank_id": 1174,
+"rank_position": 37,
+"rank_page": 2,
+"rank_date": "2016-08-19"
+}
+]
+},
+{
+"keyword_id": 116,
+"keyword_name": "dolores",
+"keyword_country": "TT",
+"ranks": [
+{
+"rank_id": 1175,
+"rank_position": 74,
+"rank_page": 1,
+"rank_date": "2017-01-17"
+},
+{
+"rank_id": 1176,
+"rank_position": 116,
+"rank_page": 19,
+"rank_date": "2016-09-11"
+},
+{
+"rank_id": 1177,
+"rank_position": 209,
+"rank_page": 8,
+"rank_date": "2016-04-14"
+},
+{
+"rank_id": 1178,
+"rank_position": 357,
+"rank_page": 19,
+"rank_date": "2016-12-26"
+},
+{
+"rank_id": 1179,
+"rank_position": 326,
+"rank_page": 4,
+"rank_date": "2016-06-18"
+},
+{
+"rank_id": 1180,
+"rank_position": 66,
+"rank_page": 16,
+"rank_date": "2016-09-16"
+},
+{
+"rank_id": 1181,
+"rank_position": 236,
+"rank_page": 13,
+"rank_date": "2016-06-11"
+}
+]
+},
+{
+"keyword_id": 117,
+"keyword_name": "sed",
+"keyword_country": "DO",
+"ranks": [
+{
+"rank_id": 1182,
+"rank_position": 330,
+"rank_page": 16,
+"rank_date": "2016-06-06"
+},
+{
+"rank_id": 1183,
+"rank_position": 194,
+"rank_page": 3,
+"rank_date": "2017-01-19"
+},
+{
+"rank_id": 1184,
+"rank_position": 7,
+"rank_page": 13,
+"rank_date": "2016-09-01"
+},
+{
+"rank_id": 1185,
+"rank_position": 17,
+"rank_page": 10,
+"rank_date": "2016-08-05"
+},
+{
+"rank_id": 1186,
+"rank_position": 324,
+"rank_page": 14,
+"rank_date": "2016-08-30"
+},
+{
+"rank_id": 1187,
+"rank_position": 347,
+"rank_page": 8,
+"rank_date": "2016-09-01"
+},
+{
+"rank_id": 1188,
+"rank_position": 343,
+"rank_page": 4,
+"rank_date": "2016-03-11"
+},
+{
+"rank_id": 1189,
+"rank_position": 116,
+"rank_page": 12,
+"rank_date": "2016-10-27"
+},
+{
+"rank_id": 1190,
+"rank_position": 316,
+"rank_page": 1,
+"rank_date": "2016-09-12"
+},
+{
+"rank_id": 1191,
+"rank_position": 260,
+"rank_page": 6,
+"rank_date": "2017-01-07"
+},
+{
+"rank_id": 1192,
+"rank_position": 357,
+"rank_page": 9,
+"rank_date": "2016-08-18"
+},
+{
+"rank_id": 1193,
+"rank_position": 201,
+"rank_page": 19,
+"rank_date": "2016-02-03"
+},
+{
+"rank_id": 1194,
+"rank_position": 157,
+"rank_page": 3,
+"rank_date": "2016-08-17"
+},
+{
+"rank_id": 1195,
+"rank_position": 301,
+"rank_page": 10,
+"rank_date": "2016-06-24"
+},
+{
+"rank_id": 1196,
+"rank_position": 5,
+"rank_page": 10,
+"rank_date": "2016-11-02"
+},
+{
+"rank_id": 1197,
+"rank_position": 101,
+"rank_page": 17,
+"rank_date": "2016-09-24"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 18,
+"client_name": "Green Inc",
+"products": [
+{
+"product_id": 40,
+"product_name": "Rustic Wool Knife",
+"product_asin": "w9qk5tvslc9e",
+"product_image_url": "https://unsplash.it/756/415",
+"keywords": [
+{
+"keyword_id": 118,
+"keyword_name": "iusto",
+"keyword_country": "VU",
+"ranks": [
+{
+"rank_id": 1198,
+"rank_position": 220,
+"rank_page": 20,
+"rank_date": "2016-12-06"
+},
+{
+"rank_id": 1199,
+"rank_position": 290,
+"rank_page": 11,
+"rank_date": "2016-02-27"
+},
+{
+"rank_id": 1200,
+"rank_position": 14,
+"rank_page": 11,
+"rank_date": "2016-02-24"
+},
+{
+"rank_id": 1201,
+"rank_position": 102,
+"rank_page": 14,
+"rank_date": "2016-12-14"
+},
+{
+"rank_id": 1202,
+"rank_position": 107,
+"rank_page": 5,
+"rank_date": "2016-09-27"
+},
+{
+"rank_id": 1203,
+"rank_position": 182,
+"rank_page": 5,
+"rank_date": "2016-03-03"
+},
+{
+"rank_id": 1204,
+"rank_position": 304,
+"rank_page": 2,
+"rank_date": "2016-06-22"
+},
+{
+"rank_id": 1205,
+"rank_position": 249,
+"rank_page": 3,
+"rank_date": "2016-05-15"
+},
+{
+"rank_id": 1206,
+"rank_position": 33,
+"rank_page": 18,
+"rank_date": "2016-06-15"
+},
+{
+"rank_id": 1207,
+"rank_position": 240,
+"rank_page": 7,
+"rank_date": "2016-02-18"
+},
+{
+"rank_id": 1208,
+"rank_position": 33,
+"rank_page": 20,
+"rank_date": "2016-03-02"
+},
+{
+"rank_id": 1209,
+"rank_position": 46,
+"rank_page": 10,
+"rank_date": "2016-08-31"
+},
+{
+"rank_id": 1210,
+"rank_position": 298,
+"rank_page": 16,
+"rank_date": "2016-02-11"
+}
+]
+},
+{
+"keyword_id": 119,
+"keyword_name": "quia",
+"keyword_country": "AF",
+"ranks": [
+{
+"rank_id": 1211,
+"rank_position": 247,
+"rank_page": 14,
+"rank_date": "2016-11-30"
+},
+{
+"rank_id": 1212,
+"rank_position": 10,
+"rank_page": 10,
+"rank_date": "2016-11-27"
+},
+{
+"rank_id": 1213,
+"rank_position": 91,
+"rank_page": 19,
+"rank_date": "2016-08-12"
+},
+{
+"rank_id": 1214,
+"rank_position": 149,
+"rank_page": 10,
+"rank_date": "2017-01-03"
+},
+{
+"rank_id": 1215,
+"rank_position": 94,
+"rank_page": 5,
+"rank_date": "2016-08-10"
+},
+{
+"rank_id": 1216,
+"rank_position": 336,
+"rank_page": 19,
+"rank_date": "2016-10-01"
+},
+{
+"rank_id": 1217,
+"rank_position": 190,
+"rank_page": 15,
+"rank_date": "2016-08-03"
+},
+{
+"rank_id": 1218,
+"rank_position": 91,
+"rank_page": 18,
+"rank_date": "2016-10-05"
+},
+{
+"rank_id": 1219,
+"rank_position": 22,
+"rank_page": 6,
+"rank_date": "2016-08-21"
+},
+{
+"rank_id": 1220,
+"rank_position": 250,
+"rank_page": 4,
+"rank_date": "2016-12-12"
+},
+{
+"rank_id": 1221,
+"rank_position": 164,
+"rank_page": 10,
+"rank_date": "2017-01-16"
+}
+]
+},
+{
+"keyword_id": 120,
+"keyword_name": "minima",
+"keyword_country": "SO",
+"ranks": [
+{
+"rank_id": 1222,
+"rank_position": 215,
+"rank_page": 11,
+"rank_date": "2016-02-23"
+},
+{
+"rank_id": 1223,
+"rank_position": 355,
+"rank_page": 18,
+"rank_date": "2016-10-26"
+},
+{
+"rank_id": 1224,
+"rank_position": 219,
+"rank_page": 3,
+"rank_date": "2016-12-13"
+},
+{
+"rank_id": 1225,
+"rank_position": 288,
+"rank_page": 2,
+"rank_date": "2016-05-20"
+},
+{
+"rank_id": 1226,
+"rank_position": 5,
+"rank_page": 12,
+"rank_date": "2016-09-12"
+},
+{
+"rank_id": 1227,
+"rank_position": 213,
+"rank_page": 19,
+"rank_date": "2016-04-01"
+},
+{
+"rank_id": 1228,
+"rank_position": 9,
+"rank_page": 4,
+"rank_date": "2016-12-18"
+},
+{
+"rank_id": 1229,
+"rank_position": 96,
+"rank_page": 20,
+"rank_date": "2016-07-15"
+},
+{
+"rank_id": 1230,
+"rank_position": 231,
+"rank_page": 4,
+"rank_date": "2016-04-06"
+},
+{
+"rank_id": 1231,
+"rank_position": 327,
+"rank_page": 19,
+"rank_date": "2016-04-02"
+},
+{
+"rank_id": 1232,
+"rank_position": 225,
+"rank_page": 2,
+"rank_date": "2016-07-04"
+},
+{
+"rank_id": 1233,
+"rank_position": 130,
+"rank_page": 18,
+"rank_date": "2016-11-12"
+},
+{
+"rank_id": 1234,
+"rank_position": 273,
+"rank_page": 17,
+"rank_date": "2016-10-19"
+},
+{
+"rank_id": 1235,
+"rank_position": 210,
+"rank_page": 5,
+"rank_date": "2016-04-08"
+},
+{
+"rank_id": 1236,
+"rank_position": 163,
+"rank_page": 18,
+"rank_date": "2016-10-25"
+},
+{
+"rank_id": 1237,
+"rank_position": 38,
+"rank_page": 12,
+"rank_date": "2016-04-28"
+},
+{
+"rank_id": 1238,
+"rank_position": 347,
+"rank_page": 1,
+"rank_date": "2016-06-24"
+}
+]
+},
+{
+"keyword_id": 121,
+"keyword_name": "distinctio",
+"keyword_country": "TT",
+"ranks": [
+{
+"rank_id": 1239,
+"rank_position": 189,
+"rank_page": 7,
+"rank_date": "2016-07-25"
+},
+{
+"rank_id": 1240,
+"rank_position": 22,
+"rank_page": 3,
+"rank_date": "2016-11-06"
+},
+{
+"rank_id": 1241,
+"rank_position": 78,
+"rank_page": 6,
+"rank_date": "2016-09-11"
+},
+{
+"rank_id": 1242,
+"rank_position": 355,
+"rank_page": 3,
+"rank_date": "2016-11-30"
+},
+{
+"rank_id": 1243,
+"rank_position": 84,
+"rank_page": 14,
+"rank_date": "2016-03-06"
+},
+{
+"rank_id": 1244,
+"rank_position": 151,
+"rank_page": 14,
+"rank_date": "2017-01-13"
+},
+{
+"rank_id": 1245,
+"rank_position": 134,
+"rank_page": 17,
+"rank_date": "2016-08-09"
+},
+{
+"rank_id": 1246,
+"rank_position": 158,
+"rank_page": 9,
+"rank_date": "2016-08-28"
+},
+{
+"rank_id": 1247,
+"rank_position": 31,
+"rank_page": 19,
+"rank_date": "2016-04-22"
+},
+{
+"rank_id": 1248,
+"rank_position": 390,
+"rank_page": 3,
+"rank_date": "2016-11-06"
+},
+{
+"rank_id": 1249,
+"rank_position": 277,
+"rank_page": 9,
+"rank_date": "2016-05-31"
+},
+{
+"rank_id": 1250,
+"rank_position": 171,
+"rank_page": 18,
+"rank_date": "2016-12-23"
+},
+{
+"rank_id": 1251,
+"rank_position": 362,
+"rank_page": 14,
+"rank_date": "2016-11-14"
+},
+{
+"rank_id": 1252,
+"rank_position": 206,
+"rank_page": 20,
+"rank_date": "2016-02-14"
+},
+{
+"rank_id": 1253,
+"rank_position": 26,
+"rank_page": 10,
+"rank_date": "2016-10-29"
+}
+]
+}
+]
+},
+{
+"product_id": 41,
+"product_name": "Lightweight Leather Bottle",
+"product_asin": "9vc2i9dyysq0",
+"product_image_url": "https://unsplash.it/535/472",
+"keywords": [
+{
+"keyword_id": 122,
+"keyword_name": "asperiores",
+"keyword_country": "ZA",
+"ranks": [
+{
+"rank_id": 1254,
+"rank_position": 183,
+"rank_page": 12,
+"rank_date": "2016-11-11"
+},
+{
+"rank_id": 1255,
+"rank_position": 372,
+"rank_page": 4,
+"rank_date": "2016-02-21"
+},
+{
+"rank_id": 1256,
+"rank_position": 139,
+"rank_page": 11,
+"rank_date": "2016-10-11"
+},
+{
+"rank_id": 1257,
+"rank_position": 280,
+"rank_page": 3,
+"rank_date": "2016-06-19"
+},
+{
+"rank_id": 1258,
+"rank_position": 100,
+"rank_page": 17,
+"rank_date": "2016-04-06"
+},
+{
+"rank_id": 1259,
+"rank_position": 131,
+"rank_page": 13,
+"rank_date": "2017-01-03"
+},
+{
+"rank_id": 1260,
+"rank_position": 176,
+"rank_page": 2,
+"rank_date": "2016-07-04"
+},
+{
+"rank_id": 1261,
+"rank_position": 272,
+"rank_page": 4,
+"rank_date": "2016-08-02"
+},
+{
+"rank_id": 1262,
+"rank_position": 231,
+"rank_page": 12,
+"rank_date": "2016-08-17"
+},
+{
+"rank_id": 1263,
+"rank_position": 2,
+"rank_page": 8,
+"rank_date": "2016-12-16"
+},
+{
+"rank_id": 1264,
+"rank_position": 120,
+"rank_page": 18,
+"rank_date": "2016-09-25"
+},
+{
+"rank_id": 1265,
+"rank_position": 267,
+"rank_page": 5,
+"rank_date": "2016-03-08"
+},
+{
+"rank_id": 1266,
+"rank_position": 178,
+"rank_page": 20,
+"rank_date": "2016-10-22"
+},
+{
+"rank_id": 1267,
+"rank_position": 147,
+"rank_page": 2,
+"rank_date": "2016-08-10"
+},
+{
+"rank_id": 1268,
+"rank_position": 363,
+"rank_page": 2,
+"rank_date": "2016-12-28"
+},
+{
+"rank_id": 1269,
+"rank_position": 183,
+"rank_page": 20,
+"rank_date": "2016-09-02"
+},
+{
+"rank_id": 1270,
+"rank_position": 326,
+"rank_page": 20,
+"rank_date": "2016-04-05"
+},
+{
+"rank_id": 1271,
+"rank_position": 56,
+"rank_page": 5,
+"rank_date": "2016-08-16"
+}
+]
+},
+{
+"keyword_id": 123,
+"keyword_name": "atque",
+"keyword_country": "UM",
+"ranks": [
+{
+"rank_id": 1272,
+"rank_position": 80,
+"rank_page": 2,
+"rank_date": "2016-05-17"
+},
+{
+"rank_id": 1273,
+"rank_position": 324,
+"rank_page": 18,
+"rank_date": "2016-05-20"
+},
+{
+"rank_id": 1274,
+"rank_position": 189,
+"rank_page": 12,
+"rank_date": "2016-04-30"
+},
+{
+"rank_id": 1275,
+"rank_position": 25,
+"rank_page": 13,
+"rank_date": "2017-01-29"
+}
+]
+},
+{
+"keyword_id": 124,
+"keyword_name": "tempore",
+"keyword_country": "SZ",
+"ranks": [
+{
+"rank_id": 1276,
+"rank_position": 97,
+"rank_page": 12,
+"rank_date": "2016-11-26"
+},
+{
+"rank_id": 1277,
+"rank_position": 373,
+"rank_page": 15,
+"rank_date": "2016-04-15"
+},
+{
+"rank_id": 1278,
+"rank_position": 280,
+"rank_page": 5,
+"rank_date": "2017-01-19"
+},
+{
+"rank_id": 1279,
+"rank_position": 7,
+"rank_page": 5,
+"rank_date": "2016-06-12"
+},
+{
+"rank_id": 1280,
+"rank_position": 195,
+"rank_page": 3,
+"rank_date": "2016-02-07"
+},
+{
+"rank_id": 1281,
+"rank_position": 301,
+"rank_page": 16,
+"rank_date": "2016-03-05"
+},
+{
+"rank_id": 1282,
+"rank_position": 357,
+"rank_page": 12,
+"rank_date": "2016-09-19"
+},
+{
+"rank_id": 1283,
+"rank_position": 156,
+"rank_page": 10,
+"rank_date": "2016-10-01"
+},
+{
+"rank_id": 1284,
+"rank_position": 73,
+"rank_page": 13,
+"rank_date": "2016-08-20"
+},
+{
+"rank_id": 1285,
+"rank_position": 208,
+"rank_page": 17,
+"rank_date": "2016-04-12"
+},
+{
+"rank_id": 1286,
+"rank_position": 173,
+"rank_page": 2,
+"rank_date": "2016-05-27"
+},
+{
+"rank_id": 1287,
+"rank_position": 381,
+"rank_page": 11,
+"rank_date": "2016-05-18"
+},
+{
+"rank_id": 1288,
+"rank_position": 330,
+"rank_page": 6,
+"rank_date": "2016-08-21"
+},
+{
+"rank_id": 1289,
+"rank_position": 27,
+"rank_page": 17,
+"rank_date": "2017-01-11"
+},
+{
+"rank_id": 1290,
+"rank_position": 294,
+"rank_page": 19,
+"rank_date": "2016-10-08"
+},
+{
+"rank_id": 1291,
+"rank_position": 22,
+"rank_page": 20,
+"rank_date": "2016-03-09"
+}
+]
+},
+{
+"keyword_id": 125,
+"keyword_name": "iure",
+"keyword_country": "PH",
+"ranks": [
+{
+"rank_id": 1292,
+"rank_position": 315,
+"rank_page": 4,
+"rank_date": "2016-09-26"
+},
+{
+"rank_id": 1293,
+"rank_position": 237,
+"rank_page": 16,
+"rank_date": "2016-10-03"
+},
+{
+"rank_id": 1294,
+"rank_position": 238,
+"rank_page": 7,
+"rank_date": "2016-03-24"
+},
+{
+"rank_id": 1295,
+"rank_position": 143,
+"rank_page": 12,
+"rank_date": "2016-11-25"
+},
+{
+"rank_id": 1296,
+"rank_position": 94,
+"rank_page": 5,
+"rank_date": "2016-07-07"
+},
+{
+"rank_id": 1297,
+"rank_position": 43,
+"rank_page": 10,
+"rank_date": "2016-07-18"
+},
+{
+"rank_id": 1298,
+"rank_position": 108,
+"rank_page": 16,
+"rank_date": "2016-07-23"
+}
+]
+},
+{
+"keyword_id": 126,
+"keyword_name": "tempore",
+"keyword_country": "BG",
+"ranks": [
+{
+"rank_id": 1299,
+"rank_position": 174,
+"rank_page": 14,
+"rank_date": "2016-03-26"
+},
+{
+"rank_id": 1300,
+"rank_position": 96,
+"rank_page": 9,
+"rank_date": "2016-11-30"
+}
+]
+}
+]
+},
+{
+"product_id": 42,
+"product_name": "Ergonomic Bronze Keyboard",
+"product_asin": "yz8i82h5jyfy",
+"product_image_url": "https://unsplash.it/478/418",
+"keywords": [
+{
+"keyword_id": 127,
+"keyword_name": "qui",
+"keyword_country": "MS",
+"ranks": [
+{
+"rank_id": 1301,
+"rank_position": 51,
+"rank_page": 19,
+"rank_date": "2016-08-26"
+},
+{
+"rank_id": 1302,
+"rank_position": 117,
+"rank_page": 6,
+"rank_date": "2016-09-11"
+},
+{
+"rank_id": 1303,
+"rank_position": 325,
+"rank_page": 9,
+"rank_date": "2016-12-18"
+},
+{
+"rank_id": 1304,
+"rank_position": 68,
+"rank_page": 12,
+"rank_date": "2016-06-09"
+},
+{
+"rank_id": 1305,
+"rank_position": 265,
+"rank_page": 17,
+"rank_date": "2016-08-24"
+},
+{
+"rank_id": 1306,
+"rank_position": 128,
+"rank_page": 13,
+"rank_date": "2016-06-05"
+},
+{
+"rank_id": 1307,
+"rank_position": 378,
+"rank_page": 17,
+"rank_date": "2016-07-04"
+},
+{
+"rank_id": 1308,
+"rank_position": 70,
+"rank_page": 3,
+"rank_date": "2016-05-01"
+},
+{
+"rank_id": 1309,
+"rank_position": 79,
+"rank_page": 19,
+"rank_date": "2016-08-29"
+},
+{
+"rank_id": 1310,
+"rank_position": 248,
+"rank_page": 15,
+"rank_date": "2016-09-04"
+},
+{
+"rank_id": 1311,
+"rank_position": 108,
+"rank_page": 18,
+"rank_date": "2016-10-26"
+},
+{
+"rank_id": 1312,
+"rank_position": 104,
+"rank_page": 12,
+"rank_date": "2016-05-28"
+},
+{
+"rank_id": 1313,
+"rank_position": 137,
+"rank_page": 20,
+"rank_date": "2016-05-11"
+},
+{
+"rank_id": 1314,
+"rank_position": 285,
+"rank_page": 4,
+"rank_date": "2016-11-09"
+},
+{
+"rank_id": 1315,
+"rank_position": 257,
+"rank_page": 11,
+"rank_date": "2016-05-27"
+},
+{
+"rank_id": 1316,
+"rank_position": 365,
+"rank_page": 14,
+"rank_date": "2016-04-10"
+},
+{
+"rank_id": 1317,
+"rank_position": 141,
+"rank_page": 10,
+"rank_date": "2016-04-30"
+},
+{
+"rank_id": 1318,
+"rank_position": 111,
+"rank_page": 12,
+"rank_date": "2016-12-28"
+},
+{
+"rank_id": 1319,
+"rank_position": 174,
+"rank_page": 20,
+"rank_date": "2016-02-09"
+}
+]
+},
+{
+"keyword_id": 128,
+"keyword_name": "tempora",
+"keyword_country": "IO",
+"ranks": [
+{
+"rank_id": 1320,
+"rank_position": 289,
+"rank_page": 17,
+"rank_date": "2016-05-06"
+},
+{
+"rank_id": 1321,
+"rank_position": 381,
+"rank_page": 2,
+"rank_date": "2016-11-10"
+},
+{
+"rank_id": 1322,
+"rank_position": 384,
+"rank_page": 19,
+"rank_date": "2016-10-10"
+},
+{
+"rank_id": 1323,
+"rank_position": 335,
+"rank_page": 5,
+"rank_date": "2016-04-02"
+},
+{
+"rank_id": 1324,
+"rank_position": 362,
+"rank_page": 14,
+"rank_date": "2016-04-14"
+},
+{
+"rank_id": 1325,
+"rank_position": 303,
+"rank_page": 14,
+"rank_date": "2016-12-24"
+},
+{
+"rank_id": 1326,
+"rank_position": 101,
+"rank_page": 7,
+"rank_date": "2016-10-16"
+},
+{
+"rank_id": 1327,
+"rank_position": 294,
+"rank_page": 14,
+"rank_date": "2016-10-10"
+}
+]
+},
+{
+"keyword_id": 129,
+"keyword_name": "ratione",
+"keyword_country": "LS",
+"ranks": [
+{
+"rank_id": 1328,
+"rank_position": 233,
+"rank_page": 1,
+"rank_date": "2016-05-05"
+},
+{
+"rank_id": 1329,
+"rank_position": 246,
+"rank_page": 1,
+"rank_date": "2016-05-20"
+},
+{
+"rank_id": 1330,
+"rank_position": 12,
+"rank_page": 10,
+"rank_date": "2016-11-09"
+},
+{
+"rank_id": 1331,
+"rank_position": 295,
+"rank_page": 15,
+"rank_date": "2016-06-13"
+},
+{
+"rank_id": 1332,
+"rank_position": 8,
+"rank_page": 6,
+"rank_date": "2016-05-19"
+},
+{
+"rank_id": 1333,
+"rank_position": 202,
+"rank_page": 20,
+"rank_date": "2016-05-08"
+},
+{
+"rank_id": 1334,
+"rank_position": 246,
+"rank_page": 3,
+"rank_date": "2016-10-23"
+},
+{
+"rank_id": 1335,
+"rank_position": 146,
+"rank_page": 11,
+"rank_date": "2017-01-05"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 19,
+"client_name": "Kling LLC",
+"products": [
+{
+"product_id": 43,
+"product_name": "Ergonomic Plastic Lamp",
+"product_asin": "yzpb1pw86xrd",
+"product_image_url": "https://unsplash.it/471/795",
+"keywords": [
+{
+"keyword_id": 130,
+"keyword_name": "ut",
+"keyword_country": "AM",
+"ranks": [
+{
+"rank_id": 1336,
+"rank_position": 287,
+"rank_page": 18,
+"rank_date": "2016-09-02"
+},
+{
+"rank_id": 1337,
+"rank_position": 337,
+"rank_page": 2,
+"rank_date": "2016-04-16"
+},
+{
+"rank_id": 1338,
+"rank_position": 87,
+"rank_page": 1,
+"rank_date": "2016-10-01"
+},
+{
+"rank_id": 1339,
+"rank_position": 192,
+"rank_page": 5,
+"rank_date": "2016-09-06"
+},
+{
+"rank_id": 1340,
+"rank_position": 18,
+"rank_page": 19,
+"rank_date": "2016-11-10"
+},
+{
+"rank_id": 1341,
+"rank_position": 180,
+"rank_page": 15,
+"rank_date": "2016-12-07"
+},
+{
+"rank_id": 1342,
+"rank_position": 192,
+"rank_page": 6,
+"rank_date": "2016-09-22"
+},
+{
+"rank_id": 1343,
+"rank_position": 61,
+"rank_page": 17,
+"rank_date": "2016-04-17"
+},
+{
+"rank_id": 1344,
+"rank_position": 39,
+"rank_page": 11,
+"rank_date": "2016-09-29"
+},
+{
+"rank_id": 1345,
+"rank_position": 143,
+"rank_page": 8,
+"rank_date": "2016-11-15"
+},
+{
+"rank_id": 1346,
+"rank_position": 202,
+"rank_page": 2,
+"rank_date": "2016-12-16"
+},
+{
+"rank_id": 1347,
+"rank_position": 302,
+"rank_page": 3,
+"rank_date": "2016-05-24"
+},
+{
+"rank_id": 1348,
+"rank_position": 194,
+"rank_page": 19,
+"rank_date": "2016-06-15"
+}
+]
+},
+{
+"keyword_id": 131,
+"keyword_name": "aperiam",
+"keyword_country": "MF",
+"ranks": [
+{
+"rank_id": 1349,
+"rank_position": 9,
+"rank_page": 10,
+"rank_date": "2017-01-11"
+}
+]
+}
+]
+}
+]
+},
+{
+"client_id": 20,
+"client_name": "Gutkowski, Kertzmann and Reichel",
+"products": [
+{
+"product_id": 44,
+"product_name": "Aerodynamic Silk Gloves",
+"product_asin": "ppjgr0rkgmfm",
+"product_image_url": "https://unsplash.it/638/341",
+"keywords": [
+{
+"keyword_id": 132,
+"keyword_name": "pariatur",
+"keyword_country": "VU",
+"ranks": [
+{
+"rank_id": 1350,
+"rank_position": 131,
+"rank_page": 2,
+"rank_date": "2016-03-01"
+},
+{
+"rank_id": 1351,
+"rank_position": 352,
+"rank_page": 2,
+"rank_date": "2016-06-23"
+},
+{
+"rank_id": 1352,
+"rank_position": 306,
+"rank_page": 5,
+"rank_date": "2016-10-11"
+},
+{
+"rank_id": 1353,
+"rank_position": 373,
+"rank_page": 8,
+"rank_date": "2016-11-30"
+},
+{
+"rank_id": 1354,
+"rank_position": 397,
+"rank_page": 6,
+"rank_date": "2016-02-17"
+},
+{
+"rank_id": 1355,
+"rank_position": 268,
+"rank_page": 10,
+"rank_date": "2016-05-30"
+},
+{
+"rank_id": 1356,
+"rank_position": 317,
+"rank_page": 12,
+"rank_date": "2016-08-16"
+},
+{
+"rank_id": 1357,
+"rank_position": 357,
+"rank_page": 15,
+"rank_date": "2016-10-28"
+},
+{
+"rank_id": 1358,
+"rank_position": 253,
+"rank_page": 2,
+"rank_date": "2016-07-01"
+}
+]
+},
+{
+"keyword_id": 133,
+"keyword_name": "voluptas",
+"keyword_country": "AL",
+"ranks": [
+{
+"rank_id": 1359,
+"rank_position": 295,
+"rank_page": 4,
+"rank_date": "2016-05-07"
+},
+{
+"rank_id": 1360,
+"rank_position": 220,
+"rank_page": 2,
+"rank_date": "2016-02-12"
+},
+{
+"rank_id": 1361,
+"rank_position": 12,
+"rank_page": 12,
+"rank_date": "2016-02-28"
+},
+{
+"rank_id": 1362,
+"rank_position": 362,
+"rank_page": 14,
+"rank_date": "2016-05-08"
+},
+{
+"rank_id": 1363,
+"rank_position": 254,
+"rank_page": 2,
+"rank_date": "2016-07-14"
+},
+{
+"rank_id": 1364,
+"rank_position": 73,
+"rank_page": 7,
+"rank_date": "2016-03-19"
+},
+{
+"rank_id": 1365,
+"rank_position": 359,
+"rank_page": 4,
+"rank_date": "2016-08-12"
+}
+]
+},
+{
+"keyword_id": 134,
+"keyword_name": "cumque",
+"keyword_country": "ZA",
+"ranks": [
+{
+"rank_id": 1366,
+"rank_position": 35,
+"rank_page": 18,
+"rank_date": "2016-10-20"
+},
+{
+"rank_id": 1367,
+"rank_position": 164,
+"rank_page": 12,
+"rank_date": "2016-09-14"
+},
+{
+"rank_id": 1368,
+"rank_position": 129,
+"rank_page": 10,
+"rank_date": "2017-01-01"
+},
+{
+"rank_id": 1369,
+"rank_position": 63,
+"rank_page": 13,
+"rank_date": "2016-03-26"
+},
+{
+"rank_id": 1370,
+"rank_position": 166,
+"rank_page": 10,
+"rank_date": "2016-05-17"
+},
+{
+"rank_id": 1371,
+"rank_position": 181,
+"rank_page": 18,
+"rank_date": "2017-01-06"
+},
+{
+"rank_id": 1372,
+"rank_position": 210,
+"rank_page": 10,
+"rank_date": "2016-10-25"
+},
+{
+"rank_id": 1373,
+"rank_position": 390,
+"rank_page": 6,
+"rank_date": "2016-11-29"
+},
+{
+"rank_id": 1374,
+"rank_position": 47,
+"rank_page": 4,
+"rank_date": "2016-03-06"
+},
+{
+"rank_id": 1375,
+"rank_position": 258,
+"rank_page": 17,
+"rank_date": "2016-08-07"
+}
+]
+},
+{
+"keyword_id": 135,
+"keyword_name": "quo",
+"keyword_country": "IR",
+"ranks": [
+{
+"rank_id": 1376,
+"rank_position": 118,
+"rank_page": 4,
+"rank_date": "2016-06-13"
+},
+{
+"rank_id": 1377,
+"rank_position": 150,
+"rank_page": 20,
+"rank_date": "2016-10-14"
+},
+{
+"rank_id": 1378,
+"rank_position": 164,
+"rank_page": 16,
+"rank_date": "2016-04-18"
+},
+{
+"rank_id": 1379,
+"rank_position": 43,
+"rank_page": 8,
+"rank_date": "2016-06-23"
+},
+{
+"rank_id": 1380,
+"rank_position": 134,
+"rank_page": 11,
+"rank_date": "2016-06-02"
+},
+{
+"rank_id": 1381,
+"rank_position": 112,
+"rank_page": 8,
+"rank_date": "2016-10-10"
+},
+{
+"rank_id": 1382,
+"rank_position": 118,
+"rank_page": 7,
+"rank_date": "2016-09-06"
+},
+{
+"rank_id": 1383,
+"rank_position": 214,
+"rank_page": 10,
+"rank_date": "2017-01-16"
+}
+]
+}
+]
+}
+]
+}
+]
