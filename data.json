@@ -9,7 +9,43 @@
 "product_asin": "cfq35yoyh64i",
 "product_image_url": "https://unsplash.it/310/676",
 "keywords": [
-{},
+{
+"keyword_id": 1,
+"keyword_name": "nam",
+"keyword_country": "LV",
+"ranks": [
+{
+"rank_id": 1,
+"rank_position": 214,
+"rank_page": 2,
+"rank_date": "2016-08-16"
+},
+{
+"rank_id": 2,
+"rank_position": 82,
+"rank_page": 3,
+"rank_date": "2016-11-12"
+},
+{
+"rank_id": 3,
+"rank_position": 23,
+"rank_page": 4,
+"rank_date": "2017-01-19"
+},
+{
+"rank_id": 4,
+"rank_position": 304,
+"rank_page": 13,
+"rank_date": "2016-04-12"
+},
+{
+"rank_id": 5,
+"rank_position": 342,
+"rank_page": 17,
+"rank_date": "2016-08-08"
+}
+]
+},
 {
 "keyword_id": 2,
 "keyword_name": "autem",
